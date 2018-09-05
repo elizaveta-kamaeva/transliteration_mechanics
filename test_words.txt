@@ -19,7 +19,6 @@ thierry et pascale
 symphonia
 zuger
 sankyo
-baron de la
 freshbubble
 freche
 eaglobe
@@ -153,3 +152,5 @@ dead
 chateau cheval
 macquin
 places
+baron de la
+amour

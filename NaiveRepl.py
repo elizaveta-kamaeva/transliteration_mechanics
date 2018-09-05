@@ -3,7 +3,7 @@ from time import time
 
 
 def punc(word):
-    punc_dict = {"'(?=[^euioay])":""}
+    punc_dict = {"'":""}
     new_word = replacer(word, punc_dict)
     return new_word
 
