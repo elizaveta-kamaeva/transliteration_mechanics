@@ -2,66 +2,82 @@ import re
 from time import time
 
 
-def it_trailer(word):
-    it_ngrams = {'zz\w*[euioa]\Z', 'cc\w*[euioa]\Z', 'tt\w*[euioa]\Z',
-                 'pp\w*[euioa]\Z', 'll\w*[euioa]\Z', 'ss\w*[euioa]\Z',
-                 'rr\w*[euioa]\Z', 'z\w*[euioa]\Z',
-                 '[euioa]c[euioa]\w*[euioa]\Z',
-                 '\A([^euioay-][euioa])+\Z',
-                 'cch\w+', '\Adi\Z'}
-    for ngram in it_ngrams:
+def trail(word, ngrams, maygrams, stopgrams):
+    lang_prob = 0
+    # searching for stop-ngrams
+    for stopgram in stopgrams:
+        found_stopgrams = re.findall(stopgram, word)
+        if found_stopgrams:
+            return 0
+
+    # searching for undisputable ngrams
+    for ngram in ngrams:
         ngram = re.sub(r'\\A', r'(\\s|^)', ngram)
         ngram = re.sub(r'\\Z', r'(\\s|$|-)', ngram)
         found_ngrams = re.findall(ngram, word)
         if found_ngrams:
-            return 1
-    return 0
+            lang_prob += 1
+
+    # searching for possible language ngrams
+    for maygram in maygrams:
+        found_maygrams = re.findall(maygram, word)
+        if found_maygrams:
+            lang_prob += 0.5
+    return lang_prob
+
+
+
+def it_trailer(word):
+    it_ngrams = {'zz\w*[euioa]\Z', 'cc\w*[euioa]\Z', 'tt\w*[euioa]\Z',
+                 'pp\w*[euioa]\Z', 'll\w*[euioa]\Z', 'ss\w*[euioa]\Z',
+                 'rr\w*[euioa]\Z', 'cch\w+',
+                 '\Adi\Z', '\Ail\Z'}
+
+    it_maygrams = {'\A([^euioay-][euioa])+\Z',
+                   '[euioa]c[euioa]\w*[euioa]\Z',
+                   'z\w*[euioa]\Z'}
+
+    it_stopgrams = {'[^euioay]{3}'}
+
+    it_prob = trail(word, it_ngrams, it_maygrams, it_stopgrams)
+    return it_prob
 
 
 def de_trailer(word):
     de_ngrams = {'(ch|sh|ff)\w+(ch|sh|ff)',
-                 'sch', 'chs', 'ß',
-                 'z[^euioay-]', '[^euioay-]z', '[^euioay-]st',
-                 'en\Z', 'ern\Z', 'ung\Z'}
-    de_neg_ngrams = {'x', 'y'}
-    # searching for stop-ngrams
-    for neg_ngram in de_neg_ngrams:
-        found_neg_ngrams = re.findall(neg_ngram, word)
-        if found_neg_ngrams:
-            return 0
+                 'sch', 'chs', 'ß', 'ö', 'ä', 'ü',
+                 '[^euioay-]st', 'ung\Z', '\Aein',
+                 '\Adie\Z', '\Adas\Z', '\Ader\Z'}
 
-    for ngram in de_ngrams:
-        ngram = re.sub(r'\\A', r'(\\s|^)', ngram)
-        ngram = re.sub(r'\\Z', r'(\\s|$|-)', ngram)
-        found_ngrams = re.findall(ngram, word)
-        if found_ngrams:
-            return 1
-    return 0
+    de_maygrams = {'[euioa]{2}.*[^eouia-]{3}.*[eouia]{2}',
+                   '[^euioa-]{4}',
+                   '[^euioay-]en\Z', '[^euioay-]ern\Z',
+                   '[^euioay-]z', 'z[^euioay-]',
+                   'eich', 'z'}
+
+    de_stopgrams = {'x', 'y', 'tion', '[eiaou]{2}\Z'}
+
+    de_prob = trail(word, de_ngrams, de_maygrams, de_stopgrams)
+    return de_prob
 
 
 def fr_trailer(word):
-    fr_ngrams = {'[euioa]{3}', '\Ala\w+[euioay]{2}',
-                 'ch\w*[euioay]{2}',
-                 'ouch', 'eur', '\wou(?!gh)',
-                 'ngie\Z', 'gnie\Z', 'oix\Z',
-                 'ux\Z', 'que', 'au\Z',
-                 "\Ad'", "\Al'",
-                 '\Ales\Z', '\Ale\Z', '\Adu\Z', '\Ade\Z',
-                 '\Ala\Z', '\Ale\Z'}
-    fr_neg_ngrams = {'sh', 'w', 'you'}
-    # searching for stop-ngrams
-    for neg_ngram in fr_neg_ngrams:
-        found_neg_ngrams = re.findall(neg_ngram, word)
-        if found_neg_ngrams:
-            return 0
-    # searching for needed ngrams
-    for ngram in fr_ngrams:
-        ngram = re.sub(r'\\A', r'(\\s|^)', ngram)
-        ngram = re.sub(r'\\Z', r'(\\s|$|-)', ngram)
-        found_ngrams = re.findall(ngram, word)
-        if found_ngrams:
-            return 1
-    return 0
+    fr_ngrams = {'[euioa]{3}',
+                 'ouch', 'eur', 'ance', '\wou(?!gh)',
+                 'ngie\Z', 'gnie\Z', 'oix\Z', 'ux\Z', 'oir\Z',
+                 "\Ad'", "\Al'", '\Ala\Z', '\Ale\Z',
+                 '\A?les\Z', '\Ale\Z', '\Adu\Z', '\Ade\Z',
+                 'é', 'è', 'à', 'ù', 'que',
+                 'ê', 'â', 'ô', 'î', 'û',
+                 'ë', 'ï', 'ü', 'ÿ', 'ç'}
+
+    fr_maygrams = {'ch\w*[euioay]{2}', '\Ala\w+[euioay]{2}',
+                   'au\Z'}
+
+    fr_stopgrams = {'sh', 'w', 'you'}
+
+    fr_prob = trail(word, fr_ngrams, fr_maygrams, fr_stopgrams)
+    return fr_prob
 
 
 def process(word):

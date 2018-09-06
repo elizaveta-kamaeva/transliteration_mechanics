@@ -16,9 +16,9 @@ def trans_long_ngrams(word):
 
 def trans_ends(word):
     ends_ngrams_dict = {"\Ay(?=[euioa])":"й",
-                        "\Ae(?=[^euioay-])":"э",
+                        "\Ae(?![euioay-])":"э",
                         "(?<=[euioa])y\Z":"й",
-                        "(?<=[^euioa])y\Z":"и",
+                        "(?<![euioa])y\Z":"и",
                         "z\Z":"ц", "ea\Z":"и"}
     new_word = replacer(word, ends_ngrams_dict)
     return new_word
@@ -44,8 +44,7 @@ def trans_literals(word):
 
 def process(word):
     start_time = time()
-    unpuncted_word = punc(word)
-    long_ngrams_replaced = trans_long_ngrams(unpuncted_word)
+    long_ngrams_replaced = trans_long_ngrams(word)
     ends_replaced = trans_ends(long_ngrams_replaced)
     short_ngrams_replaced = trans_short_ngrams(ends_replaced)
     simple_ngrams_replaced = trans_literals(short_ngrams_replaced)
