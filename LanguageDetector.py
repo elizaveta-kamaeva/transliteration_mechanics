@@ -28,13 +28,13 @@ def trail(word, ngrams, maygrams, stopgrams):
 
 
 def it_trailer(word):
-    it_ngrams = {'zz\w*[euioa]\Z', 'cc\w*[euioa]\Z', 'tt\w*[euioa]\Z',
+    it_ngrams = {'\A([^euioay-][euioa])+\Z',
+                 'zz\w*[euioa]\Z', 'cc\w*[euioa]\Z', 'tt\w*[euioa]\Z',
                  'pp\w*[euioa]\Z', 'll\w*[euioa]\Z', 'ss\w*[euioa]\Z',
                  'rr\w*[euioa]\Z', 'cch\w+',
                  '\Adi\Z', '\Ail\Z'}
 
-    it_maygrams = {'\A([^euioay-][euioa])+\Z',
-                   '[euioa]c[euioa]\w*[euioa]\Z',
+    it_maygrams = {'[euioa]c[euioa]\w*[euioa]\Z',
                    'z\w*[euioa]\Z'}
 
     it_stopgrams = {'[^euioay]{3}'}

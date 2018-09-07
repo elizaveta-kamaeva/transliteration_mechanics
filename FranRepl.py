@@ -22,7 +22,7 @@ def trans_conditional(word):
                           'l[eéè]':'ле', 'l[uù]':'лю',
                           '(?<=[euioayéèàù])x{?=[euioayéèàù]\w+}':'кз',
                           '(?<=[euioayéèàù])s(?=[euioayéèàù])':'з',
-                          '(?<=\w{2})[e]\Z':'',}
+                          '(?<=\w{3})[e]\Z':'',}
     new_word = replacer(word, condit_ngrams_dict)
     return new_word
 

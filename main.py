@@ -1,12 +1,13 @@
 from time import time
 import re
+from Replacer import punc_repl
 import NaiveRepl
 import LanguageDetector
 import SpecRepl
 
 
 infile_name = 'sport-translit.csv'
-outfile_name = 'sport-translit-new.txt'
+outfile_name = 'sport-translit-new.csv'
 infile = open(infile_name, 'r', encoding='utf-8')
 outfile = open(outfile_name, 'w', encoding='utf-8')
 
@@ -19,7 +20,7 @@ specific_trans_processing = 0.0
 total_processing = time()
 
 # preparing output
-outfile.write('old_trans;eng_word;new_trans\n')
+outfile.write('raw_word;naive_trans;spec_trans;\n')
 print('Progress:')
 
 # start working
@@ -35,7 +36,7 @@ for line in infile:
           print('The string "{}" is empty '
                 'or less than 2 characters.'.format(raw_word))
           continue
-    word = NaiveRepl.punc(word)
+    word = punc_repl(word)
 
     # naive translit
     naive_trans, naive_time = NaiveRepl.process(word)
@@ -49,8 +50,8 @@ for line in infile:
     spec_trans, spec_time = SpecRepl.delegator(language, word)
     specific_trans_processing += spec_time
 
-    #outfile.write('{};{};{};\n'.format(old_trans, word, naive_trans))
-    outfile.write('{} - {}; {} - {}\n'.format(raw_word, naive_trans, language, spec_trans))
+    outfile.write('{};{};{};\n'.format(raw_word, naive_trans, spec_trans))
+    #outfile.write('{} - {}; {} - {}\n'.format(raw_word, naive_trans, language, spec_trans))
 
     # progress report
     n += 1

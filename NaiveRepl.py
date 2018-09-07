@@ -2,14 +2,8 @@ from Replacer import replacer
 from time import time
 
 
-def punc(word):
-    punc_dict = {"'":""}
-    new_word = replacer(word, punc_dict)
-    return new_word
-
-
 def trans_long_ngrams(word):
-    long_ngram_dict = {"sch":"ш", "eau\Z":"о", "your":"ер", "ya":"я"}
+    long_ngram_dict = {"sch":"ш", "ya":"я"}
     new_word = replacer(word, long_ngram_dict)
     return new_word
 
@@ -18,31 +12,30 @@ def trans_ends(word):
     ends_ngrams_dict = {"\Ay(?=[euioa])":"й",
                         "\Ae(?![euioay-])":"э",
                         "(?<=[euioa])y\Z":"й",
-                        "(?<![euioa])y\Z":"и",
-                        "z\Z":"ц", "ea\Z":"и"}
+                        "(?<![euioa])y\Z":"и"}
     new_word = replacer(word, ends_ngrams_dict)
     return new_word
 
 
 def trans_short_ngrams(word):
     short_ngrams_dict = {"qu":"кв", "ch":"ч", "sh":"ш", "ck":"к", "th":"т",
-                         "ee":"и", "ue":"ью", "oo":"у", "xx":"хх", "yu":"ю",
-                         "ey":"ей", "ph":"ф", "ts":"ц", "you":"ю"}
+                         "ph":"ф", "you":"ю"}
     new_word = replacer(word, short_ngrams_dict)
     return new_word
 
 
 def trans_literals(word):
-    ngrams_dict = {"b":"б", "c":"к", "d":"д", "f":"ф", "g":"г", "h":"х",
+    ngrams_dict = {"b":"б", "c":"c", "d":"д", "f":"ф", "g":"г", "h":"х",
                    "j":"дж", "k":"к", "l":"л", "m":"м", "n":"н", "p":"п",
                    "q":"к", "r":"р", "s":"с", "t":"т", "v":"в", "w":"в",
-                   "x":"кс", "z":"з", "a":"а",  "e":"е",  "i":"и",  "u":"у",
+                   "x":"х", "z":"з", "a":"а",  "e":"е",  "i":"и",  "u":"у",
                    "o":"о",  "y":"и"}
     new_word = replacer(word, ngrams_dict)
     return new_word
 
 
 def process(word):
+    end_list = []
     start_time = time()
     long_ngrams_replaced = trans_long_ngrams(word)
     ends_replaced = trans_ends(long_ngrams_replaced)
