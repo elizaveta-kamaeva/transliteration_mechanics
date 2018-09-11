@@ -1,4 +1,4 @@
-from Replacer import replacer
+from Mechanics import replacer
 from time import time
 
 
@@ -35,7 +35,6 @@ def trans_literals(word):
 
 
 def process(word):
-    end_list = []
     start_time = time()
     long_ngrams_replaced = trans_long_ngrams(word)
     ends_replaced = trans_ends(long_ngrams_replaced)

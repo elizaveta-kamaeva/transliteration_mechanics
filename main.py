@@ -1,18 +1,17 @@
 from time import time
-import re
-from Replacer import punc_repl
+from Mechanics import get_word
 import NaiveRepl
 import LanguageDetector
 import SpecRepl
 
 
-infile_name = 'sport-translit.csv'
-outfile_name = 'sport-translit-new.csv'
+infile_name = 'texts/home_trans_raw.txt'
+outfile_name = 'texts/home_trans_new.txt'
 infile = open(infile_name, 'r', encoding='utf-8')
 outfile = open(outfile_name, 'w', encoding='utf-8')
 
 # for reporting
-file_size = 2000
+file_size = 1045
 n = 0
 naive_trans_processing = 0.0
 language_detector_processing = 0.0
@@ -25,18 +24,10 @@ print('Progress:')
 
 # start working
 for line in infile:
-    old_trans, raw_word = line.split(';')
-    # stripping spaces and punctuation
-    raw_word = raw_word.strip()
-    raw_word = raw_word.lower()
-    word = re.search('[\w&].*[\w&]', raw_word)
-    try:
-          word = word.group()
-    except:
-          print('The string "{}" is empty '
-                'or less than 2 characters.'.format(raw_word))
-          continue
-    word = punc_repl(word)
+    raw_word, word = get_word(line)
+    # if the line is empty, take another line
+    if not word:
+        continue
 
     # naive translit
     naive_trans, naive_time = NaiveRepl.process(word)
@@ -50,8 +41,8 @@ for line in infile:
     spec_trans, spec_time = SpecRepl.delegator(language, word)
     specific_trans_processing += spec_time
 
-    outfile.write('{};{};{};\n'.format(raw_word, naive_trans, spec_trans))
-    #outfile.write('{} - {}; {} - {}\n'.format(raw_word, naive_trans, language, spec_trans))
+    #outfile.write('{};{};{};\n'.format(raw_word, naive_trans, spec_trans))
+    outfile.write('{} - {}; {} - {}\n'.format(raw_word, naive_trans, language, spec_trans))
 
     # progress report
     n += 1

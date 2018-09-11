@@ -47,7 +47,8 @@ def de_trailer(word):
     de_ngrams = {'(ch|sh|ff)\w+(ch|sh|ff)',
                  'sch', 'chs', 'ß', 'ö', 'ä', 'ü',
                  '[^euioay-]st', 'ung\Z', '\Aein',
-                 '\Adie\Z', '\Adas\Z', '\Ader\Z'}
+                 '\Adie\Z', '\Adas\Z', '\Ader\Z',
+                 'mann\Z', 'gut', 'burg'}
 
     de_maygrams = {'[euioa]{2}.*[^eouia-]{3}.*[eouia]{2}',
                    '[^euioa-]{4}',
@@ -74,7 +75,7 @@ def fr_trailer(word):
     fr_maygrams = {'ch\w*[euioay]{2}', '\Ala\w+[euioay]{2}',
                    'au\Z'}
 
-    fr_stopgrams = {'sh', 'w', 'you'}
+    fr_stopgrams = {'sh', 'w', 'you', 'house'}
 
     fr_prob = trail(word, fr_ngrams, fr_maygrams, fr_stopgrams)
     return fr_prob

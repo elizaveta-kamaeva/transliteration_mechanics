@@ -1,4 +1,4 @@
-from Replacer import replacer
+from Mechanics import replacer
 
 
 def trans_long_ngrams(word):
@@ -22,7 +22,7 @@ def trans_conditional(word):
 
 def trans_short_ngrams(word):
     short_ngrams_dict = {'ch':'х', 'tz':'ц', 'sp':'шп',
-                         'ck':'кк', 'ph':'ф', 'sh':'ш',
+                         'ck':'к', 'ph':'ф', 'sh':'ш',
                          'eh':'е','je':'е', 'ju':'ю',
                          'ja':'я','qu':'кв','ei':'ей',
                          'ie':'и', 'eu':'ой'}

@@ -1,4 +1,4 @@
-old_trans;eng_word;new_trans
+raw_word;naive_trans;spec_trans;
 brass - брасс; en - брасс
 complex - cомплех; en - комплекс
 demix - демих; en - демикс
@@ -21,9 +21,9 @@ salomon - саломон; en - сейломон
 torneo - торнео; en - торни
 cobra - cобра; en - кобра
 demix - демих; en - демикс
-sandal - сандал; en - сандол
+sandal - сандал; en - сандал
 basketball - баскетбалл; en - баскетбол
-futsal - футсал; en - фатсол
+futsal - футсал; en - фатсал
 remain - ремаин; en - ремаин
 stepper - степпер; en - степпер
 cardio - cардио; en - кардио
@@ -40,10 +40,10 @@ pilates - пилатес; en - пилейтес
 tennis - теннис; en - теннис
 stern - стерн; en - стерн
 trekker - треккер; en - треккер
-surfing - сурфинг; en - сарфинг
+surfing - сурфинг; en - серфинг
 satila - сатила; ita - сатила
 molten - молтен; en - молтен
-mercurial - мерcуриал; en - меркьюриол
+mercurial - мерcуриал; en - меркериал
 board - боард; en - борд
 protein - протеин; en - протеин
 sport - спорт; en - спорт
@@ -65,14 +65,14 @@ everlast - эверласт; en - эверласт
 spine - спине; en - спин
 mirella - мирелла; ita - мирелла
 anorak - анорак; en - анорак
-futsal - футсал; en - фатсол
+futsal - футсал; en - фатсал
 board - боард; en - борд
-sandal - сандал; en - сандол
+sandal - сандал; en - сандал
 compression - cомпрессион; en - компрешн
 demix - демих; en - демикс
 crete - cрете; en - крет
 niki - ники; ita - ники
-reakt - реакт; en - реакт
+reakt - реакт; en - реа, кт
 cruiser - cруисер; en - круизер
 basket - баскет; en - баскет
 pilates - пилатес; en - пилейтес
@@ -86,7 +86,7 @@ support - суппорт; en - саппорт
 compression - cомпрессион; en - компрешн
 zenit - зенит; en - зенит
 spartak - спартак; en - спартак
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 boxer - бохер; en - боксер
 trekking - треккинг; en - треккинг
 parka - парка; en - парка
@@ -123,7 +123,7 @@ volk - волк; en - волк
 stepper - степпер; en - степпер
 softshell - софтшелл; en - софтшелл
 manchester - манчестер; en - манчестер
-service - сервиcе; en - сервис
+service - сервиcе; en - сервайс
 vapor - вапор; en - вейпор
 longboard - лонгбоард; en - лонгборд
 axis - ахис; en - аксис
@@ -200,7 +200,7 @@ first - фирст; ger - фиршт
 trekking - треккинг; en - треккинг
 tiempo - тиемпо; en - тимпо
 trekker - треккер; en - треккер
-original - оригинал; en - ориджинол
+original - оригинал; en - ориджинал
 marvel - марвел; en - марвел
 parka - парка; en - парка
 torneo - торнео; en - торни
@@ -240,7 +240,7 @@ magista - магиста; en - маджиста
 sport - спорт; en - спорт
 donic - дониc; en - доник
 coleman - cолеман; en - колеман
-surfing - сурфинг; en - сарфинг
+surfing - сурфинг; en - серфинг
 compress - cомпресс; en - компресс
 support - суппорт; en - саппорт
 board - боард; en - борд
@@ -251,7 +251,7 @@ oxelo - охело; en - оксело
 mikasa - микаса; ita - микаса
 penny - пенни; en - пенни
 polyester - полиестер; en - полестер
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 amaster - амастер; en - амастер
 box - бох; en - бокс
 zenit - зенит; en - зенит
@@ -271,7 +271,7 @@ salomon - саломон; en - сейломон
 presta - преста; en - преста
 kettler - кеттлер; en - кеттлер
 mirella - мирелла; ita - мирелла
-metallic - металлиc; en - метолик
+metallic - металлиc; en - метол ик
 legend - легенд; en - ледженд
 mystic - мистиc; en - мистик
 legend - легенд; en - ледженд
@@ -319,7 +319,7 @@ pull - пулл; en - палл
 training - траининг; en - траининг
 cortez - cортез; en - кортез
 alpinisme - алпинисме; en - алпинисм
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 hypervenom - хипервеном; en - хипервеном
 roxy - рохи; en - рокси
 start - старт; en - старт
@@ -329,7 +329,7 @@ kettler - кеттлер; en - кеттлер
 graf - граф; en - граф
 progressor - прогрессор; en - прогрессор
 stark - старк; en - старк
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 dalen - дален; en - дейлен
 tiempo - тиемпо; en - тимпо
 spartak - спартак; en - спартак
@@ -355,7 +355,7 @@ uvex - увех; en - ювекс
 demix - демих; en - демикс
 boxer - бохер; en - боксер
 penny - пенни; en - пенни
-mercurial - мерcуриал; en - меркьюриол
+mercurial - мерcуриал; en - меркериал
 toronto - торонто; en - торонто
 compression - cомпрессион; en - компрешн
 stretch - стретч; en - стретч
@@ -364,13 +364,13 @@ umbria - умбриа; en - юмбриа
 ltr - лтр; en - лтр
 alpina - алпина; en - алпина
 pilates - пилатес; en - пилейтес
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 titanium - титаниум; en - титейниум
 romana - романа; ita - романа
 mikasa - микаса; ita - микаса
 pilates - пилатес; en - пилейтес
 boston - бостон; en - бостон
-spalding - спалдинг; en - сполдинг
+spalding - спалдинг; en - спалдинг
 penny - пенни; en - пенни
 nevada - невада; ita - невада
 back - бак; en - бак
@@ -387,7 +387,7 @@ apollo - аполло; ita - аполло
 longboard - лонгбоард; en - лонгборд
 compact - cомпаcт; en - компакт
 atletico - атлетиcо; en - атлетико
-mercurial - мерcуриал; en - меркьюриол
+mercurial - мерcуриал; en - меркериал
 torneo - торнео; en - торни
 glissade - глиссаде; ita - глиссаде
 penny - пенни; en - пенни
@@ -403,12 +403,12 @@ merc - мерc; en - мерк
 penny - пенни; en - пенни
 fiber - фибер; en - фибер
 trekker - треккер; en - треккер
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 shark - шарк; en - шарк
 penny - пенни; en - пенни
 festa - феста; en - феста
 clinch - cлинч; en - клинч
-downshifter - довншифтер; en - дауншифтер
+downshifter - довншифтер; en - даун шифтер
 federer - федерер; en - федерер
 polo - поло; ita - поло
 molten - молтен; en - молтен
@@ -424,8 +424,8 @@ alpinistik - алпинистик; en - алпинистик
 dynamo - динамо; en - динеймо
 pilates - пилатес; en - пилейтес
 board - боард; en - борд
-superman - суперман; en - суперман
-futsal - футсал; en - фатсол
+superman - суперман; en - супер, ман
+futsal - футсал; en - фатсал
 market - маркет; en - маркет
 atlet - атлет; en - атлет
 sketch - скетч; en - скетч
@@ -438,7 +438,7 @@ sprinter - спринтер; en - спринтер
 bomber - бомбер; en - бомбер
 board - боард; en - борд
 bmx - бмх; en - бмкс
-mercurial - мерcуриал; en - меркьюриол
+mercurial - мерcуриал; en - меркериал
 pilates - пилатес; en - пилейтес
 compression - cомпрессион; en - компрешн
 everlast - эверласт; en - эверласт
@@ -457,7 +457,7 @@ ferrari - феррари; ita - феррари
 solaris - соларис; en - солейрис
 totem - тотем; en - тотем
 torneo - торнео; en - торни
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 mikasa - микаса; ita - микаса
 travel - травел; en - трейвел
 rossignol - россигнол; en - россигнол
@@ -487,10 +487,10 @@ panda - панда; en - панда
 carbon - cарбон; en - карбон
 kipsta - кипста; ger - кипшта
 penny - пенни; en - пенни
-reaction - реаcтион; en - реакшен
+reaction - реаcтион; en - реа, кшен
 medium - медиум; en - медиум
 riana - риана; en - риана
-surfing - сурфинг; en - сарфинг
+surfing - сурфинг; en - серфинг
 mikasa - микаса; ita - микаса
 ripstop - рипстоп; ger - рипштоп
 bmx - бмх; en - бмкс
@@ -504,8 +504,8 @@ stern - стерн; en - стерн
 stern - стерн; en - стерн
 glissade - глиссаде; ita - глиссаде
 zenit - зенит; en - зенит
-arsenal - арсенал; en - арсенол
-arsenal - арсенал; en - арсенол
+arsenal - арсенал; en - арсенал
+arsenal - арсенал; en - арсенал
 demix - демих; en - демикс
 boxer - бохер; en - боксер
 cobra - cобра; en - кобра
@@ -531,8 +531,8 @@ razor - разор; en - рейзор
 support - суппорт; en - саппорт
 miler - милер; en - милер
 compression - cомпрессион; en - компрешн
-surfing - сурфинг; en - сарфинг
-outventure - оутвентуре; en - аутвенчур
+surfing - сурфинг; en - серфинг
+outventure - оутвентуре; en - аут, венчур
 grip - грип; en - грип
 glissade - глиссаде; ita - глиссаде
 vario - варио; en - вейрио
@@ -540,7 +540,7 @@ support - суппорт; en - саппорт
 penny - пенни; en - пенни
 crosser - cроссер; en - кроссер
 carbon - cарбон; en - карбон
-burton - буртон; en - бартон
+burton - буртон; en - бертон
 trx - трх; en - тркс
 flex - флех; en - флекс
 racer - раcер; en - рейсер
@@ -553,7 +553,7 @@ fortex - фортех; en - фортекс
 memory - мемори; en - мемори
 penny - пенни; en - пенни
 brumer - брумер; en - брьюмер
-futsal - футсал; en - фатсол
+futsal - футсал; en - фатсал
 samba - самба; en - самба
 uvex - увех; en - ювекс
 arena - арена; en - арена
@@ -561,7 +561,7 @@ ballerina - баллерина; ita - баллерина
 vibram - вибрам; en - вибрам
 larsen - ларсен; en - ларсен
 termit - термит; en - термит
-admiral - адмирал; en - адмерол
+admiral - адмирал; en - адмерал
 board - боард; en - борд
 dress - дресс; en - дресс
 polo - поло; ita - поло
@@ -584,15 +584,15 @@ prestige - престиге; en - престидж
 magista - магиста; en - маджиста
 bands - бандс; en - бандс
 bands - бандс; en - бандс
-mercurial - мерcуриал; en - меркьюриол
+mercurial - мерcуриал; en - меркериал
 bmx - бмх; en - бмкс
 ski - ски; en - ски
 demix - демих; en - демикс
 mercedes - мерcедес; en - мерседес
 presto - престо; en - престо
 dakota - дакота; ita - дакота
-downhill - довнхилл; en - даунхилл
-treadmill - треадмилл; en - треадмилл
+downhill - довнхилл; en - даун хилл
+treadmill - треадмилл; en - треа, дмилл
 meteor - метеор; en - метир
 alpinistik - алпинистик; en - алпинистик
 lens - ленс; en - ленс
@@ -629,7 +629,7 @@ ordem - ордем; en - ордем
 mirella - мирелла; ita - мирелла
 trail - траил; en - траил
 nos - нос; en - нос
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 mikasa - микаса; ita - микаса
 vibram - вибрам; en - вибрам
 termit - термит; en - термит
@@ -662,10 +662,10 @@ chester - честер; en - честер
 narvik - нарвик; en - нарвик
 uv - ув; en - юв
 market - маркет; en - маркет
-sportalm - спорталм; en - спортолм
+sportalm - спорталм; en - спорталм
 termit - термит; en - термит
 pilates - пилатес; en - пилейтес
-mercurial - мерcуриал; en - меркьюриол
+mercurial - мерcуриал; en - меркериал
 torneo - торнео; en - торни
 umbria - умбриа; en - юмбриа
 demix - демих; en - демикс
@@ -673,9 +673,9 @@ tritan - тритан; en - тритан
 grozz - грозз; ger - грозц
 adrian - адриан; en - адриан
 bax - бах; en - бакс
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 manchester - манчестер; en - манчестер
-turbodown - турбодовн; en - тарбодаун
+turbodown - турбодовн; en - тербодаун
 termit - термит; en - термит
 pant - пант; en - пант
 demix - демих; en - демикс
@@ -683,7 +683,7 @@ barbell - барбелл; en - барбелл
 polartec - полартеc; en - полартек
 adventure - адвентуре; en - адвенчур
 mizuno - мизуно; ita - мизуно
-mercurial - мерcуриал; en - меркьюриол
+mercurial - мерcуриал; en - меркериал
 bombax - бомбах; en - бомбакс
 toronto - торонто; en - торонто
 magista - магиста; en - маджиста
@@ -702,13 +702,13 @@ penny - пенни; en - пенни
 bmx - бмх; en - бмкс
 lakers - лакерс; en - лейкерс
 pegasus - пегасус; en - пегейзас
-urban - урбан; en - юрбан
+urban - урбан; en - ербан
 support - суппорт; en - саппорт
 shark - шарк; en - шарк
 pilates - пилатес; en - пилейтес
 novatour - новатоур; fra - новатур
 tiempo - тиемпо; en - тимпо
-mercurial - мерcуриал; en - меркьюриол
+mercurial - мерcуриал; en - меркериал
 compacta - cомпаcта; en - компакта
 tribord - триборд; en - триборд
 bax - бах; en - бакс
@@ -727,13 +727,13 @@ alex - алех; en - алекс
 adventure - адвентуре; en - адвенчур
 borussia - боруссиа; ita - боруссиа
 termit - термит; en - термит
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 penny - пенни; en - пенни
 demix - демих; en - демикс
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 demix - демих; en - демикс
 kettler - кеттлер; en - кеттлер
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 kalenji - календжи; en - кейленджи
 penny - пенни; en - пенни
 shell - шелл; en - шелл
@@ -743,18 +743,18 @@ bauer - бауер; fra - бауер
 novatour - новатоур; fra - новатур
 tiempo - тиемпо; en - тимпо
 megavent - мегавент; en - мегейвент
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 oxelo - охело; en - оксело
 advance - адванcе; fra - адванс
 demix - демих; en - демикс
-montreal - монтреал; en - монтреал
+montreal - монтреал; en - монтреа, л
 demix - демих; en - демикс
 adventure - адвентуре; en - адвенчур
-arsenal - арсенал; en - арсенол
+arsenal - арсенал; en - арсенал
 primaloft - прималофт; en - примейлофт
 demix - демих; en - демикс
 cosmo - cосмо; en - космо
-originals - оригиналс; en - ориджинолс
+originals - оригиналс; en - ориджиналс
 suede - суеде; en - сьюд
 polo - поло; ita - поло
 rossignol - россигнол; en - россигнол
@@ -766,7 +766,7 @@ mike - мике; ita - мике
 small - смалл; en - смол
 torneo - торнео; en - торни
 spartak - спартак; en - спартак
-mercurial - мерcуриал; en - меркьюриол
+mercurial - мерcуриал; en - меркериал
 pilates - пилатес; en - пилейтес
 borussia - боруссиа; ita - боруссиа
 box - бох; en - бокс
@@ -812,7 +812,7 @@ demi - деми; ita - деми
 box - бох; en - бокс
 glissade - глиссаде; ita - глиссаде
 kettler - кеттлер; en - кеттлер
-crystal - cристал; en - кристол
+crystal - cристал; en - кристал
 madshus - мадшус; en - мадшас
 glissade - глиссаде; ita - глиссаде
 goretex - горетех; en - горетекс
@@ -821,11 +821,11 @@ sport - спорт; en - спорт
 glissade - глиссаде; ita - глиссаде
 tires - тирес; en - терес
 box - бох; en - бокс
-sportalm - спорталм; en - спортолм
+sportalm - спорталм; en - спорталм
 alaska - аласка; en - аласка
 sport - спорт; en - спорт
 hipster - хипстер; ger - гипштер
-monreal - монреал; en - монреал
+monreal - монреал; en - монреа, л
 everlast - эверласт; en - эверласт
 sable - сабле; en - сабл
 crete - cрете; en - крет
@@ -834,14 +834,14 @@ lemon - лемон; en - лемон
 penny - пенни; en - пенни
 satila - сатила; ita - сатила
 freddy - фредди; en - фредди
-spalding - спалдинг; en - сполдинг
+spalding - спалдинг; en - спалдинг
 marvel - марвел; en - марвел
 borussia - боруссиа; ita - боруссиа
 tecnica - теcниcа; en - текника
 hypervenom - хипервеном; en - хипервеном
 volkl - волкл; en - волкл
 madshus - мадшус; en - мадшас
-salming - салминг; en - солминг
+salming - салминг; en - салминг
 varius - вариус; en - вейриус
 volkl - волкл; en - волкл
 adventure - адвентуре; en - адвенчур
@@ -850,14 +850,14 @@ termit - термит; en - термит
 craft - cрафт; en - крафт
 pilates - пилатес; en - пилейтес
 atemi - атеми; en - атеми
-mercurial - мерcуриал; en - меркьюриол
+mercurial - мерcуриал; en - меркериал
 volk - волк; en - волк
 graf - граф; en - граф
 snowboard - сновбоард; en - сноуборд
 verona - верона; ita - верона
 omni - омни; en - омни
-outventure - оутвентуре; en - аутвенчур
-burton - буртон; en - бартон
+outventure - оутвентуре; en - аут, венчур
+burton - буртон; en - бертон
 protec - протеc; en - протек
 compression - cомпрессион; en - компрешн
 mini - мини; ita - мини
@@ -876,9 +876,9 @@ rossignol - россигнол; en - россигнол
 rottefella - роттефелла; ita - роттефелла
 tornio - торнио; en - торнио
 glissade - глиссаде; ita - глиссаде
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 snowboard - сновбоард; en - сноуборд
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 bosu - босу; ita - босу
 volk - волк; en - волк
 mirella - мирелла; ita - мирелла
@@ -904,7 +904,7 @@ trasher - трашер; en - трашер
 glissade - глиссаде; ita - глиссаде
 board - боард; en - борд
 hiker - хикер; en - хикер
-radical - радиcал; en - рейдикол
+radical - радиcал; en - рейдикал
 revolution - револутион; en - револашен
 rider - ридер; en - ридер
 pilates - пилатес; en - пилейтес
@@ -927,12 +927,12 @@ descente - десcенте; en - дессент
 denton - дентон; en - дентон
 senator - сенатор; en - сенейтор
 alaska - аласка; en - аласка
-burton - буртон; en - бартон
+burton - буртон; en - бертон
 ziener - зиенер; en - зинер
 rottefella - роттефелла; ita - роттефелла
 nordseter - нордсетер; en - нордсетер
-burton - буртон; en - бартон
-mercurial - мерcуриал; en - меркьюриол
+burton - буртон; en - бертон
+mercurial - мерcуриал; en - меркериал
 penny - пенни; en - пенни
 oxelo - охело; en - оксело
 torneo - торнео; en - торни
@@ -946,7 +946,7 @@ adventure - адвентуре; en - адвенчур
 demix - демих; en - демикс
 speedmax - спеедмах; en - спидмакс
 madshus - мадшус; en - мадшас
-laval - лавал; en - лейвол
+laval - лавал; en - лейвал
 atemi - атеми; en - атеми
 atemi - атеми; en - атеми
 glissade - глиссаде; ita - глиссаде
@@ -995,7 +995,7 @@ kipsta - кипста; ger - кипшта
 hypervenom - хипервеном; en - хипервеном
 nike - нике; ita - нике
 softshell - софтшелл; en - софтшелл
-mercurial - мерcуриал; en - меркьюриол
+mercurial - мерcуриал; en - меркериал
 narvik - нарвик; en - нарвик
 termit - термит; en - термит
 onetrak - онетрак; en - онетрак
@@ -1009,17 +1009,17 @@ graf - граф; en - граф
 alaska - аласка; en - аласка
 mizuno - мизуно; ita - мизуно
 board - боард; en - борд
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 racer - раcер; en - рейсер
 larsen - ларсен; en - ларсен
 gel - гел; en - джел
-falls - фаллс; en - фолс
+falls - фаллс; en - фол с
 oregon - орегон; en - орегон
-reaction - реаcтион; en - реакшен
+reaction - реаcтион; en - реа, кшен
 daytona - даитона; en - дейтона
 goretex - горетех; en - горетекс
 solers - солерс; en - солерс
-reaction - реаcтион; en - реакшен
+reaction - реаcтион; en - реа, кшен
 parka - парка; en - парка
 coleman - cолеман; en - колеман
 termit - термит; en - термит
@@ -1027,7 +1027,7 @@ neill - неилл; en - неилл
 pegas - пегас; en - пегас
 tires - тирес; en - терес
 magista - магиста; en - маджиста
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 fold - фолд; en - фолд
 demix - демих; en - демикс
 hiking - хикинг; en - хикинг
@@ -1061,15 +1061,15 @@ polo - поло; ita - поло
 torrent - торрент; en - торрент
 demix - демих; en - демикс
 input - инпут; en - инпат
-mercurial - мерcуриал; en - меркьюриол
+mercurial - мерcуриал; en - меркериал
 demix - демих; en - демикс
 vans - ванс; en - ванс
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 vans - ванс; en - ванс
 tribord - триборд; en - триборд
 rukka - рукка; en - ракка
 softshell - софтшелл; en - софтшелл
-zefal - зефал; en - зефол
+zefal - зефал; en - зефал
 sketch - скетч; en - скетч
 indoor - индоор; en - индоор
 demi - деми; ita - деми
@@ -1083,7 +1083,7 @@ pilates - пилатес; en - пилейтес
 demix - демих; en - демикс
 demix - демих; en - демикс
 spartak - спартак; en - спартак
-mercurial - мерcуриал; en - меркьюриол
+mercurial - мерcуриал; en - меркериал
 temit - темит; en - темит
 termit - термит; en - термит
 termit - термит; en - термит
@@ -1101,14 +1101,14 @@ sketch - скетч; en - скетч
 mizuno - мизуно; ita - мизуно
 capra - cапра; en - капра
 patrol - патрол; en - патрол
-mercurial - мерcуриал; en - меркьюриол
+mercurial - мерcуриал; en - меркериал
 salomon - саломон; en - сейломон
 antifog - антифог; en - антифог
 demix - демих; en - демикс
 newton - невтон; en - ньютон
 karis - карис; en - кейрис
 alpinistik - алпинистик; en - алпинистик
-monreal - монреал; en - монреал
+monreal - монреал; en - монреа, л
 argon - аргон; en - аргон
 tiempo - тиемпо; en - тимпо
 tiempo - тиемпо; en - тимпо
@@ -1123,7 +1123,7 @@ cell - cелл; en - селл
 rottefella - роттефелла; ita - роттефелла
 lotty - лотти; en - лотти
 pilates - пилатес; en - пилейтес
-futsal - футсал; en - фатсол
+futsal - футсал; en - фатсал
 training - траининг; en - траининг
 bax - бах; en - бакс
 grozz - грозз; ger - грозц
@@ -1132,7 +1132,7 @@ molten - молтен; en - молтен
 glissade - глиссаде; ita - глиссаде
 madshus - мадшус; en - мадшас
 glissade - глиссаде; ita - глиссаде
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 trasher - трашер; en - трашер
 demix - демих; en - демикс
 armando - армандо; en - армандо
@@ -1157,12 +1157,12 @@ bravata - бравата; en - брейвейта
 volk - волк; en - волк
 denix - дених; en - деникс
 pilates - пилатес; en - пилейтес
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 mirella - мирелла; ita - мирелла
 mikasa - микаса; ita - микаса
 varius - вариус; en - вейриус
 torneo - торнео; en - торни
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 ziener - зиенер; en - зинер
 boston - бостон; en - бостон
 demix - демих; en - демикс
@@ -1176,14 +1176,14 @@ roces - роcес; en - росес
 glissade - глиссаде; ita - глиссаде
 demix - демих; en - демикс
 domyos - домиос; en - домиос
-superman - суперман; en - суперман
-outventure - оутвентуре; en - аутвенчур
+superman - суперман; en - супер, ман
+outventure - оутвентуре; en - аут, венчур
 softshell - софтшелл; en - софтшелл
-burton - буртон; en - бартон
+burton - буртон; en - бертон
 arena - арена; en - арена
 niki - ники; ita - ники
 cruzano - cрузано; en - крьюзейно
-outventure - оутвентуре; en - аутвенчур
+outventure - оутвентуре; en - аут, венчур
 termit - термит; en - термит
 vans - ванс; en - ванс
 kipsta - кипста; ger - кипшта
@@ -1196,13 +1196,13 @@ salomon - саломон; en - сейломон
 demix - демих; en - демикс
 fisher - фишер; en - фишер
 ziener - зиенер; en - зинер
-burton - буртон; en - бартон
+burton - буртон; en - бертон
 dakine - дакине; ita - дакине
 glissade - глиссаде; ita - глиссаде
 leader - леадер; en - лидер
 support - суппорт; en - саппорт
 zenit - зенит; en - зенит
-annapurna - аннапурна; en - аннейпарна
+annapurna - аннапурна; en - аннаперна
 stretch - стретч; en - стретч
 ziener - зиенер; en - зинер
 last - ласт; en - ласт
@@ -1214,7 +1214,7 @@ gardamode - гардамоде; en - гардеймод
 tiempo - тиемпо; en - тимпо
 tiempo - тиемпо; en - тимпо
 adele - аделе; en - адел
-futsal - футсал; en - фатсол
+futsal - футсал; en - фатсал
 volk - волк; en - волк
 pivot - пивот; en - пивот
 timberlake - тимберлаке; en - тимберлейк
@@ -1236,7 +1236,7 @@ bauer - бауер; fra - бауер
 bravata - бравата; en - брейвейта
 bravata - бравата; en - брейвейта
 salomon - саломон; en - сейломон
-mercurial - мерcуриал; en - меркьюриол
+mercurial - мерcуриал; en - меркериал
 termit - термит; en - термит
 box - бох; en - бокс
 nike - нике; ita - нике
@@ -1249,7 +1249,7 @@ rukka - рукка; en - ракка
 rossignol - россигнол; en - россигнол
 glissade - глиссаде; ita - глиссаде
 glissade - глиссаде; ita - глиссаде
-burton - буртон; en - бартон
+burton - буртон; en - бертон
 bauer - бауер; fra - бауер
 nis - нис; en - нис
 trillium - триллиум; en - триллиум
@@ -1264,7 +1264,7 @@ salomon - саломон; en - сейломон
 fisher - фишер; en - фишер
 tiempox - тиемпох; en - тимпокс
 campingaz - cампингаз; en - кампингаз
-falls - фаллс; en - фолс
+falls - фаллс; en - фол с
 maverick - маверик; en - мейверик
 stern - стерн; en - стерн
 geonaute - геонауте; en - джиноьют
@@ -1273,41 +1273,41 @@ salomon - саломон; en - сейломон
 teslin - теслин; en - теслин
 kettle - кеттле; en - кеттл
 steppe - степпе; ita - степпе
-salto - салто; en - солто
+salto - салто; en - салто
 tarmak - тармак; en - тармак
 volk - волк; en - волк
 iron body - ирон боди; en - ерон боди
 green hill - греен хилл; en - грин хилл
-royal fitness - роял фитнесс; en - роиол фитнесс
+royal fitness - роял фитнесс; en - роял фитнесс
 green hill - греен хилл; en - грин хилл
 green hill - греен хилл; en - грин хилл
 green hill - греен хилл; en - грин хилл
 nova tour - нова тоур; fra - нова тур
-royal fitness - роял фитнесс; en - роиол фитнесс
+royal fitness - роял фитнесс; en - роял фитнесс
 new era - нев эра; en - нью эра
 ski go - ски го; ita - ски го
 smart balance - смарт баланcе; fra - смарт баланс
 spirit fitness - спирит фитнесс; en - сперит фитнесс
 triumph nord - триумф норд; en - триумф норд
-royal fitness - роял фитнесс; en - роиол фитнесс
+royal fitness - роял фитнесс; en - роял фитнесс
 red fox - ред фох; en - ред фокс
 nova tour - нова тоур; fra - нова тур
-royal fitness - роял фитнесс; en - роиол фитнесс
+royal fitness - роял фитнесс; en - роял фитнесс
 green hill - греен хилл; en - грин хилл
 lp support - лп суппорт; en - лп саппорт
 start up - старт уп; en - старт юп
 star trac - стар траc; en - стар трак
 no brand - но бранд; en - но бранд
-street surfing - стреет сурфинг; en - стрит сарфинг
+street surfing - стреет сурфинг; en - стрит серфинг
 mad rock - мад рок; en - мад рок
-royal fitness - роял фитнесс; en - роиол фитнесс
+royal fitness - роял фитнесс; en - роял фитнесс
 no brand - но бранд; en - но бранд
 no brand - но бранд; en - но бранд
 and fun - анд фун; en - анд фан
 green hill - греен хилл; en - грин хилл
 pit stop - пит стоп; ger - пит штоп
 smart pool - смарт поол; en - смарт пул
-royal fitness - роял фитнесс; en - роиол фитнесс
+royal fitness - роял фитнесс; en - роял фитнесс
 pit stop - пит стоп; ger - пит штоп
 evo fitness - эво фитнесс; en - эво фитнесс
 bondy sport - бонди спорт; en - бонди спорт
@@ -1316,7 +1316,7 @@ pulse fitness - пулсе фитнесс; en - палс фитнесс
 bondy sport - бонди спорт; en - бонди спорт
 ski go - ски го; ita - ски го
 peak performance - пеак перформанcе; fra - пеак перформанс
-ice rock - иcе рок; en - ис рок
+ice rock - иcе рок; en - айс рок
 body solid - боди солид; en - боди солид
 cat eye - cат еие; en - кат еи
 green hill - греен хилл; en - грин хилл
@@ -1325,8 +1325,8 @@ bh fitness - бх фитнесс; en - бх фитнесс
 neya llc - нея ллc; en - нея ллк
 santa cruz - санта cруз; en - санта краз
 black diamond - блак диамонд; en - блак диамонд
-street surfing - стреет сурфинг; en - стрит сарфинг
-royal fitness - роял фитнесс; en - роиол фитнесс
+street surfing - стреет сурфинг; en - стрит серфинг
+royal fitness - роял фитнесс; en - роял фитнесс
 spirit fitness - спирит фитнесс; en - сперит фитнесс
 carbon fitness - cарбон фитнесс; en - карбон фитнесс
 start up - старт уп; en - старт юп
@@ -1348,8 +1348,8 @@ green hill - греен хилл; en - грин хилл
 ziso zao - зисо зао; ita - зисо зао
 babolat vs - баболат вс; en - бейболат вс
 green hill - греен хилл; en - грин хилл
-royal fitness - роял фитнесс; en - роиол фитнесс
-ice rock - иcе рок; en - ис рок
+royal fitness - роял фитнесс; en - роял фитнесс
+ice rock - иcе рок; en - айс рок
 pit stop - пит стоп; ger - пит штоп
 green hill - греен хилл; en - грин хилл
 ab coaster - аб cоастер; en - аб коастер
@@ -1397,8 +1397,8 @@ legendgym - легендгим; en - леджендджим
 ropeflex - ропефлех; en - ропефлекс
 inmotion - инмотион; en - инмошен
 sculpture - сcулптуре; en - скалпчур
-roald - роалд; en - роолд
-totalbox - тоталбох; en - тотолбокс
+roald - роалд; en - роалд
+totalbox - тоталбох; en - тоталбокс
 nanomax - наномах; en - нейномакс
 tilt - тилт; en - тилт
 eurofit - еурофит; fra - еврофит
@@ -1414,16 +1414,16 @@ kong - конг; en - конг
 tex - тех; en - текс
 sklz - склз; ger - склц
 luxol - лухол; en - льюксол
-fjallraven - фджаллравен; en - фджолрейвен
+fjallraven - фджаллравен; en - фджол рейвен
 hoverbot - ховербот; en - ховербот
 johnson - джохнсон; en - джохнсон
 k2 - к2; en - к2
-salmo - салмо; en - солмо
+salmo - салмо; en - салмо
 weider - веидер; en - веидер
 invu - инву; en - инву
 brunton - брунтон; en - брантон
 mb - мб; en - мб
-service - сервиcе; en - сервис
+service - сервиcе; en - сервайс
 ace - аcе; en - ас
 dusters - дустерс; en - дастерс
 mironfit - миронфит; en - меронфит
@@ -1435,7 +1435,7 @@ velocifero - велоcиферо; ita - велочиферо
 blanc - бланc; en - бланк
 y&t - и&т; en - и&т
 bondy - бонди; en - бонди
-therm-a-rest - терм-а-рест; en - зерм-а-рест
+therm-a-rest - терм-а-рест; en - зе рм-а-рест
 polygroup - полигроуп; fra - полигруп
 nation - натион; en - нашен
 realstick - реалстик; ger - реалштикк
@@ -1454,7 +1454,7 @@ jungle - джунгле; en - джангл
 pit - пит; en - пит
 frost - фрост; en - фрост
 lowe - лове; ita - лове
-reaction - реаcтион; en - реакшен
+reaction - реаcтион; en - реа, кшен
 inesis - инесис; en - инезис
 freemotion - фреемотион; en - фримошен
 happy - хаппи; en - хаппи
@@ -1481,7 +1481,7 @@ eider - еидер; en - еидер
 mont - монт; en - монт
 samokhi - самокхи; en - сеймокхи
 guy - гуй; en - гуи
-carwalk - cарвалк; en - карволк
+carwalk - cарвалк; en - карвалк
 msr - мср; en - мср
 odlo - одло; en - одло
 penny - пенни; en - пенни
@@ -1498,9 +1498,9 @@ cyclotech - cиcлотеч; en - сиклотеч
 khan - кхан; en - кхан
 ternua - тернуа; en - тернуа
 sportelit - спортелит; en - спортелит
-price-leader - приcе-леадер; en - присе-лидер
+price-leader - приcе-леадер; en - прайс -лидер
 airwool - аирвоол; en - аервул
-icepeak - иcепеак; en - исепик
+icepeak - иcепеак; en - айс пик
 optimus - оптимус; en - оптимас
 movement - мовемент; en - мовемент
 nason - насон; en - нейзон
@@ -1523,7 +1523,7 @@ panatta - панатта; ita - панатта
 human - хуман; en - хьюман
 wilson - вилсон; en - вилсон
 ize - изе; en - из
-industrial - индустриал; en - индастриол
+industrial - индустриал; en - индастриал
 neya - нея; en - нея
 zag - заг; en - заг
 mad - мад; en - мад
@@ -1558,16 +1558,16 @@ cliff - cлифф; en - клифф
 moove - моове; en - мув
 subea - субеа; en - саби
 rapala - рапала; ita - рапала
-superiorplaysystems - супериорплаисистемс; en - супериорплейсистемс
+superiorplaysystems - супериорплаисистемс; en - супер, иорплейсистемс
 pride - приде; en - прид
 trac - траc; en - трак
 veda - веда; ita - веда
-superweigh - супервеигх; en - супервеи
+superweigh - супервеигх; en - супер, веи
 tourist - тоурист; fra - турист
 v-motion - в-мотион; en - в-мошен
 eltreco - элтреcо; en - элтреко
 endurance - эндуранcе; fra - эндуранс
-normal - нормал; en - нормол
+normal - нормал; en - нормал
 ziso - зисо; ita - зисо
 trainer - траинер; en - траинер
 graf - граф; en - граф
@@ -1594,8 +1594,8 @@ proxima - прохима; en - проксима
 airwheel - аирвхеел; en - аервхил
 joma - джома; ita - жома
 american - америcан; en - американ
-optical - оптиcал; en - оптикол
-centurion - cентурион; en - сентьюрион
+optical - оптиcал; en - оптикал
+centurion - cентурион; en - сентерион
 vplab - вплаб; en - вплаб
 sealline - сеаллине; ita - сеаллине
 thule - туле; en - сьюл
@@ -1625,11 +1625,11 @@ itiwit - итивит; en - итивит
 sks - скс; en - скс
 jobstick - джобстик; ger - йобштикк
 marcy - марcи; en - марси
-turis - турис; en - тьюрис
+turis - турис; en - терис
 wed'ze - ведзе; ger - ведзе
 dynafit - динафит; en - динейфит
 munkees - мункеес; en - манкис
-outshock - оутшок; en - аутшок
+outshock - оутшок; en - аут, шок
 ip kopitsov sergey - ип копитсов сергей; en - ип копитсов серджи
 paramount - парамоунт; fra - парамунт
 tern - терн; en - терн
@@ -1656,11 +1656,11 @@ enerplex - энерплех; en - энерплекс
 quechua - квечуа; fra - квешуа
 first - фирст; ger - фиршт
 beal - беал; en - бил
-halten - халтен; en - холтен
+halten - халтен; en - халтен
 isg - исг; en - исг
-thirtytwo - тиртитво; en - зиртитво
+thirtytwo - тиртитво; en - зи ртитво
 proform - проформ; en - проформ
-allvega - аллвега; en - олвега
+allvega - аллвега; en - ол вега
 hardman - хардман; en - хардман
 arva - арва; en - арва
 laufstein - лауфстеин; ger - лауфштейн
@@ -1671,7 +1671,7 @@ image - имаге; en - имадж
 bottle - боттле; en - боттл
 nutrition - нутритион; en - натришен
 dunlop - дунлоп; en - данлоп
-shkura - шкура; en - шкьюра
+shkura - шкура; en - шкера
 ip trubina - ип трубина; en - ип трьюбина
 camp - cамп; en - камп
 rockrider - рокридер; en - рокридер
@@ -1686,7 +1686,7 @@ up - уп; en - юп
 carbon - cарбон; en - карбон
 el-sport - эл-спорт; en - эл-спорт
 disq - диск; en - диск
-surfing - сурфинг; en - сарфинг
+surfing - сурфинг; en - серфинг
 clinch - cлинч; en - клинч
 nuo - нуо; en - нуо
 soto - сото; ita - сото
@@ -1715,13 +1715,13 @@ atorka - аторка; en - аторка
 body - боди; en - боди
 xterra - хтерра; ita - кстерра
 volleyball - воллеибалл; en - воллеибол
-special - спеcиал; en - спесиол
+special - спеcиал; en - спесиал
 north - норт; en - норс
 teva - тева; ita - тева
 freddy - фредди; en - фредди
 ray - рай; en - рей
 pkf usadba - пкф усадба; en - пкф юзадба
-outdoor - оутдоор; en - аутдоор
+outdoor - оутдоор; en - аут, доор
 billard - биллард; en - биллард
 ru - ру; ita - ру
 inotec - инотеc; en - инотек
@@ -1834,7 +1834,7 @@ cybex - cибех; en - сибекс
 sevylor - севилор; en - севилор
 assault - ассаулт; en - ассоалт
 singing - сингинг; en - синджинг
-thermacell - термаcелл; en - зермейселл
+thermacell - термаcелл; en - зе рмейселл
 tsl - тсл; en - тсл
 dainese - даинесе; en - даинез
 forclaz - форcлаз; en - форклаз
@@ -1895,9 +1895,9 @@ skis - скис; en - скис
 hasttings - хасттингс; en - хасттингс
 jobe - джобе; ita - жобе
 lenz - ленз; ger - ленц
-century - cентури; en - сенчьюри
+century - cентури; en - сентери
 fishka - фишка; en - фишка
-challenger - чалленгер; en - чоленджер
+challenger - чалленгер; en - чол энджер
 yonex - йонех; en - ионекс
 contour - cонтоур; fra - контур
 wmotion - вмотион; en - вмошен
@@ -1907,7 +1907,7 @@ petzl - петзл; ger - петцл
 dayu - даиу; en - дейу
 fitness equipement - фитнесс эквипемент; en - фитнесс эквипемент
 impulse - импулсе; en - импалс
-millymally - миллималли; en - миллимоли
+millymally - миллималли; en - миллимол и
 trubina - трубина; en - трьюбина
 waterrover - ватерровер; en - вейтерровер
 oxygen - охиген; en - оксиджен
@@ -1923,11 +1923,11 @@ and - анд; en - анд
 crazystuff - cразистуфф; en - крейзистафф
 mico - миcо; ita - мико
 descente - десcенте; en - дессент
-montura - монтура; en - монтьюра
-therm-ic - терм-иc; en - зерм-ик
+montura - монтура; en - монтера
+therm-ic - терм-иc; en - зе рм-ик
 kaabo - каабо; en - каабо
 optifit - оптифит; en - оптифит
-icewheel - иcевхеел; en - исьюхил
+icewheel - иcевхеел; en - айс вхил
 fishbait - фишбаит; en - фишбаит
 horizon - хоризон; en - хоризон
 tribe - трибе; en - триб
@@ -1976,7 +1976,7 @@ hanwag - ханваг; en - ханваг
 airhole - аирхоле; en - аерхол
 close - cлосе; en - клоз
 g-plate - г-плате; en - г-плейт
-palplay - палплай; en - полплей
+palplay - палплай; en - палплей
 domsen - домсен; en - домсен
 trx - трх; en - тркс
 solognac - сологнаc; en - сологнак

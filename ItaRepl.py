@@ -1,4 +1,4 @@
-from Replacer import replacer
+from Mechanics import replacer
 
 
 def trans_long_ngrams(word):
