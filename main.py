@@ -5,13 +5,13 @@ import LanguageDetector
 import SpecRepl
 
 
-infile_name = 'texts/home_trans_raw.txt'
-outfile_name = 'texts/home_trans_new.txt'
+infile_name = 'texts/translit-cosmetics.csv'
+outfile_name = 'texts/translit-cosmetics-new.txt'
 infile = open(infile_name, 'r', encoding='utf-8')
 outfile = open(outfile_name, 'w', encoding='utf-8')
 
 # for reporting
-file_size = 1045
+file_size = 1481
 n = 0
 naive_trans_processing = 0.0
 language_detector_processing = 0.0

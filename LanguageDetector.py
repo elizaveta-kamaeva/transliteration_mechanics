@@ -37,7 +37,7 @@ def it_trailer(word):
     it_maygrams = {'[euioa]c[euioa]\w*[euioa]\Z',
                    'z\w*[euioa]\Z'}
 
-    it_stopgrams = {'[^euioay]{3}'}
+    it_stopgrams = {'[^euioay]{3}', 'up'}
 
     it_prob = trail(word, it_ngrams, it_maygrams, it_stopgrams)
     return it_prob
@@ -66,7 +66,7 @@ def fr_trailer(word):
     fr_ngrams = {'[euioa]{3}',
                  'ouch', 'eur', 'ance', '\wou(?!gh)',
                  'ngie\Z', 'gnie\Z', 'oix\Z', 'ux\Z', 'oir\Z',
-                 "\Ad'", "\Al'", '\Ala\Z', '\Ale\Z',
+                 "\Ad'", "\Al'", '\Ala\Z', '\Ale\Z', 'bell',
                  '\A?les\Z', '\Ale\Z', '\Adu\Z', '\Ade\Z',
                  'é', 'è', 'à', 'ù', 'que',
                  'ê', 'â', 'ô', 'î', 'û',
@@ -75,7 +75,7 @@ def fr_trailer(word):
     fr_maygrams = {'ch\w*[euioay]{2}', '\Ala\w+[euioay]{2}',
                    'au\Z'}
 
-    fr_stopgrams = {'sh', 'w', 'you', 'house'}
+    fr_stopgrams = {'sh', 'w', 'you', 'house', 'round'}
 
     fr_prob = trail(word, fr_ngrams, fr_maygrams, fr_stopgrams)
     return fr_prob

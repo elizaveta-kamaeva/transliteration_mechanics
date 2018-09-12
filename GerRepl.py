@@ -2,7 +2,7 @@ from Mechanics import replacer
 
 
 def trans_long_ngrams(word):
-    long_ngrams_dict = {'tsch':'ч', 'sch':'ш', 'chs':'хс'}
+    long_ngrams_dict = {'tsch':'ч', 'sch':'ш', 'chs':'хс', 'ss':'сс'}
     new_word = replacer(word, long_ngrams_dict)
     return new_word
 

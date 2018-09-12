@@ -2,7 +2,7 @@ from Mechanics import replacer
 
 
 def trans_words(word):
-    eng_file = open('texts/eng_trans.txt', 'r', encoding='utf-8')
+    eng_file = open('eng_trans.txt', 'r', encoding='utf-8')
     words_dict = {}
     for line in eng_file:
         eng_word, ru_word = line.split(':')
@@ -11,7 +11,7 @@ def trans_words(word):
     return new_word
 
 def trans_long_ngrams(word):
-    long_ngrams_dict = {'ay':'ей', 'ir':'ер', '\wur':'ер',
+    long_ngrams_dict = {'ay':'ей',
                         'you':'ю', 'ea':'и', 'au':'о'}
     new_word = replacer(word, long_ngrams_dict)
     return new_word
@@ -27,24 +27,20 @@ def trans_conditional(word):
                           '\Awr(?=\w[euioay])':'р',
                           # letters + futher combinations
                           'ea(?=(d|th|lth|sure|sant))':'е',
-                          #'i(?=(ld|nd|gn|gh))':'ай',
                           't(?=(ure|ural|ury))':'ч',
                           # open syllable
                           '(?<=[^euioay])u(?=\w[euioay])':'ю',
                           '(?<=[^euioay])a(?=\w[euioay])':'ей',
-                          # closed syllable
-                          '(?<=[^euioay])u(?=[^euioay]{2})':'а',
-                          '(?<=[^euioay])u(?=[^euioay]\Z)':'а',
                           # beginning of the word
                           '\Ae(?![euioay-])':'э',
                           '\Au(?![euioay-])':'ю',
                           '\Ath':'с', '\Aye':'е', '\Ay':'й',
-                          '\Aa':'а', '\Ao':'о', '\Aeu':'ев',
+                          '\Aeu':'ев',
                           # end of the word
                           'ie\Z':'ай', 'ies\Z':'ис',
-                          'th\Z':'с', 'ow':'оу',
+                          'th\Z':'с', 'ue\Z':'ю',
                           # empty letters
-                          '(?<=[^euioay-])h(?!\Z)':'',
+                          '(?<=[^euioayst-])h(?!\Z)':'',
                           'e\Z':'', 'gh\Z':''}
     new_word = replacer(word, condit_ngrams_dict)
     return new_word
@@ -52,11 +48,10 @@ def trans_conditional(word):
 
 def trans_short_ngrams(word):
     short_ngrams_dict = {'qu':'кв', 'ie':'и', 'ue':'ью', 'eu':'ью',
-                         'ew':'ью', 'ck':'к',
-                         'ch':'ч', 'th':'з',
-                         'sh':'ш', 'ph':'ф',
+                         'ew':'ью', 'ow':'оу', 'ck':'к', 'ts':'ц',
+                         'ch':'ч', 'th':'з', 'sh':'ш', 'ph':'ф',
                          'eo':'и', 'ee':'и', 'ey':'и',
-                         'oar':'ор', 'oo':'у',
+                         'oar':'ор', 'oo':'у', 'ui':'юи',
                          'ya':'я', 'ye':'е', 'yu':'ю'}
     new_word = replacer(word, short_ngrams_dict)
     return new_word

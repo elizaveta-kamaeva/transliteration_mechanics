@@ -1,0 +1,1444 @@
+raw_word;naive_trans;spec_trans;
+mask - маск; en - маск
+limoni - лимони; ita - лимони
+patch - патч; en - патч
+spray - спрай; en - спрей
+loreal - лореал; en - лореаль
+telescopic - телескопиc; en - телескопик
+mosaic - мосаиc; en - мозаик
+carolina - cаролина; ita - каролина
+tonic - тониc; en - тоник
+poudre - поудре; fra - пудр
+molecule - молеcуле; ita - молекуле
+creme - cреме; en - крем
+rimmel - риммел; en - риммел
+balsam - балсам; en - балсам
+primer - пример; en - пример
+peeling - пеелинг; en - пилинг
+corrector - cорреcтор; en - корректор
+clinic - cлиниc; en - клиник
+paste - пасте; en - пейст
+promise - промисе; en - промиз
+artdeco - артдеcо; en - артдеко
+pigment - пигмент; en - пигмент
+pomade - помаде; ita - помаде
+londa - лонда; en - лонда
+banana - банана; ita - банана
+cushion - cушион; en - кушен
+eclat - эcлат; en - эклат
+sculptor - скулптор; en - скулптор
+antiperspirant - антиперспирант; en - антиперспирант
+siberica - сибериcа; ita - сиберика
+sponge - спонге; en - спондж
+lumene - лумене; ita - люмене
+angel - ангел; en - энджел
+keranove - керанове; ita - керанове
+factor - фаcтор; en - фактор
+antonio - антонио; en - антонио
+artdeco - артдеcо; en - артдеко
+fluid - флуид; en - флюид
+avenue - авенуе; en - авеню
+parfum - парфум; en - парфум
+million - миллион; en - миллен
+bronzant - бронзант; ger - бронзант
+pomade - помаде; ita - помаде
+brave - браве; en - брейв
+marshmallow - маршмаллов; en - маршмаллоу
+loren - лорен; en - лорен
+mizon - мизон; en - мизон
+pink - пинк; en - пинк
+talika - талика; ita - талика
+mask - маск; en - маск
+lauder - лаудер; en - лодер
+vanilla - ванилла; ita - ванилла
+creme - cреме; en - крем
+loren - лорен; en - лорен
+bronzer - бронзер; ger - бронзер
+sport - спорт; en - спорт
+benefit - бенефит; en - бенефит
+liner - линер; en - линер
+ecran - эcран; en - экран
+gommage - гоммаге; en - гоммадж
+essence - эссенcе; ita - эссенче
+lumene - лумене; ita - люмене
+remover - ремовер; en - ремовер
+contour - cонтоур; fra - контур
+kabuki - кабуки; ita - кабуки
+azzaro - аззаро; ita - аццаро
+pantene - пантене; en - пантен
+loreal - лореал; en - лореаль
+deodorant - деодорант; en - дидорант
+mugler - муглер; en - муглер
+agent - агент; en - аджент
+shaker - шакер; en - шейкер
+retinol - ретинол; en - ретинол
+narcotic - нарcотиc; en - наркотик
+lotus - лотус; en - лотус
+donna - донна; en - донна
+holika - холика; ita - холика
+ballerine - баллерине; ita - баллерине
+flora - флора; en - флора
+blonde - блонде; en - блонд
+collistar - cоллистар; en - коллистар
+lifting - лифтинг; en - лифтинг
+keratin - кератин; en - керейтин
+molecule - молеcуле; ita - молекуле
+gourmandise - гоурмандисе; fra - гурмандиз
+miracle - мираcле; en - миракл
+pigment - пигмент; en - пигмент
+limoni - лимони; ita - лимони
+pomade - помаде; ita - помаде
+addict - аддиcт; en - аддикт
+collagen - cоллаген; en - колладжен
+rimmel - риммел; en - риммел
+number - нумбер; en - нумбер
+banderas - бандерас; en - бандерас
+talasso - талассо; ita - талассо
+pomade - помаде; ita - помаде
+shimmer - шиммер; en - шиммер
+toner - тонер; en - тонер
+illuminator - иллуминатор; en - иллюминейтор
+fructis - фруcтис; en - фруктис
+filler - филлер; en - филлер
+erato - эрато; en - эрейто
+eclat - эcлат; en - эклат
+peeling - пеелинг; en - пилинг
+redken - редкен; en - редкен
+organic - органиc; en - оргейник
+laser - ласер; en - лейзер
+premiere - премиере; en - премьер
+collistar - cоллистар; en - коллистар
+lador - ладор; en - лейдор
+arnaud - арнауд; en - арнод
+glitter - глиттер; en - глиттер
+filler - филлер; en - филлер
+barcelona - барcелона; en - барселона
+derma - дерма; en - дерма
+metallic - металлиc; en - метоллик
+smart - смарт; en - смарт
+primer - пример; en - пример
+pump - пумп; en - пумп
+softener - софтенер; en - софтенер
+filler - филлер; en - филлер
+vitamin - витамин; en - витеймин
+kilian - килиан; en - килиан
+verbena - вербена; en - вербена
+caramel - cарамел; en - кейреймел
+extraordinaire - эхтраординаире; en - экстраординаир
+colorista - cолориста; en - колориста
+kilian - килиан; en - килиан
+box - бох; en - бокс
+igora - игора; en - игора
+serum - серум; en - серум
+barberry - барберри; en - барберри
+mosaic - мосаиc; en - мозаик
+bobbi - бобби; en - бобби
+keranove - керанове; ita - керанове
+korres - коррес; en - коррес
+filler - филлер; en - филлер
+miracle - мираcле; en - миракл
+adopt - адопт; en - адопт
+matrix - матрих; en - матрикс
+indola - индола; en - индола
+argan - арган; en - арган
+cabaret - cабарет; en - кейбейрет
+planeta - планета; en - плейнета
+lumene - лумене; ita - люмене
+primer - пример; en - пример
+bell - белл; fra - белл
+limoni - лимони; ita - лимони
+tabac - табаc; en - тейбак
+strobing - стробинг; en - стробинг
+mascara - маскара; en - маскейра
+extase - эхтасе; en - экстейз
+coral - cорал; en - корал
+dessange - дессанге; ita - дессандже
+loreal - лореал; en - лореаль
+argan - арган; en - арган
+eclat - эcлат; en - эклат
+isadora - исадора; en - изейдора
+pomade - помаде; ita - помаде
+addict - аддиcт; en - аддикт
+system - систем; en - систем
+rimmel - риммел; en - риммел
+imperatrice - императриcе; en - императрайс
+smashbox - смашбох; en - смашбокс
+rimmel - риммел; en - риммел
+body - боди; en - боди
+climat - cлимат; en - климат
+isadora - исадора; en - изейдора
+biolage - биолаге; en - биоладж
+batiste - батисте; en - бейтист
+satin - сатин; en - сейтин
+barbary - барбари; en - барбейри
+oasis - оасис; en - оазис
+parfum - парфум; en - парфум
+molecule - молеcуле; ita - молекуле
+azzaro - аззаро; ita - аццаро
+perle - перле; en - перл
+booster - боостер; en - бустер
+invictus - инвиcтус; en - инвиктус
+masura - масура; ita - масура
+lumene - лумене; ita - люмене
+teana - теана; en - тина
+kinetics - кинетиcс; en - кинетикс
+shimmer - шиммер; en - шиммер
+mancera - манcера; fra - манкера
+filigrane - филигране; en - филигрейн
+travel - травел; en - трейвел
+smashbox - смашбох; en - смашбокс
+poeme - поеме; en - поем
+metropolis - метрополис; en - метрополис
+insolence - инсоленcе; en - инсоленс
+beautyblender - беаутиблендер; fra - бьютиблендер
+guava - гуава; en - гуава
+atelier - ателиер; en - ателир
+imperatrice - императриcе; en - императрайс
+valentina - валентина; en - вейлентина
+argan - арган; en - арган
+smokey - смокей; en - смоки
+rumeur - румеур; fra - румеур
+volume - волуме; ita - волюме
+mini - мини; ita - мини
+travel - травел; en - трейвел
+kerastase - керастасе; en - керастейз
+fidji - фидджи; en - фидджи
+million - миллион; en - миллен
+lumene - лумене; ita - люмене
+kirke - кирке; en - кирк
+roller - роллер; en - роллер
+eclat - эcлат; en - эклат
+pomade - помаде; ita - помаде
+botanic - ботаниc; en - ботейник
+nectar - неcтар; en - нектар
+korres - коррес; en - коррес
+tsubaki - тсубаки; en - цюбейки
+arnaud - арнауд; en - арнод
+viktor - виктор; en - виктор
+rolf - ролф; en - ролф
+calendula - cалендула; en - кейлендюла
+yllozure - иллозуре; ita - иллозуре
+spray - спрай; en - спрей
+terracotta - терраcотта; ita - терракотта
+cushion - cушион; en - кушен
+softner - софтнер; en - софтнер
+maybelline - маибеллине; fra - мейбеллин
+revitalift - ревиталифт; en - ревитейлифт
+variete - вариете; en - вейрит
+smashbox - смашбох; en - смашбокс
+pantene - пантене; en - пантен
+baccarat - баccарат; en - баккейрат
+lumene - лумене; ita - люмене
+loreal - лореал; en - лореаль
+collagen - cоллаген; en - колладжен
+volume - волуме; ita - волюме
+liner - линер; en - линер
+minute - минуте; ita - минуте
+molecule - молеcуле; ita - молекуле
+perlier - перлиер; en - перлир
+nouba - ноуба; fra - нуба
+loreal - лореал; en - лореаль
+decollete - деcоллете; ita - деколлете
+orgasm - оргасм; en - оргасм
+avenue - авенуе; en - авеню
+affinitone - аффинитоне; en - аффинитон
+pupa - пупа; en - папа
+addict - аддиcт; en - аддикт
+bronzer - бронзер; ger - бронзер
+redken - редкен; en - редкен
+primer - пример; en - пример
+diorskin - диорскин; en - диорскин
+artdeco - артдеcо; en - артдеко
+origins - оригинс; en - ориджинс
+prisme - присме; en - присм
+maybelline - маибеллине; fra - мейбеллин
+addict - аддиcт; en - аддикт
+loreal - лореал; en - лореаль
+mosaic - мосаиc; en - мозаик
+insolence - инсоленcе; en - инсоленс
+argan - арган; en - арган
+profumo - профумо; en - профюмо
+miracle - мираcле; en - миракл
+pomade - помаде; ita - помаде
+cream - cреам; en - крим
+ultraviolet - ултравиолет; en - ультравиолет
+ultraviolet - ултравиолет; en - ультравиолет
+pomade - помаде; ita - помаде
+artist - артист; en - артист
+missha - мисша; en - мисша
+mania - маниа; en - мениа
+mizon - мизон; en - мизон
+loreal - лореал; en - лореаль
+loreal - лореал; en - лореаль
+coral - cорал; en - корал
+rimmel - риммел; en - риммел
+tonique - тоникве; fra - тоник
+lumene - лумене; ita - люмене
+rumeur - румеур; fra - румеур
+climat - cлимат; en - климат
+volume - волуме; ita - волюме
+loreal - лореал; en - лореаль
+ultraviolet - ултравиолет; en - ультравиолет
+rimmel - риммел; en - риммел
+loreal - лореал; en - лореаль
+olivia - оливиа; en - оливиа
+florabotanica - флоработаниcа; en - флорейботейника
+collistar - cоллистар; en - коллистар
+loreal - лореал; en - лореаль
+evidence - эвиденcе; en - эвиденс
+macaron - маcарон; en - мейкейрон
+loreal - лореал; en - лореаль
+turnaround - турнароунд; en - турнараунд
+cabaret - cабарет; en - кейбейрет
+shimmer - шиммер; en - шиммер
+creme - cреме; en - крем
+cabaret - cабарет; en - кейбейрет
+ballerine - баллерине; ita - баллерине
+orgasm - оргасм; en - оргасм
+aloe - алое; en - ало
+filler - филлер; en - филлер
+clinic - cлиниc; en - клиник
+loreal - лореал; en - лореаль
+loreal - лореал; en - лореаль
+mizon - мизон; en - мизон
+avenue - авенуе; en - авеню
+eclat - эcлат; en - эклат
+primer - пример; en - пример
+ibuki - ибуки; en - ибюки
+system - систем; en - систем
+filler - филлер; en - филлер
+second - сеcонд; en - секонд
+lotus - лотус; en - лотус
+ballerine - баллерине; ita - баллерине
+korres - коррес; en - коррес
+coral - cорал; en - корал
+cellmen - cеллмен; en - селлмен
+eva mosaic - эва мосаиc; en - эва мозаик
+armand basi - арманд баси; en - арманд бейзи
+gliss kur - глисс кур; en - глисс кур
+max factor - мах фаcтор; en - макс фактор
+antonio banderas - антонио бандерас; en - антонио бандерас
+le petit - ле петит; fra - ле петит
+armand basi - арманд баси; en - арманд бейзи
+green mama - греен мама; en - грин мейма
+bruno banani - бруно банани; ita - бруно банани
+green mama - греен мама; en - грин мейма
+carner barcelona - cарнер барcелона; en - карнер барселона
+antonio banderas - антонио бандерас; en - антонио бандерас
+antonio banderas - антонио бандерас; en - антонио бандерас
+eva mosaic - эва мосаиc; en - эва мозаик
+frederic malle - фредериc малле; en - фредерик молл
+angel schlesser - ангел шлессер; ger - ангел шлессер
+holika holika - холика холика; ita - холика холика
+loren cosmetic - лорен cосметиc; en - лорен косметик
+bruno banani - бруно банани; ita - бруно банани
+barba italiana - барба италиана; en - барба итейлиана
+tangle teezer - тангле теезер; en - тангл тизер
+fresh line - фреш лине; en - фреш лин
+la mer - ла мер; fra - ла мер
+la mer - ла мер; fra - ла мер
+tiziana terenzi - тизиана терензи; ger - тизиана терензи
+bruno banani - бруно банани; ita - бруно банани
+elie saab - элие сааб; en - элай сааб
+skin house - скин хоусе; en - скин хаус
+secret key - сеcрет кей; en - секрет ки
+gli elementi - гли элементи; en - гли элементи
+armand basi - арманд баси; en - арманд бейзи
+body natur - боди натур; en - боди нейтур
+armand basi - арманд баси; en - арманд бейзи
+make up - маке уп; en - мейк ап
+antonio banderas - антонио бандерас; en - антонио бандерас
+gliss kur - глисс кур; en - глисс кур
+antonio banderas - антонио бандерас; en - антонио бандерас
+antonio banderas - антонио бандерас; en - антонио бандерас
+la mer - ла мер; fra - ла мер
+sally hansen - салли хансен; en - солли хансен
+bruno banani - бруно банани; ita - бруно банани
+max factor - мах фаcтор; en - макс фактор
+gliss kur - глисс кур; en - глисс кур
+kat burki - кат бурки; en - кат бурки
+elie saab - элие сааб; en - элай сааб
+sally hansen - салли хансен; en - солли хансен
+tangle teezer - тангле теезер; en - тангл тизер
+new york - нев йорк; en - нью йорк
+gliss kur - глисс кур; en - глисс кур
+armand basi - арманд баси; en - арманд бейзи
+angel schlesser - ангел шлессер; ger - ангел шлессер
+vivienne sabo - вивиенне сабо; ita - вивиенне сабо
+merchant of venice - мерчант оф вениcе; en - меркант оф венайс
+fresh line - фреш лине; en - фреш лин
+tiziana terenzi - тизиана терензи; ger - тизиана терензи
+molto bene - молто бене; ita - молто бене
+bruno banani - бруно банани; ita - бруно банани
+la mer - ла мер; fra - ла мер
+envy me - энви ме; ita - энви ме
+sally hansen - салли хансен; en - солли хансен
+frederic malle - фредериc малле; en - фредерик молл
+house of oud - хоусе оф оуд; en - хаус оф оуд
+antonio banderas - антонио бандерас; en - антонио бандерас
+elie saab - элие сааб; en - элай сааб
+armand basi - арманд баси; en - арманд бейзи
+tangle teezer - тангле теезер; en - тангл тизер
+color mask - cолор маск; en - колор маск
+masaki matsushima - масаки матсушима; ita - масаки мацушима
+antonio banderas - антонио бандерас; en - антонио бандерас
+di parma - ди парма; ita - ди парма
+sally hansen - салли хансен; en - солли хансен
+perfect mousse - перфеcт моуссе; fra - перфект мусс
+molto bene - молто бене; ita - молто бене
+d orsay - д орсай; en - д орсей
+different company - дифферент cомпани; en - дифферент компейни
+antonio banderas - антонио бандерас; en - антонио бандерас
+angel schlesser - ангел шлессер; ger - ангел шлессер
+nature moi - натуре мои; ita - натуре мои
+antonio banderas - антонио бандерас; en - антонио бандерас
+envy me - энви ме; ita - энви ме
+vivienne sabo - вивиенне сабо; ita - вивиенне сабо
+green mama - греен мама; en - грин мейма
+super tan - супер тан; en - супер тан
+masaki matsushima - масаки матсушима; ita - масаки мацушима
+frederic malle - фредериc малле; en - фредерик молл
+eva mosaic - эва мосаиc; en - эва мозаик
+antonio banderas - антонио бандерас; en - антонио бандерас
+antonio banderas - антонио бандерас; en - антонио бандерас
+armand basi - арманд баси; en - арманд бейзи
+min new - мин нев; en - мин нью
+antonio banderas - антонио бандерас; en - антонио бандерас
+barba italiana - барба италиана; en - барба итейлиана
+frei ol - фреи ол; en - фреи ол
+el corazon - эл cоразон; en - эл корейзон
+pipi cucu - пипи cуcу; ita - пипи куку
+elie saab - элие сааб; en - элай сааб
+all mask - алл маск; en - ол маск
+petal fresh - петал фреш; en - петал фреш
+loren cosmetic - лорен cосметиc; en - лорен косметик
+de beaut - де беаут; fra - де бьют
+sally hansen - салли хансен; en - солли хансен
+pure paw paw - пуре пав пав; en - пюр пов пов
+adidas original - адидас оригинал; en - адидас ориджинал
+vivienne sabo - вивиенне сабо; ita - вивиенне сабо
+alfred dunhill - алфред дунхилл; en - алфред дунилл
+armand basi - арманд баси; en - арманд бейзи
+antonio banderas - антонио бандерас; en - антонио бандерас
+antonio banderas - антонио бандерас; en - антонио бандерас
+a t - а т; en - а т
+elie saab - элие сааб; en - элай сааб
+de marly - де марли; fra - де марли
+argan oil - арган оил; en - арган оил
+nature moi - натуре мои; ita - натуре мои
+elie saab - элие сааб; en - элай сааб
+a t - а т; en - а т
+elie saab - элие сааб; en - элай сааб
+armand basi - арманд баси; en - арманд бейзи
+bruno banani - бруно банани; ita - бруно банани
+la mer - ла мер; fra - ла мер
+paw paw - пав пав; en - пов пов
+l oreal - л ореал; en - л орил
+dear rose - деар росе; en - дир роз
+di parma - ди парма; ita - ди парма
+max factor - мах фаcтор; en - макс фактор
+tangle teezer - тангле теезер; en - тангл тизер
+lady rose - лади росе; ita - лади росе
+sally hansen - салли хансен; en - солли хансен
+bruno banani - бруно банани; ita - бруно банани
+dr stopa - др стопа; ger - др штопа
+elie saab - элие сааб; en - элай сааб
+ds laboratories - дс лабораториес; en - дс лейборейторис
+sally hansen - салли хансен; en - солли хансен
+max factor - мах фаcтор; en - макс фактор
+eva mosaic - эва мосаиc; en - эва мозаик
+parfum sur - парфум сур; en - парфум сур
+angel schlesser - ангел шлессер; ger - ангел шлессер
+a t - а т; en - а т
+bruno banani - бруно банани; ita - бруно банани
+antonio banderas - антонио бандерас; en - антонио бандерас
+super tan - супер тан; en - супер тан
+sexy hair - сехи хаир; en - секси хэйр
+angel schlesser - ангел шлессер; ger - ангел шлессер
+elie saab - элие сааб; en - элай сааб
+bruno banani - бруно банани; ita - бруно банани
+armand basi - арманд баси; en - арманд бейзи
+angel schlesser - ангел шлессер; ger - ангел шлессер
+lee stafford - лее стаффорд; ger - лее штаффорд
+kat burki - кат бурки; en - кат бурки
+institut arnaud - институт арнауд; ger - инштитут арнауд
+mi derma - ми дерма; ita - ми дерма
+elie saab - элие сааб; en - элай сааб
+armand basi - арманд баси; en - арманд бейзи
+lee stafford - лее стаффорд; ger - лее штаффорд
+francis kurkdjian - франcис куркдджиан; en - франсис куркдджиан
+le petit olivier - ле петит оливиер; fra - ле петит оливиер
+t fox - т фох; en - т фокс
+lee stafford - лее стаффорд; ger - лее штаффорд
+antonio banderas - антонио бандерас; en - антонио бандерас
+bruno banani - бруно банани; ita - бруно банани
+de farme - де фарме; fra - де фарм
+tiziana terenzi - тизиана терензи; ger - тизиана терензи
+gliss kur - глисс кур; en - глисс кур
+tiziana terenzi - тизиана терензи; ger - тизиана терензи
+sally hansen - салли хансен; en - солли хансен
+petal fresh - петал фреш; en - петал фреш
+all mask - алл маск; en - ол маск
+loren cosmetic - лорен cосметиc; en - лорен косметик
+all mask - алл маск; en - ол маск
+masaki matsushima - масаки матсушима; ita - масаки мацушима
+acqua di - аcква ди; ita - акква ди
+etude house - этуде хоусе; en - этюд хаус
+antonio banderas - антонио бандерас; en - антонио бандерас
+antonio banderas - антонио бандерас; en - антонио бандерас
+tiziana terenzi - тизиана терензи; ger - тизиана терензи
+a t - а т; en - а т
+elie saab - элие сааб; en - элай сааб
+acqua di - аcква ди; ita - акква ди
+mode zero - моде зеро; ita - моде зеро
+armand basi - арманд баси; en - арманд бейзи
+antonio banderas - антонио бандерас; en - антонио бандерас
+institut arnaud - институт арнауд; ger - инштитут арнауд
+la mer - ла мер; fra - ла мер
+min new - мин нев; en - мин нью
+a t - а т; en - а т
+alfred dunhill - алфред дунхилл; en - алфред дунилл
+house of - хоусе оф; en - хаус оф
+sue show - суе шов; en - сю шоу
+de man - де ман; fra - де ман
+dr vranjes - др вранджес; en - др вранджес
+evidens de - эвиденс де; fra - эвиденс де
+up for ever - уп фор эвер; en - ап фор эвер
+oro gold - оро голд; en - оро голд
+fragrance kitchen - фрагранcе китчен; fra - фрагранс китшен
+house of oud - хоусе оф оуд; en - хаус оф оуд
+colors of - cолорс оф; en - колорс оф
+evidens de beaut - эвиденс де беаут; fra - эвиденс де бьют
+evidens de beaut - эвиденс де беаут; fra - эвиденс де бьют
+beautiful mind - беаутифул минд; fra - бьютифул минд
+colors of - cолорс оф; en - колорс оф
+primanails - приманаилс; en - применаилс
+tokiko - токико; ita - токико
+naumov - наумов; en - номов
+shoulders - шоулдерс; en - шоулдерс
+nirvel professional - нирвел профессионал; en - нирвел профешнал
+beaut - беаут; fra - бьют
+henna - хенна; en - хенна
+stephanie - стефание; en - степейнай
+lucas - луcас; en - люкас
+cosrx - cосрх; en - косркс
+the skin - те скин; en - зе скин
+liquides - ликвидес; en - ликвидес
+artdeco - артдеcо; en - артдеко
+professionnel - профессионнел; en - профешннел
+purebess - пуребесс; en - пюребесс
+evidens - эвиденс; en - эвиденс
+malone - малоне; ita - малоне
+domix green professional - домих греен профессионал; en - домикс грин профешнал
+beautix - беаутих; fra - бьютикс
+illamasqua - илламасква; ita - илламасква
+rootree - роотрее; en - рутре
+sospiro - соспиро; en - соспиро
+too cool - тоо cоол; en - ту кул
+luckycosmetics - лукиcосметиcс; en - лукикосметикс
+clean & - cлеан; en - клин
+dr.jart+ - дрджарт; en - дрджарт
+lutens - лутенс; en - лютенс
+tangle - тангле; en - тангл
+eos - еос; en - ис
+cleef - cлееф; en - клиф
+banila - банила; ita - банила
+l oreal - л ореал; en - л орил
+cologne-zation - cологне-затион; en - кологне-зашен
+rearar - реарар; en - реарар
+piaubert - пиауберт; fra - пиауберт
+make up for - маке уп фор; en - мейк ап фор
+rocknailstar - рокнаилстар; ger - рокнаилштар
+banderas - бандерас; en - бандерас
+let - лет; en - лет
+ecotools - эcотоолс; en - экотулс
+ryoe - риое; en - рио
+luckygift - лукигифт; en - лукиджифт
+collistar - cоллистар; en - коллистар
+saab - сааб; en - сааб
+zarkoperfume - заркоперфуме; en - заркоперфюм
+coop - cооп; en - куп
+the merchant of - те мерчант оф; en - зе меркант оф
+blistex - блистех; en - блистекс
+dolce & - долcе; en - долс
+st.moriz - стмориз; en - стмориз
+make - маке; ita - маке
+guardian - гуардиан; en - гуардиан
+mer - мер; en - мер
+envy - энви; en - энви
+deoproce - деопроcе; en - дипрос
+cnd - cнд; en - кнд
+atkinsons - аткинсонс; en - аткинсонс
+newyork - невиорк; en - ньюиорк
+novexpert - новехперт; en - новексперт
+merchant - мерчант; en - меркант
+francis - франcис; en - франсис
+saem - саем; en - саем
+expert - эхперт; en - эксперт
+sabo - сабо; ita - сабо
+maybelline new - маибеллине нев; ita - маибеллине нев
+simone - симоне; ita - симоне
+medibeau - медибеау; fra - медибо
+mavala - мавала; ita - мавала
+the house of - те хоусе оф; en - зе хаус оф
+profumum - профумум; en - профюмум
+moly - моли; en - моли
+beyonce - беионcе; en - бионс
+12 parfumeurs - 12 парфумеурс; fra - 12 парфумеурс
+cosmetic - cосметиc; en - косметик
+provocateur - провоcатеур; fra - провокатеур
+misslyn - мисслин; en - мисслин
+the history - те хистори; en - зе хистори
+pole - поле; ita - поле
+lab - лаб; en - лаб
+oniq - оник; en - оник
+italwax - италвах; en - италвакс
+keranove - керанове; ita - керанове
+elizavecca - элизавеccа; ita - элизавецца
+from - фром; en - фром
+montagne - монтагне; en - монтагн
+rene - рене; ita - рене
+acqua - аcква; en - акква
+mashimaro - машимаро; en - машимейро
+cutrin - cутрин; en - кутрин
+l'action - лаcтион; en - лакшен
+blise - блисе; en - близ
+history of - хистори оф; en - хистори оф
+escentric - эскентриc; en - эссентрик
+tang - танг; en - танг
+bqan - бкан; en - бкан
+chado - чадо; en - кейдо
+barcelona - барcелона; en - барселона
+palette - палетте; ita - палетте
+yamano - ямано; en - йамено
+carolina - cаролина; ita - каролина
+roxy - рохи; en - рокси
+welcos - велcос; en - велкос
+ingarden - ингарден; en - ингарден
+the house - те хоусе; en - зе хаус
+nyce - ниcе; en - нис
+box - бох; en - бокс
+state - стате; en - стейт
+ollin - оллин; en - оллин
+so-men - со-мен; ita - со-мен
+monami - монами; ita - монами
+fitoforce - фитофорcе; en - фитофорс
+h2o+ - х2о; en - х2о
+heeley - хеелей; en - хили
+chopard - чопард; en - копард
+tabac - табаc; en - тейбак
+remeque - ремекве; fra - ремек
+bene - бене; ita - бене
+sarah jessica - сарах джессиcа; en - сейрах джессика
+meishoku - меишоку; en - меишоку
+artex - артех; en - артекс
+lunaris - лунарис; en - люнейрис
+rodriguez - родригуез; en - родригьюз
+abercrombie - аберcромбие; en - аберкромбай
+double - доубле; fra - дубле
+babor - бабор; en - бейбор
+head & - хеад; en - хид
+nesti - нести; en - нести
+smith - смит; en - смис
+airnails - аирнаилс; en - эйрнаилс
+kose - косе; ita - косе
+moroccan - мороccан; en - мороккан
+mugler - муглер; en - муглер
+shanghai - шангхаи; en - шангаи
+let me - лет ме; en - лет м
+backstage - бакстаге; ger - бакштаге
+privia - привиа; en - привиа
+fitch - фитч; en - фитч
+callicos - cаллиcос; en - колликос
+face - фаcе; ita - фаче
+igrobeauty - игробеаути; fra - игробьюти
+eutopie - еутопие; en - евтопай
+trans-dermal® - транс-дермал; en - транс-дермал
+lovely - ловели; en - ловели
+stopa - стопа; en - стопа
+truefitt & - труефитт; en - трьюфитт
+gunzburg - гунзбург; ger - гунцбург
+mediheal - медихеал; en - медихил
+living - ливинг; en - ливинг
+herrera - херрера; ita - херрера
+sunshine - суншине; en - суншин
+l`oreal - лореал; en - лореаль
+stick - стик; en - стик
+cellnco - cеллнcо; en - селлнко
+ric - риc; en - рик
+project - проджеcт; en - проджект
+caudalie - cаудалие; en - кодейлай
+passion - пассион; en - пашн
+margiela - маргиела; en - марджила
+canto - cанто; en - канто
+ncla - нcла; en - нкла
+miami - миами; en - миами
+pupa - пупа; en - папа
+research - ресеарч; en - ресирч
+parfumerie - парфумерие; en - парфюмерай
+jeanne - джеанне; en - джинн
+essie - эссие; ita - эссие
+bluesky - блуески; en - бльюски
+lottie - лоттие; ita - лоттие
+ryo - рио; en - рио
+key - кей; en - ки
+mstar - мстар; ger - мштар
+skinfood - скинфоод; en - скинфуд
+vprove - впрове; en - впров
+culti - cулти; en - култи
+eight - еигхт; en - еигт
+prorance - проранcе; fra - проранс
+no:hj - нохдж; en - нохдж
+grattol - граттол; en - граттол
+avotte - авотте; ita - авотте
+estelare - эстеларе; en - эстелейр
+cleamy - cлеами; en - клими
+jessica - джессиcа; ita - жессика
+attar - аттар; en - аттар
+school - шоол; ger - шоол
+yoko - йоко; en - йоко
+factory - фаcтори; en - фактори
+dongbang - донгбанг; en - донгбанг
+aspasia - аспасиа; en - аспейзиа
+koelf - коелф; en - коелф
+soap - соап; en - соап
+atopalm - атопалм; en - атопалм
+nayada - наяда; en - нейейда
+saint - саинт; en - саинт
+ladamer - ладамер; en - лейдеймер
+sue - суе; en - сю
+barlet - барлет; en - барлет
+hashtag - хаштаг; en - хаштаг
+ayoume - аюме; en - ейоум
+sens - сенс; en - сенс
+pnb - пнб; en - пнб
+parfum sur - парфум сур; en - парфум сур
+formulas - формулас; en - формюлас
+cuccio - cуccио; ita - куччио
+rabanne - рабанне; en - рейбанн
+ezflow - эзфлов; ger - эзфлов
+the spirit of - те спирит оф; en - зе спирит оф
+helen - хелен; en - хелен
+bal - бал; en - бал
+rubinstein - рубинстеин; ger - рубинштейн
+kanebo - канебо; ita - канебо
+molto - молто; en - молто
+girls - гирлс; en - джирлс
+cristiano - cристиано; en - кристиано
+missha - мисша; en - мисша
+lioele - лиоеле; fra - лиоеле
+ipkn - ипкн; en - ипкн
+diva - дива; ita - дива
+roxy nail - рохи наил; en - рокси наил
+swisspure - свисспуре; en - свисспюр
+robin - робин; en - робин
+parma - парма; en - парма
+issey - иссей; en - исси
+funky - функи; en - функи
+oreal - ореал; en - орил
+japan - джапан; en - джейпан
+cannes - cаннес; en - каннес
+daeng gi meo - даенг ги мео; en - даенг джи ми
+cellmen - cеллмен; en - селлмен
+comme - cомме; en - комм
+house - хоусе; en - хаус
+pipi - пипи; ita - пипи
+essentiel - эссентиел; en - эссентил
+profi - профи; en - профи
+marlies - марлиес; en - марлис
+nothing - нотинг; en - нозинг
+mühle - мüхле; ger - мюхле
+amouroud - амоуроуд; fra - амуруд
+burner - бурнер; en - бурнер
+moi - мои; en - мои
+siberica - сибериcа; ita - сиберика
+daeng gi - даенг ги; en - даенг джи
+fragrance - фрагранcе; fra - фрагранс
+nyx professional make - них профессионал маке; en - никс профешнал мейк
+ferre - ферре; ita - ферре
+herve - херве; en - херв
+look - лоок; en - лук
+jeunesse - джеунессе; ita - жьюнессе
+bluesea nail - блуесеа наил; en - бльюси наил
+kingsley - кингслей; en - кингсли
+clive - cливе; en - клив
+jigott - джиготт; en - джиготт
+maxclinic - махcлиниc; en - максклиник
+daeng - даенг; en - даенг
+milv - милв; en - милв
+upd - упд; en - апд
+elseda - элседа; en - элседа
+hugo - хуго; ita - хуго
+terry - терри; en - терри
+flou - флоу; fra - флу
+the face - те фаcе; ita - тхе фаче
+ermenegildo - эрменегилдо; en - эрменеджилдо
+pantene - пантене; en - пантен
+giorgio - гиоргио; en - джиорджио
+creative nail - cреативе наил; en - критив наил
+clean - cлеан; en - клин
+bits - битс; en - биц
+kinetics - кинетиcс; en - кинетикс
+reasons - реасонс; en - реасонс
+bruijn - - бруиджн; en - брюиджн
+stephanie de - стефание де; fra - стефани де
+decay - деcай; en - декей
+brown - бровн; en - броун
+maniküre - маникüре; fra - маникур
+epil - эпил; en - эпил
+eva - эва; en - эва
+moremo - моремо; ita - моремо
+mad - мад; en - мад
+eliokap - элиокап; en - элиокап
+different - дифферент; en - дифферент
+nail design - наил десигн; en - наил дезигн
+medical - медиcал; en - медикал
+xerjoff - херджофф; en - ксерджофф
+guam natura bio - гуам натура био; en - гуам натюра био
+yu.r - йур; en - йур
+furterer - фуртерер; en - фуртерер
+entity - энтити; en - энтити
+petit - петит; en - петит
+simple - симпле; en - симпл
+genty - генти; en - дженти
+sexy - сехи; en - секси
+plant - плант; en - плант
+evidens de - эвиденс де; fra - эвиденс де
+rio profi - рио профи; en - рио профи
+meo - мео; en - ми
+five - фиве; ita - фиве
+christian - чристиан; en - кристиан
+mdoc - мдоc; en - мдок
+van - ван; en - ван
+spirit of - спирит оф; en - спирит оф
+castillo - cастилло; ita - кастилло
+nu_be - нубе; ita - нубе
+history - хистори; en - хистори
+ultimate - ултимате; en - юлтимейт
+nail - наил; en - наил
+may - май; en - мей
+story - стори; en - стори
+g.art - гарт; en - гарт
+vov - вов; en - вов
+lombok - ломбок; en - ломбок
+bio - био; en - био
+blumarine - блумарине; en - блюмейрин
+berrisom - беррисом; en - берризом
+mielle - миелле; ita - миелле
+lady - лади; en - лейди
+f.o.x - фох; en - фокс
+organix - органих; en - оргейникс
+joy - джой; en - джои
+elie - элие; en - элай
+moltobene - молтобене; en - молтобен
+eunyul - еуниул; en - евнюл
+laneige - ланеиге; en - лейнеидж
+llang - лланг; en - лланг
+matrix - матрих; en - матрикс
+masaki - масаки; ita - масаки
+winx - винх; en - винкс
+cell-plus - cелл-плус; en - селл-плус
+farmstay - фармстай; en - фармстей
+beauty - беаути; fra - бьюти
+fee - фее; en - фе
+mode - моде; ita - моде
+bruijn - parfum - бруиджн - парфум; en - брюиджн - парфум
+professionals - профессионалс; en - профешналс
+godefroy - годефрой; en - годефрои
+ferragamo - феррагамо; ita - феррагамо
+alexander - алехандер; en - александер
+cucu - cуcу; ita - куку
+jimmy - джимми; en - джимми
+foot - фоот; en - фут
+ramosu - рамосу; ita - рамосу
+majda - маджда; en - маджда
+dirinon - диринон; en - диринон
+hauschka - хаушка; ger - гаушка
+frei - фреи; en - фреи
+molinard - молинард; en - молинард
+corine de - cорине де; fra - корин де
+ors - орс; en - орс
+ledibelle - ледибелле; fra - ледибелле
+cartney - cартней; en - картни
+orlane - орлане; en - орлейн
+zinger - зингер; en - зинджер
+fresh - фреш; en - фреш
+biomax - биомах; en - биомакс
+gambs - гамбс; en - гамбс
+ogx - огх; en - огкс
+too cool for - тоо cоол фор; en - ту кул фор
+bob - боб; en - боб
+avecmoi - авеcмои; en - авекмои
+karadium - карадиум; en - кейрейдиум
+arabia - арабиа; en - арейбиа
+maori - маори; en - маори
+baylis&harding - баилишардинг; en - бейлишардинг
+dunhill - дунхилл; en - дунилл
+linger - лингер; en - линджер
+bar - бар; en - бар
+show - шов; en - шоу
+saeyang - саеянг; en - сейианг
+sergey - сергей; en - серджи
+estee - эстее; en - эсте
+borodist - бородист; en - бородист
+traditions - традитионс; en - трейдишенс
+smith & - смит; en - смис
+professional make - профессионал маке; en - профешнал мейк
+neonail - неонаил; en - нинаил
+yamamoto - ямамото; en - йамеймото
+maison francis - маисон франcис; en - маизон франсис
+update - упдате; en - апдейт
+silver star - силвер стар; ger - зилфер штар
+beautyblender - беаутиблендер; fra - бьютиблендер
+franck - франк; en - франк
+girls envy - гирлс энви; en - джирлс энви
+armand - арманд; en - арманд
+innovator - инноватор; en - инновейтор
+moraz - мораз; en - мораз
+ibd - ибд; en - ибд
+parfums - парфумс; en - парфумс
+dose of - досе оф; ita - досе оф
+graymelin - граимелин; en - греймелин
+skineye - скинеие; en - скини
+gliss - глисс; en - глисс
+minnie - минние; en - миннай
+smashbox - смашбох; en - смашбокс
+justessence - джустессенcе; ita - жустессенче
+tov - тов; en - тов
+sally - салли; en - солли
+oud - оуд; en - оуд
+paul - паул; en - пол
+sun - сун; en - сун
+affinessence - аффинессенcе; ita - аффинессенче
+thalgo - талго; en - салго
+paw - пав; en - пов
+elementi - элементи; en - элементи
+declare - деcларе; en - деклейр
+miracle - мираcле; en - миракл
+neltes - нелтес; en - нелтес
+organic naturally - органиc натуралли; en - оргейник нейтуролли
+nyx professional - них профессионал; en - никс профешнал
+perricone - перриcоне; ita - перриконе
+peter - петер; en - петер
+institut - институт; ger - инштитут
+tampax - тампах; en - тампакс
+uno - уно; en - юно
+skin79 - скин79; en - скин79
+soyul - соиул; en - союл
+ncla los - нcла лос; en - нкла лос
+puorella - пуорелла; ita - пуорелла
+ettang - эттанг; en - эттанг
+skin - скин; en - скин
+starck - старк; en - старк
+kiss - кисс; en - кисс
+jacques - джаcквес; fra - жакквес
+teezer - теезер; en - тизер
+karl - карл; en - карл
+chahong - чахонг; en - кейонг
+lift - лифт; en - лифт
+labiotte - лабиотте; ita - лабиотте
+echoice - эчоиcе; en - экоайс
+mary - мари; en - мейри
+everybody - эверибоди; en - эверибоди
+nihilo - нихило; ita - нихило
+rubelli - рубелли; fra - рубелли
+nyx - них; en - никс
+serge - серге; en - сердж
+generale - генерале; ita - дженерале
+bourjois - боурджоис; fra - буржуас
+dashing diva - дашинг дива; en - дашинг дива
+oro - оро; en - оро
+histoires - хистоирес; en - хистоирес
+iope - иопе; en - иоп
+corazon - cоразон; en - корейзон
+gi meo - ги мео; ita - джи мео
+zoo - зоо; en - зоо
+rules - рулес; fra - рулес
+kumano - кумано; ita - кумано
+delakrua - делакруа; en - делакруа
+parfums d - парфумс д; en - парфумс д
+toofruit - тоофруит; en - туфрюит
+ponybrown - понибровн; en - пониброун
+france - франcе; fra - франс
+day - дай; en - дей
+guam natura - гуам натура; en - гуам натюра
+moroccan argan - мороccан арган; en - мороккан арган
+gelish - гелиш; en - джелиш
+coy - cой; en - кои
+livsi - ливси; en - ливси
+a'pieu - апиеу; fra - апиеу
+head - хеад; en - хид
+oil - оил; en - оил
+hypnose - хипносе; en - хипноз
+garcons - гарcонс; en - гарконс
+bazaar - базаар; en - бейзаар
+stella - стелла; ita - стелла
+richenna - риченна; en - рикенна
+frederic - фредериc; en - фредерик
+medical beauty - медиcал беаути; fra - медикал бьюти
+rose - росе; ita - росе
+reistill - реистилл; en - реистилл
+when - вхен; en - вен
+winner - виннер; en - виннер
+comme des - cомме дес; en - комм дес
+charles - чарлес; fra - шарлес
+min new - мин нев; en - мин нью
+qvs - квс; en - квс
+camellia - cамеллиа; ita - камеллиа
+alovivi - аловиви; en - аловиви
+carol - cарол; en - кейрол
+hill - хилл; en - хилл
+buear - буеар; fra - буеар
+harmony gelish - хармони гелиш; en - хармони джелиш
+the fragrance - те фрагранcе; fra - тхе фрагранс
+feather - феатер; en - физер
+imrus - имрус; en - имрус
+jukohbi - джукохби; en - джюкохби
+ciate - cиате; en - сиат
+benetton - бенеттон; en - бенеттон
+macadamia natural - маcадамиа натурал; en - мейкейдеймиа начюрал
+kitchen - китчен; en - киткен
+carol joy - cарол джой; en - кейрол джои
+leonor - леонор; en - линор
+must-have - муст-хаве; en - муст-хейв
+bekkali - беккали; en - беккейли
+natura - натура; ita - натура
+vilhelm - вилхелм; en - вилелм
+village - виллаге; ita - вилладже
+blithe - блите; en - близ
+bio-oil - био-оил; en - био-оил
+dose - досе; ita - досе
+sexylashes - сехилашес; en - сексилашес
+frapin - фрапин; en - фрейпин
+christina - чристина; en - кристина
+tattoos - таттоос; en - таттус
+parfums bdk - парфумс бдк; en - парфумс бдк
+house of - хоусе оф; en - хаус оф
+spirit - спирит; en - спирит
+fath - фат; en - фас
+note - ноте; ita - ноте
+mind - минд; en - минд
+dodo - додо; ita - додо
+clear - cлеар; en - клир
+bnbg - бнбг; en - бнбг
+depilflax - депилфлах; en - депилфлакс
+mesure - месуре; ita - месуре
+terry de - терри де; fra - терри де
+emilien - эмилиен; en - эмилин
+cult - cулт; en - култ
+tiffany & - тиффани; en - тиффейни
+eisenberg - еисенберг; en - еизенберг
+orly - орли; en - орли
+gentle - гентле; en - джентл
+coco - cоcо; ita - коко
+biosthetique - биостетикве; fra - биостхетик
+you - йоу; en - ю
+matsushima - матсушима; en - мацушима
+poiyan - поиян; en - поиян
+essem - эссем; en - эссем
+tan - тан; en - тан
+manefit - манефит; en - менефит
+angeles - ангелес; fra - анжелес
+frudia - фрудиа; en - фрюдиа
+making of - макинг оф; en - мейкинг оф
+innisfree - иннисфрее; en - иннисфре
+archdale - арчдале; en - аркдейл
+canni - cанни; en - канни
+blend-a-med - бленд-а-мед; en - бленд-а-мед
+beaua - беауа; fra - боа
+princess - принcесс; en - принсесс
+ultimate moroccan argan - ултимате мороccан арган; en - юлтимейт мороккан арган
+petitfee - петитфее; en - петитфе
+making - макинг; en - мейкинг
+refectocil - рефеcтоcил; en - рефектосил
+niveola - нивеола; en - нивила
+maybelline - маибеллине; fra - мейбеллин
+bergamo - бергамо; en - бергеймо
+original - оригинал; en - ориджинал
+francais - франcаис; en - франкаис
+thank you - танк йоу; en - санк ю
+mask - маск; en - маск
+macadamia - маcадамиа; en - мейкейдеймиа
+roald - роалд; en - роалд
+proud - проуд; fra - пруд
+shakira - шакира; en - шейкира
+hansen - хансен; en - хансен
+beyu - беиу; en - биу
+factor - фаcтор; en - фактор
+h.air - хаир; en - хэйр
+ysl - исл; en - йсл
+demidoff - демидофф; en - демидофф
+coocla - cооcла; en - кукла
+dashing - дашинг; en - дашинг
+kurkdjian - куркдджиан; en - куркдджиан
+discreet - дискреет; en - дискрит
+elements - элементс; en - элеменц
+mcqueen - мcквеен; fra - мкквеен
+kodomo - кодомо; ita - кодомо
+zenzia - зензиа; en - зензиа
+jie - джие; en - джай
+natur - натур; en - нейтур
+ricci - риccи; ita - риччи
+elite - элите; en - элит
+amundsen - амундсен; en - амундсен
+proof - прооф; en - пруф
+organica - органиcа; en - оргейника
+strong - стронг; en - стронг
+boellis - боеллис; en - боеллис
+body - боди; en - боди
+urban - урбан; en - юрбан
+tiziana - тизиана; en - тизиана
+bottega - боттега; ita - боттега
+nasomatto - насоматто; ita - насоматто
+milatte - милатте; ita - милатте
+cospharm - cосфарм; en - коспарм
+state of - стате оф; en - стейт оф
+katani - катани; ita - катани
+aether - аетер; en - аезер
+paco - паcо; ita - пако
+imnail - имнаил; en - имнаил
+provost - провост; en - провост
+farmer - фармер; en - фармер
+philip - филип; en - пилип
+yadah - ядах; en - йадах
+runail - рунаил; en - рюнаил
+helena - хелена; ita - хелена
+shary - шари; en - шейри
+essence - эссенcе; ita - эссенче
+chabaud - чабауд; en - кабод
+graceful - граcефул; en - грейсефул
+coppola - cоппола; ita - коппола
+puf - пуф; en - пуф
+deve - деве; ita - деве
+cellcosmet & - cеллcосмет; en - селлкосмет
+vivienne - вивиенне; en - вивинн
+creative nail design - cреативе наил десигн; en - критив наил дезигн
+tartiso - тартисо; en - тартизо
+artnails - артнаилс; en - артнаилс
+nirvel - нирвел; en - нирвел
+lululun - лулулун; en - люлюлун
+baekoksen - баекоксен; en - баекоксен
+snp - снп; en - снп
+dante - данте; en - дант
+milk - милк; en - милк
+no.9 - но9; en - но9
+treets - треетс; en - триц
+lashem - лашем; en - лашем
+union - унион; en - юнен
+de bruijn - де бруиджн; fra - де бруижн
+all - алл; en - ол
+natura bio - натура био; ita - натура био
+orto - орто; en - орто
+entel - энтел; en - энтел
+make up - маке уп; en - мейк ап
+anskin - анскин; en - анскин
+rainbird - раинбирд; en - раинбирд
+united - унитед; en - юнитед
+parisi - париси; ita - париси
+hask - хаск; en - хаск
+isabey - исабей; en - изейби
+series - сериес; en - серис
+mbr - мбр; en - мбр
+hype - хипе; en - хип
+alfred - алфред; en - алфред
+metzger - метзгер; ger - метцгер
+sungbo - сунгбо; en - сунгбо
+yohji - йохджи; en - йохджи
+naris - нарис; en - нейрис
+benovy - бенови; en - бенови
+parfums de - парфумс де; fra - парфумс де
+- parfum sur - парфум сур; en - парфум сур
+nails - наилс; en - наилс
+payot - паиот; en - пейот
+tous - тоус; fra - тус
+novella - новелла; ita - новелла
+moyou - мою; en - мою
+kodi - коди; ita - коди
+gourmandise - гоурмандисе; fra - гурмандиз
+eyenlip - еиенлип; en - иенлип
+yves saint - ивес саинт; en - йвес саинт
+los - лос; en - лос
+stafford - стаффорд; en - стаффорд
+levissime - левиссиме; ita - левиссиме
+juno - джуно; ita - жуно
+shelim - шелим; en - шелим
+profvmo - профвмо; en - профвмо
+mousse - моуссе; fra - мусс
+inoface - инофаcе; en - инофейс
+ronaldo - роналдо; en - роналдо
+konad - конад; en - конад
+nishane - нишане; en - нишейн
+worthington - вортингтон; en - ворзингтон
+candles - cандлес; fra - кандлес
+atelier des - ателиер дес; en - ателир дес
+- parfum - парфум; en - парфум
+diptyque - диптикве; fra - диптик
+parfumeurs - парфумеурс; fra - парфумеурс
+seantree - сеантрее; en - синтре
+yummmy - йуммми; en - йуммми
+cnd creative nail - cнд cреативе наил; en - кнд критив наил
+soleo - солео; en - соли
+frienvita - фриенвита; en - фринвита
+bruijn - бруиджн; en - брюиджн
+welton - велтон; en - велтон
+united colors - унитед cолорс; en - юнитед колорс
+nomenclature - номенcлатуре; en - номенклачур
+diaforce - диафорcе; en - диафорс
+too - тоо; en - ту
+tnl professional - тнл профессионал; en - тнл профешнал
+ruta - рута; ita - рута
+origins - оригинс; en - ориджинс
+axe - ахе; en - акс
+mori - мори; ita - мори
+atelier - ателиер; en - ателир
+rio - рио; en - рио
+uskusi - ускуси; en - юскюзи
+des - дес; en - дес
+dali - дали; ita - дали
+skcom - скcом; en - скком
+burki - бурки; en - бурки
+maison - маисон; en - маизон
+rastase - растасе; en - растейз
+united colors of - унитед cолорс оф; en - юнитед колорс оф
+nine - нине; ita - нине
+cheng - ченг; en - кенг
+iceland - иcеланд; en - айсланд
+stephanie de bruijn - стефание де бруиджн; fra - стефани де бруижн
+vranjes - вранджес; en - вранджес
+galion - галион; en - гален
+swarovski - сваровски; en - своровски
+homme - хомме; en - хомм
+cloud - cлоуд; fra - клуд
+alyson - алисон; en - ализон
+clinic - cлиниc; en - клиник
+schwarzkopf - шварзкопф; ger - шварцкопф
+lebelage - лебелаге; ita - лебеладже
+zab - заб; en - заб
+bluesea - блуесеа; en - бльюси
+merchant of - мерчант оф; en - меркант оф
+flor - флор; en - флор
+whoo - вхоо; en - хуо
+goti - готи; ita - готи
+cnd creative - cнд cреативе; en - кнд критив
+beautiful - беаутифул; fra - бьютифул
+petal - петал; en - петал
+batiste - батисте; en - бейтист
+thank - танк; en - санк
+lazartigue - лазартигуе; en - лейзартигю
+relent - релент; en - релент
+secret - сеcрет; en - секрет
+milano - милано; ita - милано
+italiana - италиана; en - итейлиана
+majda bekkali - маджда беккали; en - маджда беккейли
+hdfreza - хдфреза; ger - хдфреза
+veet - веет; en - вит
+eight & - еигхт; en - еигт
+mosaic - мосаиc; en - мозаик
+santa - санта; en - санта
+unwash - унваш; en - юнваш
+colors of - cолорс оф; en - колорс оф
+alex - алех; en - алекс
+grace - граcе; en - грейс
+acqua di - аcква ди; ita - акква ди
+narciso - нарcисо; en - нарсизо
+silver - силвер; en - силвер
+simply - симпли; en - симпли
+kure - куре; ita - куре
+pure paw - пуре пав; ita - пуре пав
+mukunghwa - мукунгхва; en - мюкунгва
+jul - джул; en - джул
+cosmetics - cосметиcс; en - косметикс
+min - мин; en - мин
+varvatos - варватос; en - варвейтос
+methode jeanne - методе джеанне; en - мезод джинн
+ardell - арделл; en - арделл
+dear - деар; en - дир
+beauty-free - беаути-фрее; fra - бьюти-фре
+toni&guy - тонигуй; en - тонигуи
+diva nail - дива наил; ita - дива наиль
+sothys - сотис; en - созис
+glov - глов; en - глов
+aurelia - аурелиа; en - орелиа
+nila - нила; ita - нила
+the merchant - те мерчант; en - зе меркант
+memo - мемо; ita - мемо
+yezihu - йезиху; en - езиху
+dessange - дессанге; ita - дессандже
+gate - гате; ita - гате
+profumo - профумо; en - профюмо
+naturally - натуралли; en - нейтуролли
+it s - ит с; en - ит с
+fitzgerald - фитзгералд; ger - фитцгералд
+klio - клио; en - клио
+delacourte - делаcоурте; fra - делакурт
+farme - фарме; en - фарм
+jessnail - джесснаил; en - джесснаил
+boclet - боcлет; en - боклет
+the different - те дифферент; en - зе дифферент
+j cat - дж cат; en - дж кат
+esthetic - эстетиc; en - эсзетик
+four - фоур; fra - фур
+dorco - дорcо; en - дорко
+yves - ивес; en - йвес
+arnelle - арнелле; ita - арнелле
+roja - роджа; ita - рожа
+frieda - фриеда; en - фрида
+it's - итс; en - иц
+laboratories - лабораториес; en - лейборейторис
+microtech - миcротеч; en - микротеч
+jul et - джул эт; en - джул эт
+naturaverde - натураверде; en - натюрейверд
+ormonde - ормонде; en - ормонд
+christophe - чристофе; en - кристоп
+shop - шоп; en - шоп
+salvatore - салваторе; en - салвейтор
+nars - нарс; en - нарс
+etude - этуде; en - этюд
+tsubaki - тсубаки; en - цюбейки
+moscow - москов; en - москоу
+haken - хакен; en - хейкен
+mancera - манcера; fra - манкера
+prairie - праирие; en - прэйрай
+naomi - наоми; en - наоми
+roubloff - роублофф; fra - рублофф
+tnl - тнл; en - тнл
+up for - уп фор; en - ап фор
+hair - хаир; en - хэйр
+aromase - аромасе; en - аромейз
+miyake - мияке; en - мияк
+stella mc - стелла мc; en - стелла мк
+bonacure - бонаcуре; ita - бонакуре
+epoux - эпоух; fra - эпо
+orsay - орсай; en - орсей
+premiere - премиере; en - премьер
+domix - домих; en - домикс
+imkosmetik - имкосметик; en - имкосметик
+imaginaires - имагинаирес; en - имаджинэйрес
+paris - парис; en - пейрис
+just - джуст; en - джуст
+schlesser - шлессер; ger - шлессер
+instagirl - инстагирл; ger - инштагирл
+crystallized - cристаллизед; en - кристоллизед
+pelican - пелиcан; en - пеликан
+histoires de - хистоирес де; fra - хистуарес де
+colab - cолаб; en - колаб
+foodaholic - фоодахолиc; en - фудейолик
+kocostar - коcостар; en - кокостар
+blumei - блумеи; en - блюмеи
+osis+ - осис; en - озис
+gosh - гош; en - гош
+yeon - йеон; en - еон
+terenzi - терензи; ger - терензи
+colline - cоллине; ita - коллине
+derma - дерма; en - дерма
+green professional - греен профессионал; ger - греен профессионал
+ciracle - cираcле; en - сиракл
+bdk - бдк; en - бдк
+miso - мисо; ita - мисо
+orthia - ортиа; en - орзиа
+molecules - молеcулес; fra - молекулес
+malle - малле; ita - малле
+soda - сода; ita - сода
+boucheron - боучерон; fra - бушерон
+carner - cарнер; en - карнер
+100% - 100; en - 100
+de bruijn - - де бруиджн; fra - де бруижн
+balm - балм; en - балм
+kobo - кобо; ita - кобо
+tattoo - таттоо; ita - таттоо
+nature - натуре; ita - натуре
+anthony - антони; en - анзони
+nailtes - наилтес; en - наилтес
+cool for - cоол фор; en - кул фор
+dubai - дубаи; en - дюбаи
+lacomchir - лаcомчир; en - лейкомкир
+wella - велла; ita - велла
+hakuichi - хакуичи; en - хейкюики
+mades - мадес; en - мейдес
+redtera - редтера; en - редтера
+maghiali - магхиали; en - магиали
+vanedo - ванедо; ita - ванедо
+dare - даре; ita - даре
+the vagabond - те вагабонд; en - зе вейгейбонд
+atkinsons london - аткинсонс лондон; en - аткинсонс лондон
+d'beaucer - дбеауcер; fra - дбокер
+bosley - бослей; en - босли
+lunail - лунаил; en - люнаил
+accessory - аccессори; en - аксессори
+hanil - ханил; en - хейнил
+farm - фарм; en - фарм
+newgen - невген; en - ньюджен
+jayjun - джаиджун; en - джейджун
+1799 - 1799; en - 1799
+gli - гли; en - гли
+all mask - алл маск; en - ол маск
+village 11 - виллаге 11; en - вилладж 11
+haruyama - харуяма; en - харюяма
+aravia - аравиа; en - арейвиа
+ecopure - эcопуре; en - экопюр
+for - фор; en - фор
+ahc - ахc; en - ахк
+choo - чоо; en - ку
+admiranda - адмиранда; en - адмиранда
+kat - кат; en - кат
+greyl - греил; en - грил
+sarah - сарах; en - сейрах
+sur - сур; en - сур
+inside - инсиде; en - инсид
+olivier - оливиер; en - оливир
+barba - барба; en - барба
+bond - бонд; en - бонд
+look nail - лоок наил; en - лук наил
+ubu - убу; en - юбу
+start - старт; en - старт
+truefitt - труефитт; en - трьюфитт
+mama - мама; ita - мама
+the spirit - те спирит; en - зе спирит
+corine - cорине; ita - корине
+baviphat - бавифат; en - бейвипат
+geomar - геомар; en - джимар
+marly - марли; en - марли
+enprani - энпрани; en - энпрейни
+cell - cелл; en - селл
+sally's - саллис; en - соллис
+cologne - cологне; en - кологн
+basi - баси; ita - баси
+the history of - те хистори оф; en - зе хистори оф
+domix green - домих греен; en - домикс грин
+golden line - голден лине; en - голден лин
+papaw - папав; en - папов
+oldoini - олдоини; en - олдоини
+kur - кур; en - кур
+shara - шара; en - шейра
+labay - лабай; en - лабей
+liu - лиу; en - лиу
+glamglow - гламглов; en - гламглоу
+organic - органиc; en - оргейник
+moyou london - мою лондон; en - мою лондон
+lianail - лианаил; en - лианаил
+elisha - элиша; en - элиша
+base - басе; ita - басе
+rire - рире; ita - рире
+rohto - рохто; en - рохто
+sylvaine - силваине; en - силваин
+mijin - миджин; en - миджин
+severina - северина; ita - северина
+nonicare - нониcаре; ita - ноникаре
+man - ман; en - мен
+ultimate moroccan - ултимате мороccан; en - юлтимейт мороккан
+hayari - хаяри; en - хейейри
+the plant - те плант; en - зе плант
+abercrombie & - аберcромбие; en - аберкромбай
+lcn - лcн; en - лкн
+thierry - тиерри; en - зиерри
+a t - а т; en - а т
+ever - эвер; en - эвер
+kerastase - керастасе; en - керастейз
+switzerland - свитзерланд; ger - свицерланд
+starpil - старпил; en - старпил
+harizma - харизма; ger - гаризма
+methode - методе; en - мезод
+barth - барт; en - барс
+ohe - охе; en - ох
+jayne - джаине; en - джейн
+veneta - венета; ita - венета

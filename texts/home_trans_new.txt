@@ -18,13 +18,12 @@ misty - мисти; en - мисти
 gsi - гси; en - гси
 standartpark - стандартпарк; en - стандартпарк
 azzurra - аззурра; ita - аццурра
-d&k - д&к; en - д&к
 primet - примет; en - примет
 ecoceramic - эcоcерамиc; en - экосереймик
 esbano - эсбано; en - эсбейно
 piteco - питеcо; ita - питеко
 richfloor - ричфлоор; en - рикфлур
-t.plast - т.пласт; en - т.пласт
+t.plast - тпласт; en - тпласт
 dupont - дупонт; en - дюпонт
 aviora - авиора; en - авиора
 paulmark - паулмарк; en - полмарк
@@ -42,7 +41,7 @@ avanti - аванти; en - аванти
 valente - валенте; en - вейлент
 kastamonu - кастамону; en - кастеймону
 eurolux - еуролух; fra - евролюкс
-am.pm - ам.пм; en - ам.пм
+am.pm - ампм; en - ампм
 aquatek - акватек; en - акватек
 sonoplat - соноплат; en - соноплат
 dreams - дреамс; en - дримс
@@ -136,7 +135,7 @@ kronospan - кроноспан; en - кроноспан
 wand der - ванд дер; ger - ванд дер
 velux - велух; fra - велюкс
 hegel - хегел; en - хеджел
-d.craft - д.cрафт; en - д.крафт
+d.craft - дcрафт; en - дкрафт
 hausys - хаусис; en - хосис
 conca - cонcа; en - конка
 panel - панел; en - пейнел
@@ -153,7 +152,7 @@ usp - усп; en - юсп
 blb - блб; en - блб
 henkel - хенкел; en - хенкел
 atoll - атолл; en - атолл
-soler&palau - солер&палау; en - солер&пало
+soler&palau - солерпалау; en - солерпало
 cimm - cимм; en - симм
 owens - овенс; en - овенс
 ltm - лтм; en - лтм
@@ -188,7 +187,7 @@ domoterm - домотерм; en - домотерм
 alma - алма; en - алма
 freya - фрея; en - фриа
 wolf - волф; en - волф
-victoria+albert - виcториа+алберт; en - викториа+алберт
+victoria+albert - виcториаалберт; fra - викториаалберт
 ecophon - эcофон; en - экопон
 apavisa - апависа; en - апейвиза
 bellrado - беллрадо; en - беллрейдо
@@ -234,7 +233,7 @@ doors - доорс; en - дорс
 atlas - атлас; en - атлас
 super - супер; en - супер
 schock - шок; ger - шок
-s.p.a. - с.п.а; en - с.п.а
+s.p.a. - спа; en - спа
 argenta - аргента; en - арджента
 fresco - фресcо; en - фреско
 saloni - салони; ita - салони
@@ -329,7 +328,7 @@ ford - форд; en - форд
 kenda - кенда; en - кенда
 itap - итап; en - итап
 rostok - росток; en - росток
-b:rattan - б:раттан; en - б:раттан
+b:rattan - браттан; en - браттан
 electronics - элеcтрониcс; en - электроникс
 profiles - профилес; fra - профилес
 grass - грасс; en - грасс
@@ -408,7 +407,7 @@ thetford - тетфорд; en - зетфорд
 estima - эстима; en - эстима
 welt - велт; en - велт
 danogips - даногипс; en - дейноджипс
-art&max - арт&мах; en - арт&макс
+art&max - артмах; en - артмакс
 haier - хаиер; fra - хаиер
 italmix - италмих; en - италмикс
 ceramiche - cерамиче; en - сереймик
@@ -418,7 +417,7 @@ design - десигн; en - дезигн
 bugnatese - бугнатесе; en - багнейтез
 diciti - диcити; ita - дичити
 bosch - бош; ger - бош
-e.c.a. - э.c.а; en - э.к.а
+e.c.a. - эcа; en - эка
 lutece - лутеcе; ita - лутече
 torre - торре; ita - торре
 kerranova - керранова; ita - керранова
@@ -595,7 +594,7 @@ creavit - cреавит; en - кривит
 vivaldi - вивалди; en - вивалди
 general - генерал; en - дженерал
 champion - чампион; en - кампион
-weber.vetonit - вебер.ветонит; en - вебер.ветонит
+weber.vetonit - веберветонит; en - веберветонит
 whirlpower - вхирлповер; en - верлпоуер
 status - статус; en - стейтас
 kobelco - кобелcо; en - кобелко
@@ -622,7 +621,7 @@ zehnder - зехндер; en - зехндер
 aspro - аспро; en - аспро
 wellton - веллтон; en - веллтон
 nofer - нофер; en - нофер
-bagno & - багно &; en - багно &
+bagno & - багно; en - багно
 smartsant - смартсант; en - смартсант
 ceradim - cерадим; en - серейдим
 giulini - гиулини; en - джиулини
@@ -764,7 +763,7 @@ ekf - экф; en - экф
 eban - эбан; en - эбан
 cerdomus - cердомус; en - сердомас
 lvi - лви; en - лви
-dreja.eco - дреджа.еcо; en - дреджа.еко
+dreja.eco - дреджаеcо; en - дреджаеко
 dekowin - дековин; en - декоуин
 italon - италон; en - итейлон
 kraus - краус; en - крос
@@ -792,7 +791,7 @@ borrex - боррех; en - боррекс
 polinet - полинет; en - полинет
 fubag - фубаг; en - фюбаг
 tikkurila - тиккурила; en - тикерила
-villeroy & - виллерой &; en - виллерои &
+villeroy & - виллерой; en - виллерои
 optima - оптима; en - оптима
 fischer - фишер; ger - фишер
 electric - элеcтриc; en - электрик
@@ -811,7 +810,7 @@ rush - руш; en - раш
 natural - натурал; en - наерал
 alveus - алвеус; en - алвьюс
 techno - течно; en - текно
-devon&devon - девон&девон; en - девон&девон
+devon&devon - девондевон; en - девондевон
 teknos - текнос; en - текнос
 belwooddoors - белвооддоорс; en - белвуддорс
 soundguard - соундгуард; fra - сундгуард
@@ -920,7 +919,7 @@ vontron - вонтрон; en - вонтрон
 relax - релах; en - релакс
 floracio - флораcио; en - флорейсио
 sorcosa - сорcоса; en - соркоза
-black&white - блак&вхите; en - блак&вит
+black&white - блаквхите; en - блаквит
 gruppo - группо; ita - группо
 bach - бач; en - бач
 webert - веберт; en - веберт
@@ -991,7 +990,6 @@ peronda - перонда; en - перонда
 caesar - cаесар; en - каезар
 okraska - окраска; en - окраска
 katepal - катепал; en - кейтепал
-p+s - п+с; en - п+с
 mobili di - мобили ди; ita - мобили ди
 heritage - херитаге; ita - херитадже
 komar - комар; en - комар

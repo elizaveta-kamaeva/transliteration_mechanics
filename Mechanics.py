@@ -1,10 +1,9 @@
 import re
+from string import punctuation
 
 
 def get_word(line):
-    #old_trans, raw_word = line.split(';')
-    listed_string = line.split('\t')
-    raw_word = listed_string[1]
+    raw_word = line.split(';')[1]
     raw_word = raw_word.strip()
     raw_word = raw_word.lower()
     word = re.search('[\w&].*[\w&]', raw_word)
@@ -22,10 +21,11 @@ def get_word(line):
 
 
 def punc_repl(word_string):
-    new_string = word_string
-    literals_dict = {"'":""}
-    for literal in literals_dict:
-        new_string = re.sub(literal, literals_dict[literal], word_string)
+    punc = punctuation.replace('-', '')
+    punc_dict = {}
+    for letter in punc:
+        punc_dict[ord(letter)] = None
+    new_string = word_string.translate(punc_dict)
     return new_string
 
 

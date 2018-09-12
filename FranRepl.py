@@ -2,9 +2,9 @@ from Mechanics import replacer
 
 
 def trans_long_ngrams(word):
-    long_ngrams_dict = {'eau':'о', 'gnie':'йн', 'ouge':'уж',
-                        'oix':'уа', 'oux':'о', 'qu[eéè]\Z':'к',
-                        'ch':'ш'}
+    long_ngrams_dict = {'beaut':'бьют', 'eau':'о', 'gnie':'йн',
+                        'ouge':'уж', 'oix':'уа', 'oux':'о',
+                        'qu[eéè]\Z':'к', 'ch':'ш'}
     new_word = replacer(word, long_ngrams_dict)
     return new_word
 
@@ -29,7 +29,7 @@ def trans_conditional(word):
 
 def trans_short_ngrams(word):
     short_ngrams_dict = {'ph':'ф', 'qu':'кв', 'sc':'ск',
-                         'cs':'кс', 'oi':'уа', 'ou':'у'}
+                         'cs':'кс', 'oi':'уа', 'ou':'у', 'ay':'ей'}
     new_word = replacer(word, short_ngrams_dict)
     return new_word
 

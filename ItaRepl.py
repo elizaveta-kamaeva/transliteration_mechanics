@@ -2,7 +2,8 @@ from Mechanics import replacer
 
 
 def trans_long_ngrams(word):
-    long_ngrams_dict = {'cch':'чч', 'zz':'цц'}
+    long_ngrams_dict = {'cch':'чч', 'zz':'цц',
+                        'lum':'люм'}
     new_word = replacer(word, long_ngrams_dict)
     return new_word
 
@@ -20,7 +21,8 @@ def trans_conditional(word):
 
 
 def trans_short_ngrams(word):
-    short_ngrams_dict = {'cc':'цц', 'ch':'к', 'qu':'кв'}
+    short_ngrams_dict = {'cc':'цц', 'ch':'к', 'qu':'кв',
+                         'sh':'ш', 'ts':'ц'}
     new_word = replacer(word, short_ngrams_dict)
     return new_word
 
