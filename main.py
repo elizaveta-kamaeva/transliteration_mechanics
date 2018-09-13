@@ -25,7 +25,7 @@ print('Progress:')
 # start working
 for line in infile:
     raw_word, word = get_word(line)
-    # if the line is empty, take another line
+    # if the line is inappropriate, take another line
     if not word:
         continue
 

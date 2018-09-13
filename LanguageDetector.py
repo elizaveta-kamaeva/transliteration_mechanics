@@ -83,10 +83,7 @@ def fr_trailer(word):
 
 def process(word):
     start_time = time()
-    it_prob = it_trailer(word)
-    de_prob = de_trailer(word)
-    fr_prob = fr_trailer(word)
-    prob_list = [fr_prob, it_prob, de_prob]
+    prob_list = [it_trailer(word), de_trailer(word), fr_trailer(word)]
     lang_list = ['fra', 'ita', 'ger']
     max_prob = max(prob_list)
     if max_prob < 1:
@@ -95,4 +92,3 @@ def process(word):
         word_lang = lang_list[prob_list.index(max_prob)]
     duration = time() - start_time
     return word_lang, duration
-

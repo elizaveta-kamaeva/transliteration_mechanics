@@ -10,6 +10,7 @@ def trans_words(word):
     new_word = replacer(word, words_dict)
     return new_word
 
+
 def trans_long_ngrams(word):
     long_ngrams_dict = {'ay':'ей',
                         'you':'ю', 'ea':'и', 'au':'о'}

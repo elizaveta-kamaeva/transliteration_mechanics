@@ -17,4 +17,4 @@ def delegator(lang, word):
         trans_word = EngRepl.process(word)
     duration = time() - start_time
     return trans_word, duration
-
+ 
