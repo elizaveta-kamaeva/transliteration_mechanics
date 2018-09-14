@@ -7,14 +7,14 @@ def get_word(line):
     word = re.search('[\w&].*[\w&]', raw_word)
     try:
         word = word.group()
-    except:
-        print('The string "{}" is empty '
-            'or less than 2 characters.'.format(raw_word))
+    except AttributeError:
+        #print('The string "{}" is empty '
+            #'or less than 2 characters.'.format(raw_word))
         return raw_word, None
 
     word = punc_repl(word)
     if len(word) < 3:
-        print('The word "{}" is too short to analyze'.format(raw_word))
+        #print('The word "{}" is too short to analyze'.format(raw_word))
         return raw_word, None
 
     return raw_word, word

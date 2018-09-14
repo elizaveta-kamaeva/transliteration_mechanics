@@ -26,6 +26,7 @@ def trans_conditional(word):
                           # combinaions of particular letters
                           '(?<=w)a(?=r)':'о',
                           '\Awr(?=\w[euioay])':'р',
+                          'l(?![euioay-])':'ль',
                           # letters + futher combinations
                           'ea(?=(d|th|lth|sure|sant))':'е',
                           't(?=(ure|ural|ury))':'ч',
@@ -41,7 +42,7 @@ def trans_conditional(word):
                           'ie\Z':'ай', 'ies\Z':'ис',
                           'th\Z':'с', 'ue\Z':'ю',
                           # empty letters
-                          '(?<=[^euioayst-])h(?!\Z)':'',
+                          '(?<=[^euioaystc-])h(?!\Z)':'',
                           'e\Z':'', 'gh\Z':''}
     new_word = replacer(word, condit_ngrams_dict)
     return new_word
@@ -53,7 +54,7 @@ def trans_short_ngrams(word):
                          'ch':'ч', 'th':'з', 'sh':'ш', 'ph':'ф',
                          'eo':'и', 'ee':'и', 'ey':'и',
                          'oar':'ор', 'oo':'у', 'ui':'юи',
-                         'ya':'я', 'ye':'е', 'yu':'ю'}
+                         'ya':'я', 'yu':'ю'}
     new_word = replacer(word, short_ngrams_dict)
     return new_word
 

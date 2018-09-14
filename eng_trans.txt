@@ -30,5 +30,7 @@ light:лайт
 door:дор
 paste:пейст
 round:раунд
+black:блэк
 angel:энджел
+parfum:парфюм
 loreal:лореаль

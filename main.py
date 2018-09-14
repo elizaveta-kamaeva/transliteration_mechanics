@@ -5,13 +5,13 @@ import LanguageDetector
 import SpecRepl
 
 
-infile_name = 'texts/translit-cosmetics.csv'
-outfile_name = 'texts/translit-cosmetics-new.txt'
+infile_name = 'texts/translit-fashion.csv'
+outfile_name = 'texts/translit-fashion-new.txt'
 infile = open(infile_name, 'r', encoding='utf-8')
 outfile = open(outfile_name, 'w', encoding='utf-8')
 
 # for reporting
-file_size = 1481
+file_size = 4899
 n = 0
 naive_trans_processing = 0.0
 language_detector_processing = 0.0
@@ -44,9 +44,9 @@ for line in infile:
     #outfile.write('{};{};{};\n'.format(raw_word, naive_trans, spec_trans))
     outfile.write('{} - {}; {} - {}\n'.format(raw_word, naive_trans, language, spec_trans))
 
-    # progress report
+    # progress report each 5%
     n += 1
-    if n % 100 == 0:
+    if n % round(5 * file_size / 100) == 0:
         progress = round(n / file_size * 100)
         print('{}{}% done'.format('|'*round(progress/4), progress))
 
