@@ -1,3 +1,5 @@
+\Ato\Z:ту
+\Aand\Z:энд
 (\A|-)the:зе
 (\A|-)eng:инг
 (\A|-)all:ол
@@ -7,6 +9,7 @@ thi:зи
 out:аут
 cush:куш
 lum:люм
+sur:сюр
 ture:чур
 tion:шен
 ssion:шн
@@ -23,12 +26,20 @@ who:ху
 zoo:зоо
 up:ап
 ice:айс
-man(?!d):мен
+\Aman:мен
+man\Z:мен
 air:эйр
 house:хаус
 light:лайт
 door:дор
 paste:пейст
 round:раунд
+black:блэк
 angel:энджел
+parfum:парфюм
+ready:реди
+parad:парад
+mind:майнд
+czech:чех
 loreal:лореаль
+longue:лонг
