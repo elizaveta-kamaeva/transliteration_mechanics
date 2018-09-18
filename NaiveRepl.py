@@ -1,4 +1,4 @@
-from Mechanics import replacer
+from mechanics.Repl import replacer
 from time import time
 
 
@@ -36,7 +36,7 @@ def trans_literals(word):
 
 def process(word):
     start_time = time()
-    long_ngrams_replaced = trans_long_ngrams(word)
+    long_ngrams_replaced = trans_long_ngrams(word.replace("'", ''))
     ends_replaced = trans_ends(long_ngrams_replaced)
     short_ngrams_replaced = trans_short_ngrams(ends_replaced)
     simple_ngrams_replaced = trans_literals(short_ngrams_replaced)

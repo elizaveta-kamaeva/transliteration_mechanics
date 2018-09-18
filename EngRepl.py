@@ -1,4 +1,5 @@
-from Mechanics import replacer
+from collections import OrderedDict
+from mechanics.Repl import replacer
 
 
 def trans_words(word):
@@ -68,8 +69,8 @@ def trans_literals(word):
     return new_word
 
 
-def process(word):
-    words_replaced = trans_words(word)
+def process(word, eng_file):
+    words_replaced = trans_words(word, eng_file)
     long_ngrams_replaced = trans_long_ngrams(words_replaced)
     condit_ngrams_replaced = trans_conditional(long_ngrams_replaced)
     short_ngrams_replaced = trans_short_ngrams(condit_ngrams_replaced)
