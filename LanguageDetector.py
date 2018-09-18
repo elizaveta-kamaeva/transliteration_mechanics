@@ -87,4 +87,4 @@ def process(word):
     else:
         word_lang = lang_list[prob_list.index(max_prob)]
     duration = time() - start_time
-    return 'eng', duration
+    return word_lang, duration

@@ -2,9 +2,9 @@ from collections import OrderedDict
 from mechanics.Repl import replacer
 
 
-def trans_words(word):
-    eng_file = open('eng_trans.txt', 'r', encoding='utf-8')
+def trans_words(word, eng_file):
     words_dict = {}
+    eng_file.seek(0)
     for line in eng_file:
         eng_word, ru_word = line.split(':')
         words_dict[eng_word] = ru_word.strip()
