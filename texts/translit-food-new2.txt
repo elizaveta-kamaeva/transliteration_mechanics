@@ -1,0 +1,2 @@
+raw_word;naive_trans;spec_trans;
+gardens - гарденс; eng - гарденс
