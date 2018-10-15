@@ -5,9 +5,9 @@ import LanguageDetector
 import SpecRepl
 
 def process(file_path):
-    vertical = file_path.split('/')[-1].split('-')[1]
     infile = open(file_path, 'r', encoding='utf-8')
     outfile = open(file_path.replace('translit', 'trans-edited'), 'w', encoding='utf-8')
+    #outfile = open(file_path.replace('.txt', '-trans.csv'), 'w', encoding='utf-8')
     eng_file = open('eng_trans.txt', 'r', encoding='utf-8')
 
     # for reporting
@@ -40,11 +40,11 @@ def process(file_path):
         spec_trans, spec_time = SpecRepl.delegator(language, word, eng_file)
         specific_trans_processing += spec_time
 
-        outfile.write('{};{};\n'.format(raw_word, naive_trans))
+        outfile.write('{};{}\n'.format(raw_word, naive_trans))
         if spec_trans != naive_trans:
-            outfile.write('{};{};\n'.format(raw_word, spec_trans))
+            outfile.write('{};{}\n'.format(raw_word, spec_trans))
 
-        # progress report each 5%
+        # progress report each 200 lines
         n += 1
         if n % 200 == 0:
             print('{} lines done'.format(n))

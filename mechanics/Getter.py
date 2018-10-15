@@ -4,6 +4,7 @@ from string import punctuation
 
 def get_word(line):
     raw_word = line.split(';')[1].strip().lower()
+    #raw_word = line.strip().lower()
     word = re.search('[\w&].*[\w&]', raw_word)
     # check if the word is less than 2 characters
     try:
@@ -21,7 +22,11 @@ def get_word(line):
 
 def punc_repl(word_string):
     punc_dict = {}
+    # except '&' because we replace it later
+    # except '-' because be leave it tht way
+    # except "'" because it helps us detect French
+    word_string = re.sub('[dm]r.', 'р ', word_string)
     for letter in re.sub("[&'-]", '', punctuation):
         punc_dict[ord(letter)] = None
-    new_string = re.sub('&', ' and ', word_string.translate(punc_dict))
+    new_string = re.sub('&', ' энд ', word_string.translate(punc_dict))
     return new_string

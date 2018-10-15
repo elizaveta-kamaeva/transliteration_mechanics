@@ -13,6 +13,7 @@ sur:сюр
 ture:чур
 tion:шен
 ssion:шн
+ight:айт
 ion\Z:ен
 tient:шент
 iere:ьер
@@ -26,11 +27,16 @@ who:ху
 zoo:зоо
 up:ап
 ice:айс
+auto:авто
+summ:самм
 \Aman:мен
 man\Z:мен
+new:нью
 air:эйр
 house:хаус
+home:хоум
 light:лайт
+techno:техно
 door:дор
 paste:пейст
 round:раунд
@@ -40,6 +46,7 @@ parfum:парфюм
 ready:реди
 parad:парад
 mind:майнд
+bear:беар
 czech:чех
 loreal:лореаль
 longue:лонг

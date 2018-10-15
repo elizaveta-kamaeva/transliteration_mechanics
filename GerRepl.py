@@ -18,7 +18,7 @@ def trans_conditional(word):
         '(?<![euioay])ä':'е',
         '\Ae(?![euioay-])':'э',
         '(?<!\Ai)st':'шт',
-        'z\Z':'ц', '\Ach':'к'})
+        't?z\Z':'ц', '\Ach':'к'})
     new_word = replacer(word, condit_ngrams_dict)
     return new_word
 

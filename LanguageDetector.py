@@ -13,7 +13,7 @@ def it_trailer(word):
     it_maygrams = {'[euioa]c[euioa]\w*[euioa]\Z',
                    'z\w*[euioa]\Z'}
 
-    it_stopgrams = {'[^euioay]{3}', 'up'}
+    it_stopgrams = {'[^euioay]{3}', 'up', '[^euioay]\Z'}
 
     it_prob = trail(word, it_ngrams, it_maygrams, it_stopgrams)
     return it_prob
@@ -24,7 +24,7 @@ def jp_trailer(word):
                  '\Aya', '\Ayo', '\Ayu', 'tsu',
                  '([euioa]|\A)j[euioa]'}
 
-    jp_maygrams = {'wa', 'wo', '([euioa]|\A)ke'
+    jp_maygrams = {'wa', 'wo', '([euioa]|\A)ke',
                    '([euioa]|\A)ka', '([euioa]|\A)ku',
                    '([euioa]|\A)ko', '([euioa]|\A)ki',
                    '([euioa]|\A)shi',
@@ -50,7 +50,7 @@ def de_trailer(word):
                    '[^euioay -]z', 'z[^euioay -]',
                    'eich', 'ein'}
 
-    de_stopgrams = {'x', 'y', 'tion', '[eiaou]{2}\Z'}
+    de_stopgrams = {'x', 'y', 'tion', '[eiaou]{2}\Z', 'light'}
 
     de_prob = trail(word, de_ngrams, de_maygrams, de_stopgrams)
     return de_prob
