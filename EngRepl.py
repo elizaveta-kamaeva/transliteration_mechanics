@@ -13,7 +13,7 @@ def trans_words(word, eng_file):
 
 
 def trans_long_ngrams(word):
-    long_ngrams_dict = {'ay':'ей', 'au':'о',
+    long_ngrams_dict = {'ay':'ей','[ao]ught':'от', 'ueu':'е',
                         'you':'ю', 'chr':'кр'}
     new_word = replacer(word, long_ngrams_dict)
     return new_word
@@ -22,14 +22,16 @@ def trans_long_ngrams(word):
 def trans_conditional(word):
     condit_ngrams_dict = OrderedDict({
         '(?<=[euioay])s(?=[euioay])':'з',
+        'ts(?=\w+)':'ц',
         # consonants + vowels
         'c(?=[eiy])':'с', '(?<!g)g(?=[eiy])':'дж',
         'a(?=[uw])':'о',
         # combinaions of particular letters
         '(?<=w)a(?=r)':'о',
-        '\Awr(?=\w[euioay])':'р',
+        '\Awr(?=[euioay])':'р',
         'j(?![euioay])':'ж',
-        '(?![euioay])th':'т',
+        '(?<![euioay])th':'т',
+        '(?<!e)ew':'ью',
         # letters + futher combinations
         'ea(?=(d|th|lth|sure|sant))':'е',
         't(?=(ure|ural|ury))':'ч',
@@ -44,21 +46,20 @@ def trans_conditional(word):
         # end of the word
         'ie\Z':'и', 'ies\Z':'ис',
         'th\Z':'с', 'ue\Z':'ю',
+        # vowels
+        'au':'о',
         # empty letters
-        '(?<=[dgkzb])h(?!\Z)':'',
-        'e\Z':'', 'gh\Z':''})
+        '(?<=[rdgkzb])h(?!\Z)':'',
+        'e\Z':''})
     new_word = replacer(word, condit_ngrams_dict)
     return new_word
 
 
 def trans_short_ngrams(word):
     short_ngrams_dict = OrderedDict({'qu':'кв', 'ie':'и', 'ue':'ью', 'eu':'ью',
-                         '[^e]ew':'ью', 'ck':'к', 'ts':'ц', 'wh':'в',
-                         'ch':'ч', 'th':'з', 'sh':'ш', 'ph':'ф',
-                         'ee':'и', 'ey':'и',
-                         'oar':'ор', 'oo':'у',
-                         'ya':'я', 'ye':'е', 'yu':'ю', 'yi':'и',
-                         'ea':'и'})
+                         'ck':'к', 'wh':'в', 'ch':'ч', 'th':'з', 'sh':'ш', 'ph':'ф',
+                         'ee':'и', 'ey':'и', 'oar':'ор', 'oo':'у',
+                         'ya':'я', 'ye':'е', 'yu':'ю', 'yi':'и', 'yo':'йо', 'ea':'и'})
     new_word = replacer(word, short_ngrams_dict)
     return new_word
 

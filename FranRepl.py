@@ -15,7 +15,7 @@ def trans_conditional(word):
     condit_ngrams_dict = OrderedDict({
         '\Ales\Z':'ле', '\Ac':'к',
         '\A[eéè](?![euioayéèàù-])':'э',
-        '\Aeu':'ев',
+        '\Aeu':'ев', 'u[eéè]u':'е',
         'u[eéè]\Z':'ью', 'gi[eéè]\Z':'ж',
         'nc[eéè]\Z':'нс',
         'g\Z':'ж','z\Z':'ц', 'y\Z':'и',

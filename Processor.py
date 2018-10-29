@@ -6,8 +6,8 @@ import SpecRepl
 
 def process(file_path):
     infile = open(file_path, 'r', encoding='utf-8')
-    outfile = open(file_path.replace('translit', 'trans-edited'), 'w', encoding='utf-8')
-    #outfile = open(file_path.replace('.txt', '-trans.csv'), 'w', encoding='utf-8')
+    #outfile = open(file_path.replace('translit', 'trans-edited'), 'w', encoding='utf-8')
+    outfile = open(file_path.replace('.txt', '-trans.csv'), 'w', encoding='utf-8')
     eng_file = open('eng_trans.txt', 'r', encoding='utf-8')
 
     # for reporting

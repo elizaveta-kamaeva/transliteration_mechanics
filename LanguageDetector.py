@@ -1,3 +1,4 @@
+import re
 from time import time
 from mechanics.DetectLang import trail
 
@@ -39,13 +40,14 @@ def jp_trailer(word):
 
 def de_trailer(word):
     de_ngrams = {'(ch|sh|ff)\w+(ch|sh|ff)',
-                 '[^euioa -]{4}', '[^euioa -]{3}\Z',
+                 '[^euioa \'-]{4}',
                  'sch', 'chs', 'ß', 'ö', 'ä', 'ü',
                  '[^euioay -]st', 'ung\Z', '\Aein',
                  '\Adie\Z', '\Adas\Z', '\Ader\Z',
                  'mann\Z', 'gut', 'burg'}
 
-    de_maygrams = {'[euioa]{2}.*[^eouia-]{3}.*[eouia]{2}',
+    de_maygrams = {'[euioa]{2}.*[^eouia \'-]{3}.*[eouia]{2}',
+                   '[^euioa(ch) \'-]{3}\Z',
                    '[^euioay -]en\Z', '[^euioay -]ern\Z',
                    '[^euioay -]z', 'z[^euioay -]',
                    'eich', 'ein'}
@@ -58,7 +60,7 @@ def de_trailer(word):
 
 def fr_trailer(word):
     fr_ngrams = {'[euioa]{3}',
-                 'ouch', 'eur', 'ance', '\wou(?!gh)',
+                 'ouch', 'eur', 'ance',
                  'ngie\Z', 'gnie\Z', 'oix\Z', 'ux\Z', 'oir\Z',
                  "\Ad'", "\Al'", '\Ala\Z', '\Ale\Z',
                  'bell', 'lacoste',
@@ -67,7 +69,7 @@ def fr_trailer(word):
                  'ê', 'â', 'ô', 'î', 'û',
                  'ë', 'ï', 'ü', 'ÿ', 'ç'}
 
-    fr_maygrams = {'\Ala\w+[euioay]{2}', 'gue',
+    fr_maygrams = {'\Ala\w+[euioay]{2}', 'gue',  '\wou(?!gh)',
                    'ch\w*[euioay]{2}', 'au\Z'}
 
     fr_stopgrams = {'sh', 'w', 'you', 'house', 'round'}
@@ -78,6 +80,7 @@ def fr_trailer(word):
 
 def process(word):
     start_time = time()
+    word = re.sub('\d+([-\',.]\d+)?', '', word)
     prob_list = [it_trailer(word), de_trailer(word),
                  fr_trailer(word), jp_trailer(word)]
     lang_list = ['ita', 'ger', 'fra', 'jap']
