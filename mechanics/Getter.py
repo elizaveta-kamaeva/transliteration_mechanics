@@ -3,8 +3,8 @@ from string import punctuation
 
 
 def get_word(line):
-    #raw_word = line.split(';')[1].strip().lower()
-    raw_word = line.strip().lower()
+    raw_word = line.split(';')[1].strip().lower()
+    #raw_word = line.strip().lower()
     word = re.search('[\w&].*[\w&]', raw_word)
     # check if the word is less than 2 characters
     try:

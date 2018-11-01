@@ -4,10 +4,9 @@ import NaiveRepl
 import LanguageDetector
 import SpecRepl
 
-def process(file_path):
-    infile = open(file_path, 'r', encoding='utf-8')
-    #outfile = open(file_path.replace('translit', 'trans-edited'), 'w', encoding='utf-8')
-    outfile = open(file_path.replace('.txt', '-trans.csv'), 'w', encoding='utf-8')
+def process(infile_path, outfile_path):
+    infile = open(infile_path, 'r', encoding='utf-8')
+    outfile = open(outfile_path, 'w', encoding='utf-8')
     eng_file = open('eng_trans.txt', 'r', encoding='utf-8')
 
     # for reporting
