@@ -6,3 +6,5 @@ for infile_path in argv[1:]:
     Processor.process('texts\\' + infile_path, 'texts\\' + outfile_path)
 
 #Processor.process('texts\\new-brands-mirbeer.txt')
+
+# testing git
