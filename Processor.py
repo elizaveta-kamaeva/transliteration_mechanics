@@ -1,27 +1,21 @@
-from time import time
 from mechanics.Getter import get_word
 import NaiveRepl
 import LanguageDetector
 import SpecRepl
 
-def process(infile_path, outfile_path):
-    infile = open(infile_path, 'r', encoding='utf-8')
-    outfile = open(outfile_path, 'w', encoding='utf-8')
-    eng_file = open('eng_trans.txt', 'r', encoding='utf-8')
+
+def process(raw_lines, eng_repls):
+    ready_pairs = []
 
     # for reporting
     n = 0
     naive_trans_processing = 0.0
     language_detector_processing = 0.0
     specific_trans_processing = 0.0
-    total_processing = time()
-
-    # preparing output
-    outfile.write('raw_word;trans;\n')
     print('Progress:')
 
     # start working
-    for line in infile:
+    for line in raw_lines:
         raw_word, word = get_word(line)
         # if the line is inappropriate, take another line
         if not word:
@@ -36,27 +30,19 @@ def process(infile_path, outfile_path):
         language_detector_processing += lang_time
 
         # translit in a specific language
-        spec_trans, spec_time = SpecRepl.delegator(language, word, eng_file)
+        spec_trans, spec_time = SpecRepl.delegator(language, word, eng_repls)
         specific_trans_processing += spec_time
 
-        outfile.write('{};{}\n'.format(raw_word, naive_trans))
-        if spec_trans != naive_trans:
-            outfile.write('{};{}\n'.format(raw_word, spec_trans))
+        # write the pairs into a set
+        ready_pairs.append((raw_word, naive_trans, language))
+        if naive_trans != spec_trans:
+            ready_pairs.append((raw_word, spec_trans, language))
 
         # progress report each 200 lines
         n += 1
         if n % 200 == 0:
             print('{} lines done'.format(n))
 
-    infile.close()
-    outfile.close()
-    eng_file.close()
-    total_processing = time() - total_processing
-
-    print("I've finished.")
-    print('Number of lines processed:', n)
-    print('Naive Replacer worked for {} seconds'.format(naive_trans_processing))
-    print('Language Detector worked for {} seconds'.format(language_detector_processing))
-    print('Specific Translator worked for {} seconds'.format(specific_trans_processing))
-    print('Total working time: {} seconds'.format(total_processing))
-    print('Speed: {} words per second'.format(round(n / total_processing)))
+    return ready_pairs, n, [naive_trans_processing,
+                            language_detector_processing,
+                            specific_trans_processing]

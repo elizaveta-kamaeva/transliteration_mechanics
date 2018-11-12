@@ -6,7 +6,7 @@ import JapRepl
 import EngRepl
 
 
-def delegator(lang, word, eng_file):
+def delegator(lang, word, eng_repls):
     start_time = time()
     word = word.replace("'", '')
     if lang == 'fra':
@@ -18,7 +18,7 @@ def delegator(lang, word, eng_file):
     elif lang == 'jap':
         trans_word = JapRepl.process(word)
     else:
-        trans_word = EngRepl.process(word, eng_file)
+        trans_word = EngRepl.process(word, eng_repls)
     duration = time() - start_time
     return trans_word, duration
  

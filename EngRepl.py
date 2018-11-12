@@ -2,11 +2,10 @@ from collections import OrderedDict
 from mechanics.Repl import replacer
 
 
-def trans_words(word, eng_file):
+def trans_words(word, eng_repls):
     words_dict = {}
-    eng_file.seek(0)
-    for line in eng_file:
-        eng_word, ru_word = line.split(':')
+    for pair in eng_repls:
+        eng_word, ru_word = pair.split(':')
         words_dict[eng_word] = ru_word.strip()
     new_word = replacer(word, words_dict)
     return new_word

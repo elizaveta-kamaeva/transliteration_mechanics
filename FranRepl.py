@@ -33,7 +33,7 @@ def trans_conditional(word):
 
 def trans_short_ngrams(word):
     short_ngrams_dict = OrderedDict({
-        'ph':'ф', 'qu':'кв', 'sc':'ск', 'cs':'кс',
+        'ph':'ф', 'qu':'кв', 'sc':'ск', 'cs':'кс', 'th':'т',
         'oi':'уа', 'ou':'у', 'ay':'ей', 'ie':'ье'})
     new_word = replacer(word, short_ngrams_dict)
     return new_word

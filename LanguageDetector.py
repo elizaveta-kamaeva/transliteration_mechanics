@@ -29,7 +29,7 @@ def jp_trailer(word):
                    '([euioa]|\A)ka', '([euioa]|\A)ku',
                    '([euioa]|\A)ko', '([euioa]|\A)ki',
                    '([euioa]|\A)shi',
-                   'ya', 'yo', 'ya'}
+                   'ya', 'yo', 'ya', 'yu'}
 
     jp_stopgrams = {'[^euioatsh]{2}',
                     '[^uioa]\Z', 'c[^h]', 'y[^aou]',
@@ -64,7 +64,7 @@ def fr_trailer(word):
                  'ngie\Z', 'gnie\Z', 'oix\Z', 'ux\Z', 'oir\Z',
                  "\Ad'", "\Al'", '\Ala\Z', '\Ale\Z',
                  'bell', 'lacoste',
-                 '\A?les\Z', '\Ale\Z', '\Adu\Z', '\Ade\Z',
+                 '\A?les\Z', '\Ale\Z', '\Adu\Z', '\Ade\Z', '\Aet\Z',
                  'é', 'è', 'à', 'ù', 'que',
                  'ê', 'â', 'ô', 'î', 'û',
                  'ë', 'ï', 'ü', 'ÿ', 'ç'}
