@@ -13,11 +13,11 @@ for infile_path in argv[1:]:
     ready_lines, n, periods = Processor.process(raw_lines, eng_file.readlines())
     eng_file.close()
 
-    outfile = open('texts\\' + infile_path.replace('.txt', '-trans.csv'), 'w', encoding='utf-8')
-    outfile.write('raw_word;trans;\n')
+    outfile = open('texts\\' + infile_path.replace('.csv', '-trans.csv'), 'w', encoding='utf-8')
+    outfile.write('brand,alias\n')
 
     for word_pair in ready_lines:
-        outfile.write(';'.join(word_pair) + '\n')
+        outfile.write(','.join(word_pair) + '\n')
     outfile.close()
 
     naive_trans_processing = periods[0]

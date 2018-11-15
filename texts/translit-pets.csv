@@ -1,74 +1,116 @@
-лабрадор;labrador;False
-холистик бленд;holistic blend;True
-альма натюр;almo nature;True
-эдель кэт;edel cat;True
-эдель кет;edel cat;True
-кэт чао;cat chow;True
-про план;pro plan;True
-альмо натюр;almo nature;True
-хэппи кэт;happy cat;True
-пурина про план;purina pro plan;True
-цлаудерЬс;clauder's;True
-диец;diets;True
-белцандо;belcando;False
-стронгхолд;stronghold;False
-оут;out;False
-диет;diet;True
-wоббле wаг;wobble wag;True
-алмо;almo;True
-гиггле;giggle;True
-wоббле;wobble;True
-болфо;bolfo;False
-вет;vet;True
-виталине;vitaline;False
-пи-пи;pi-pi;True
-пурина про;purina pro;True
-ролф цлуб;rolf club;True
-с;s;True
-про план вет;pro plan vet;True
-еартх;earth;True
-натуреЬс мирацле;nature's miracle;True
-цоодле;coodle;True
-цатзоне;catzone;False
-голоси;golosi;False
-ролф;rolf;True
-орийен;orijen;False
-мерадог;meradog;False
-3д;3d;True
-протецтион;protection;True
-гигwи;gigwi;False
-диннер;dinner;True
-план вет;plan vet;True
-вецтра;vectra;True
-престиге верселе;prestige versele;True
-wц фор;wc for;True
-форесто;foresto;False
-роыал цанин вет;royal canin vet;True
-оопс;oops;False
-wахре;wahre;True
-фрутты;frutty;True
-прац-тиц;prac-tic;False
-алдерс;alders;True
-золуx;zolux;False
-нерф;nerf;False
-фармина;farmina;False
-флыбер;flyber;False
-№1;№1;False
-ми-ми;mi-mi;False
-др елсеы;dr elsey;True
-цанин вет;canin vet;True
-пуссы-цат;pussy-cat;False
-милбемаx;milbemax;False
-леонардо;leonardo;False
-wаг;wag;True
-пролифе;prolife;False
-верселе;versele;True
-wц;wc;True
-елсеы;elsey;True
-паwс;paws;True
-счесир;schesir;False
-пуллер;puller;False
-доглеми;doglemi;False
-лага;laga;True
-санабелле;sanabelle;False
-бент;bent;True
+raw_word;trans;
+labrador;лабрадор;en
+labrador;лабрейдор;en
+holistic blend;холистиc бленд;en
+holistic blend;холистик бленд;en
+almo nature;алмо натуре;en
+almo nature;алмо начур;en
+edel cat;эдел cат;en
+edel cat;эдел кат;en
+edel cat;эдел cат;en
+edel cat;эдел кат;en
+cat chow;cат чов;en
+cat chow;кат чов;en
+pro plan;про план;en
+almo nature;алмо натуре;en
+almo nature;алмо начур;en
+happy cat;хаппи cат;en
+happy cat;хаппи кат;en
+purina pro plan;пурина про план;en
+clauder's;cлаудерс;en
+clauder's;клоудерс;en
+diets;диетс;en
+diets;дитс;en
+belcando;белcандо;en
+belcando;белкандо;en
+stronghold;стронгхолд;en
+stronghold;стронголд;en
+out;оут;en
+out;аут;en
+diet;диет;en
+diet;дит;en
+wobble wag;воббле ваг;en
+wobble wag;воббл ваг;en
+almo;алмо;en
+giggle;гиггле;en
+giggle;джиггл;en
+wobble;воббле;en
+wobble;воббл;en
+bolfo;болфо;en
+vet;вет;en
+vitaline;виталине;en
+vitaline;витейлин;en
+pi-pi;пи-пи;ita
+purina pro;пурина про;en
+rolf club;ролф cлуб;en
+rolf club;ролф клуб;en
+pro plan vet;про план вет;en
+earth;еарт;en
+earth;ирт;en
+nature's miracle;натурес мираcле;en
+nature's miracle;начурс миракл;en
+coodle;cодле;en
+coodle;кудл;en
+catzone;cатзоне;en
+catzone;катзон;en
+golosi;голоси;ita
+rolf;ролф;en
+orijen;орийен;en
+orijen;ориджен;en
+meradog;мерадог;en
+meradog;мерейдог;en
+protection;протеcтион;en
+protection;протекшен;en
+gigwi;гигви;en
+gigwi;джигви;en
+dinner;диннер;en
+plan vet;план вет;en
+vectra;веcтра;en
+vectra;вектра;en
+prestige versele;престиге верселе;en
+prestige versele;престидж версел;en
+wc for;вc фор;en
+wc for;вк фор;en
+foresto;форесто;en
+royal canin vet;роял cанин вет;en
+royal canin vet;роял кейнин вет;en
+oops;опс;en
+oops;упс;en
+wahre;вахре;en
+wahre;вахр;en
+frutty;фрутти;en
+prac-tic;праc-тиc;en
+prac-tic;прак-тик;en
+alders;алдерс;en
+zolux;золух;fra
+zolux;золюкс;fra
+nerf;нерф;en
+farmina;фармина;en
+flyber;флибер;en
+flyber;флайбер;en
+mi-mi;ми-ми;ita
+dr elsey;др элсей;en
+dr elsey;др элси;en
+canin vet;cанин вет;en
+canin vet;кейнин вет;en
+pussy-cat;пусси-cат;en
+pussy-cat;пусси-кат;en
+milbemax;милбемах;en
+milbemax;милбемакс;en
+leonardo;леонардо;en
+wag;ваг;en
+prolife;пролифе;en
+prolife;пролиф;en
+versele;верселе;en
+versele;версел;en
+elsey;элсей;en
+elsey;элси;en
+paws;павс;en
+paws;повс;en
+schesir;шесир;ger
+schesir;шезир;ger
+puller;пуллер;en
+doglemi;доглеми;en
+laga;лага;ita
+sanabelle;санабелле;ita
+bent;бент;en

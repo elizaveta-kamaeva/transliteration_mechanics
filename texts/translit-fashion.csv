@@ -3,9 +3,10 @@
 пуловер;pullover;False
 унисекс;unisexe;False
 парка;parka;False
+браслет;bracelet;False
 тренч;trench;False
 парки;parka;False
-бархат;barret;False
+бархат;barret;True
 белое;bello;False
 ремни;rimini;False
 клатч;clutch;False
@@ -14,18 +15,15 @@
 чинос;chinos;False
 максмара;maxmara;True
 пальо;polo;True
-дольче;dolche;False
+дольче;dolche;True
 стоун;stone;True
-парфюм;parfum;False
+елена;elena;True
 шоппер;shopper;False
 стюарт;stuart;True
-марта;marta;False
-текстиль;textile;False
-берет;barret;False
-тедди;teddy;False
+берет;barret;True
+элиза;elise;False
 сафари;safari;False
-александр;alexander;True
-бирет;barret;False
+бирет;barret;True
 элема;elema;False
 изософт;isosoft;False
 кросс;kors;True
@@ -33,56 +31,57 @@
 елема;elema;False
 малинарди;malinardi;False
 блекглама;blackglama;False
-гамма;gamma;False
 шопер;shopper;False
 полиэстер;polyester;False
 мокка;mocca;False
 зилли;zilli;False
 ананас;ananas;False
 левис;levis;False
+селма;selma;False
 синии;sonia;True
 полиамид;polyamide;False
 левайс;levis;False
+диана;diana;True
 нубук;nubuck;False
 ливерпуль;liverpool;False
 бургунди;burgundy;False
 рубин;rubin;True
-авиаторы;aviator;True
 рейма;riema;False
+маски;musk;False
+лесси;lessy;False
 балерина;ballerina;False
-барби;barbie;False
 эмили;emilie;False
 сюрприз;surprise;False
+керри;kari;True
 меланж;melange;False
 алекса;alexa;False
-густи;gusto;False
+полли;polo;True
 куома;kuoma;False
-фламинго;flamingo;False
+лэсси;lessy;False
 чикаго;chikago;False
+моника;monica;False
+луиза;lisa;True
 микрофибра;microfibre;False
 спенсер;spencer;False
-чикко;chicco;False
-лейла;lola;True
 патчи;patch;False
 богнер;bogner;True
-порно;born;False
+карри;kari;True
 шоппера;shopper;False
-витамины;vitamin;False
+элена;elena;True
 тефлон;teflon;False
 либеро;libera;False
-витамин;vitamin;False
-кактус;cactus;False
+милано;milano;True
+жанна;joanna;False
 полиэстера;polyester;False
 полиамида;polyamide;False
-парадиз;paradise;False
+каррот;garret;False
 симона;simone;True
 сникерс;sneakers;False
 газели;gazelle;False
 лилии;lilou;False
+ассасин;assasin;False
 полло;polo;True
 тартан;tartan;False
-граффити;graffiti;False
-парадис;paradise;False
 ананасы;ananas;False
 киома;kuoma;False
 батега;bottega;True
@@ -92,113 +91,194 @@
 боттега;bottega;True
 графы;graff;False
 графф;graff;False
-килиан;kilian;True
 ролекс;rolex;False
 ковалли;cavalli;True
 тахари;tahari;True
 рефил;refill;False
 колорблок;colorblock;False
 монализа;monnalisa;False
-преппи;preppi;False
-федора;fedora;False
+трибьют;tribute;False
+преппи;preppy;False
+милое;maloo;False
 шеврон;chevron;False
-бульдог;bulldog;False
+кардинала;cardinale;False
+альфредо;alfredo;True
+хелена;helena;True
+селин;celine;False
 кориандр;coriander;False
-миммо;mimmo;False
 руссо;russo;True
 коишимару;koishimaru;False
+элина;elena;True
 инстаграма;instagram;False
 галлины;gallina;False
+памелла;pamela;False
+гелла;galla;False
+дориана;doriani;False
+ирэна;irina;True
+сенди;sandy;False
+камбрю;cambru;True
+фредис;freddies;True
+номини;nominee;False
+комбрю;cambru;True
+номине;nominee;False
+номинее;nominee;False
+раббе;rabe;True
+марпен;marpen;False
 фрапп;frapp;False
+камбри;cambru;True
+номинэ;nominee;False
+стеам;steam;False
+малоо;maloo;False
+камбру;cambru;True
+икати;ikati;False
+газел;gazelle;False
 виктор;viktor;True
+на лет;new lait;True
+том фор;time for;True
+до тыс;du toys;True
 ла мер;la mer;True
 миу миу;mi mi;True
 алдо брю;aldo brue;True
 фор мен;for men;True
 элиза фанти;elisa fanti;True
 до по;t by;True
+до по;te by;True
 со по;see by;True
-со по;ps by;True
 или по;will be;True
-да из;tu es;True
+том фар;time for;True
 ли м-не;la manie;True
-до из;tu es;True
+ко дню;k dan;True
 ла рене;la reine;True
-марио спадо;mario spado;True
 ла рейн;la reine;True
 клуба по;club by;True
-ду из;tu es;True
+ли вы;la via;True
 по по;bao bao;True
-е1 а05;a a;True
+лайк ит;look at;True
+поло ассн;polo assn;True
+на стол;new style;True
+боттон блу;button blue;True
+на стул;new style;True
+минни маус;minnie mouse;True
+ее стиль;a style;True
+лук для;luca della;True
+миа кара;mia cara;True
+литл пони;little pony;True
+лала стал;lala style;True
+пет шоп;pet shop;True
 эх ма;oh my;True
+гранд стиль;grand style;True
 на 2г;no ka;True
+азиз бебе;aziz bebe;True
+том фарр;time for;True
+баттон блу;button blue;True
+бэби роуз;baby rose;True
+аморе мио;amore mio;True
+фин флер;finn flare;True
+батон блю;button blue;True
+фин флаер;finn flare;True
+фин флэр;finn flare;True
+макс фактор;max factor;True
+де лука;de luca;True
+де лука;de luka;True
+мон ами;mon ami;True
+мини маус;minnie mouse;True
+минни мауса;minnie mouse;True
 хелло китти;hello kitty;True
 ты по;t by;True
+ты по;te by;True
 хеллоу китти;hello kitty;True
+дольче вита;dolche vita;True
+лител пони;little pony;True
+баттон блю;button blue;True
+люька для;luca della;True
+батон блу;button blue;True
+бы ты;be too;True
 на 1г;no ka;True
+литал пони;little pony;True
 ми ми;mi mi;True
-ди ди;da due;True
+на столе;new style;True
+литтл пони;little pony;True
+на стл;new style;True
 на ку;no ka;True
 лиза мери;lisa marie;True
 леа мини;la manie;True
 хелоу кити;hello kitty;True
+мы по;may be;True
 хелло кити;hello kitty;True
 би ба;bao bao;True
+боса нова;bossa nova;True
+на стиле;new style;True
+белое миди;bel mode;True
+финн флаер;finn flare;True
 хэлоу китти;hello kitty;True
+пол осень;polo assn;True
 ля редут;la redoute;True
+пальоо осень;polo assn;True
+по кра;be cara;True
+кс го;x k;True
+на летт;new lait;True
 ангел за;angel s;True
+финн фларе;finn flare;True
+белье стиле;blu style;True
 пэ хл;by la;True
 миа миа;mi mi;True
-до до;da due;True
+ла кафе;la cafe;True
 на фа;no fui;True
+со под;so bad;True
 из пл;ice play;True
+дино ричи;dino ricci;True
+дина ричи;dino ricci;True
+мини мауса;minnie mouse;True
 синие по;sonia by;True
+по до;be too;True
 ню ёрк;new york;True
 ню ерк;new york;True
-ту ту;da due;True
 эль сааб.;elie saab;True
+пд шоп;pet shop;True
+топ хот;top hat;True
 дамир дома;damir doma;True
+не лет;new lait;True
+нон стоп;non stop;True
 по ло;by la;True
+пет шопы;pet shop;True
 поло ральф;polo ralph;True
 по синие;by sonia;True
 мини арт;mon art;True
-то из;tu es;True
+ты лайка;de luka;True
+су ка;x k;True
+де пуль;de piel;True
 хеллоу кити;hello kitty;True
+белье мода;bel mode;True
 на к31;no ka;True
 малена биргер;malene birger;True
 хелоу китти;hello kitty;True
 на киа;no ka;True
 ди пи;t by;True
-ульяна сергиенко;ulyana sergeenko;True
-ульяна сергеенко;ulyana sergeenko;True
+ди пи;to be;True
+ди пи;te by;True
 ла прири;la prairie;True
 ла русо;la russe;True
 фредерик малль;frederic malle;True
 де по;t by;True
-перрис монте карло;perris monte carlo;True
-атос ламборгини;atos lombargini;True
+де по;to be;True
+де по;te by;True
 франсис куркджан;francis kurkdjian;True
-беаутифил минд;beautiful mind;True
-ульяна сергеенка;ulyana sergeenko;True
-беаутифул минд;beautiful mind;True
+рокко пи;rocco by;True
+роко барокко;rocco barocco;True
 миу ми;mi mi;True
-флёр де;fleur du;True
-оф лондон;of london;True
-ульяна сергиеенко;ulyana sergeenko;True
-ульяны сергеенко;ulyana sergeenko;True
 шу эмуре;shu uemura;True
 гран сассо;gran sasso;True
-ту из;tu es;True
 альдо бруе;aldo brue;True
 лес хомс;les hommes;True
 валентино ред;valentino red;True
 фэр айл;for all;True
 эли сааб;elie saab;True
 эдуард дресслер;eduard dressler;True
-антонио бандерос;antonio banderas;True
 ля мэр;la mer;True
 сильвано сасетти;silvano sassetti;True
 дэ по;t by;True
+дэ по;to be;True
+дэ по;te by;True
 роберто росси;roberto rossi;True
 шу уемура;shu uemura;True
 но ки;no ka;True
@@ -206,27 +286,57 @@
 она по;yoni p;True
 елли сааб;elie saab;True
 эль сааб;elie saab;True
-анник гюталь;annick goutal;True
 элизабетта франчи;elisabetta franchi;True
-антонио бандерес;antonio banderas;True
+луи ви.;la via;True
+луи ви.;la vie;True
+лисы по;lesy by;True
 денима со;denim x;True
 за рта;x rta;True
-из мини;es mon;True
 из пиал;ice play;True
-фабиано филип;fabiana filippi;True
-адидас оригинал+;adidas original;True
-ван нотен;van noten;True
-американ легенд;american legend;True
-луиза спаниоли;luisa spagnoli;True
-по ара;by air;True
-мис виа;miss via;True
-би би;bao bao;True
-реди ту;ready to;True
-мисс виа;miss via;True
-де из;tu es;True
-по рук;by rick;True
-туни ка;ten c;True
+мех код;mou kid;True
+мех мех;mi mi;True
+для лайм;della lama;True
+со бат;so bad;True
+а6ф на;of new;True
+эл 2в;el fa;True
+мое мое;mi mi;True
+на стиль;new style;True
+ты до;da due;True
+блуза милена;blaze milano;True
+блуза мелани;blaze milano;True
+со рита;x rta;True
+слим секрет;slim secret;True
+слим сикрет;slim secret;True
+мех кеды;mou kid;True
+оф мороко;of morocco;True
+босса нова;bossa nova;True
+деррик роуз;derek rose;True
+марина галанти;marina galanti;True
+дас блау;das blaue;True
+на лот;new lait;True
+апиа дуэ;appia due;True
+эскада спорт;escada sport;True
 марк кросс;mark cross;True
+мис виа;miss via;True
+фенти пума;fenty puma;True
+рье де;rue du;True
+мисс виа;miss via;True
+техн ка;ten c;True
+для лома;della lama;True
+пам па;puma by;True
+мода фиора;mood for;True
+консепт клуб;concept club;True
+фиора юлю;for all;True
+реди ту;ready to;True
+топ секрет;top secret;True
+на к…;no ka;True
+марко то;marco de;True
+во ьмых;fa mei;True
+тун ка;ten c;True
+марко до;marco de;True
+марины галанти;marina galanti;True
+марина голанти;marina galanti;True
+по р.;by roy;True
 ля рус;la russe;True
 ля рюс;la russe;True
 ди парма;di parma;True
@@ -236,34 +346,26 @@
 жур ле жур;jour le jour;True
 мален биргер;malene birger;True
 си пи;see by;True
-си пи;ps by;True
 пи компани;p company;True
 оф нью;of new;True
 калорс оф;colors of;True
 оф калифорниа;of california;True
-ди эс;tu es;True
-д2 мале;du mal;True
 д2 мале;du mail;True
 д2 мале;di milo;True
-д2 мэйл;du mal;True
 д2 мэйл;du mail;True
-ди2 мале;du mal;True
 ди2 мале;du mail;True
 ди2 мале;di milo;True
-ди2 мэйл;du mal;True
 ди2 мэйл;du mail;True
 дас блауе;das blaue;True
 дас блауэ;das blaue;True
-доу доу;da due;True
-ду ду;da due;True
 др мартенс;dr martens;True
 эвиденс де беаут;evidens de beaute;True
 эвиденс де;evidens de;True
 фор рестлесс слиперс;for restless sleepers;True
 дель карло;del carlo;True
+би ти;be too;True
 пинко паллино;pinco pallino;True
 энд компани;and company;True
-ди мило;du mal;True
 ди мило;du mail;True
 ди мило;di milo;True
 жан поль;jean paul;True
@@ -273,4627 +375,3551 @@
 лил пур;lil pour;True
 оф порчес;of porches;True
 литтл марк;little marc;True
+лук этд;look at;True
+люка де;luca de;True
 мэйсон мартин;maison martin;True
 сантангело наполи;santangelo napoli;True
 мак александр;mc alexander;True
 оф пеарл;of pearl;True
-вива вокс;viva vox;True
+нил барретт;neil barret;True
 ди альберта ферретти;di alberta ferretti;True
 пинко ап;pinko up;True
-пи эр;by air;True
 реади ту;ready to;True
 рэди ту;ready to;True
 рене каовилла;rene caovilla;True
 рене каовилла;ren caovilla;True
-ду мэйл;du mal;True
-дю мэйл;du mal;True
 энд иви;and ivy;True
-ст эрасммус;st erasmus;True
-бьютифул майнд;beautiful mind;True
 фрагранс кичен;fragrance kitchen;True
 хаус оф ауд;house of oud;True
+зе кау;x k;True
+зе коу;x k;True
 то би;t by;True
-ти эс;tu es;True
+то би;te by;True
 симона барбиери;simona barbieri;True
 симона барбьери;simona barbieri;True
 параллель юниверс;parallel universe;True
+поло ассн.;polo assn;True
 колорс оф;colors of;True
 стоувенакер де;stouvenaker de;True
 виртуал фюр;virtuale fur;True
-уорлд оф;world of;True
 фабина филиппе;fabiana filippi;True
-луиса спаньола;luisa spagnoli;True
-сарриери;sarrieri;True
-аршиа;arshia;False
-финн-фларе;finn-flare;False
-бы сусан;by susan;True
-11 бы борис;11 by boris;True
-маноло;manolo;True
-ивы;ivy;True
-аракс;araks;False
-гаултиер;gaultier;True
-мотхер оф;mother of;True
-метео бы;meteo by;True
-гаттинони;gattinoni;False
-рыкиел;rykiel;True
-соуса;sousa;True
-рамаге;ramage;True
-м.;m.;True
-додо;dodo;True
-хероине;heroine;True
-субтерранеи;subterranei;False
-балмаин хаир;balmain hair;True
-ланг;lang;True
-г-шоцк;g-shock;True
-аге;age;True
-дамир;damir;True
-сатечи;satechi;False
-аунц;aunts;True
-гравитеигхт;graviteight;False
-ламберто;lamberto;True
-санаыи313;sanayi313;False
-поло ралпх;polo ralph;True
-левы;levy;True
-фуртерер;furterer;True
-данце;dance;True
-дита;dita;False
-н;n;True
-wорлд оф;world of;True
-мц2 саинт;mc2 saint;True
-хомерс;homers;True
-йохн орчестра;john orchestra;True
-беняминс;benjamins;False
-роберто рицци;roberto ricci;True
-паоло пецора;paolo pecora;True
-блуес;blues;True
-аеронаутица;aeronautica;True
-одабаш;odabash;True
-гуигнол;guignol;True
-тотêме;totême;False
-улыана;ulyana;True
-милитаре;militare;True
-ы3;y3;False
-оригинале;originale;True
-цинзиа;cinzia;True
-де маритх;de marith;True
-труефитт&хилл;truefitt&hill;False
-иса;isa;True
-блу;blu;True
-санс-арцидет;sans-arcidet;False
-селман;selman;True
-кидз;kidz;True
-венета;veneta;True
-гандолфи;gandolfi;True
-xр;xr;False
-нихило;nihilo;True
-ин тхе моод;in the mood;True
-алеxандр;alexandr;True
-белвест;belvest;False
-ет;et;True
-фретте;frette;False
-10сеи0отто;10sei0otto;False
-wинтер;winter;True
-фиорони;fioroni;False
-пхилип треацы;philip treacy;True
-пиетри;pietri;True
-ау йоур;au jour;True
-цастангиа;castangia;False
-гирбауд;girbaud;True
-меат;meat;True
-оне-т-ширт;one-t-shirt;False
-симоннот-годард;simonnot-godard;False
-аныа;anya;True
-артиqуе;artique;False
-фаусто;fausto;True
-мичаел;michael;True
-ле-тан;le-tan;True
-модалу;modalu;True
-флоренце;florence;True
-англоманиа бы;anglomania by;True
-унитед;united;True
-перфецтион;perfection;True
-wассерман;wasserman;True
-сет;set;True
-аоки;aoki;True
-цоде;code;True
-траилхеад;trailhead;False
-пепе;pepe;True
-панталони;pantaloni;True
-рома е;roma e;True
-катрантзоу;katrantzou;True
-мичаел ло;michael lo;True
-цутлер анд;cutler and;True
-бандерас;banderas;True
-расарио;rasario;False
-нсф;nsf;False
-темперлеы;temperley;True
-гедебе;gedebe;False
-сачин;sachin;True
-еа;ea;True
-елизабетх &;elizabeth &;True
-голдсчмиед;goldschmied;True
-мал;mal;True
-ванесса;vanessa;True
-ницоли;nicoli;False
-бы борис;by boris;True
-каыек;kayek;True
-дал;dal;True
-даниеле;daniele;True
-преен бы;preen by;True
-песерицо;peserico;False
-гарцон;garcon;True
-wондерланд;wonderland;False
-хилтл;hiltl;False
-йиммы;jimmy;True
-воыаге бы;voyage by;True
-мц2;mc2;True
-барцело;barcelo;True
-деним x;denim x;True
-иоанна десчампс;ioanna deschamps;True
-бао;bao;True
-бумбы;bumby;True
-антwерп;antwerp;True
-трамаросса;tramarossa;True
-пецораро;pecoraro;True
-пройецц;projects;True
-коррес;korres;False
-ашлеы грахам x;ashley graham x;True
-профвмо;profvmo;True
-друм;drum;True
-цард;card;True
-тфк;tfk;True
-то;to;True
-цопенхаген;copenhagen;True
-дркшдw бы;drkshdw by;True
-акира;akira;True
-р13;r13;False
-анды;andy;True
-тхе кнот;the knot;True
-сцриптор;scriptor;True
-амусе;amuse;False
-зухаир;zuhair;True
-дунхилл;dunhill;False
-гаxотте;gaxotte;True
-батик;batik;True
-нанушка;nanushka;False
-спидерс;spiders;True
-голованофф;golovanoff;True
-бигиони;bigioni;True
-х;h;True
-броокс;brooks;True
-ваннина;vannina;True
-сеwард;seward;True
-ашлеы грахам;ashley graham;True
-поивре;poivre;True
-антонино;antonino;True
-деним&супплы;denim&supply;True
-лемаире;lemaire;True
-2014;2014;True
-роя;roja;True
-демеулемеестер;demeulemeester;True
-ыеезы;yeezy;False
-цанали;canali;False
-леон&харпер;leon&harper;False
-амос;amos;True
-ацт;act;True
-сергеенко;sergeenko;True
-традинг;trading;True
-мартенс;martens;True
-барни;barni;True
-ферре;ferre;True
-шаде;shade;True
-евиденс де;evidens de;True
-солемате;solemate;False
-фемме бы;femme by;True
-децаы;decay;True
-кате;kate;True
-киини;kiini;False
-пето;peto;True
-лид;lid;True
-воодоо;voodoo;True
-ун_фуртиве;un_furtive;False
-пакерсон;pakerson;False
-осман;osman;False
-едwард;edward;True
-бидян;bidjan;True
-гангстер;gangster;True
-равизза;ravizza;True
-сенси;sensi;True
-тхале;thale;True
-сарторио;sartorio;False
-марлино;marlino;False
-сузанне;suzanne;True
-бегг;begg;True
-гоос;goos;True
-юлиа;julia;True
-рента;renta;True
-хауте фрагранце;haute fragrance;True
-восовиц;vosovic;True
-бертоло;bertolo;False
-фор тхе;for the;True
-пеарлс;pearls;True
-фиора;fiora;True
-генерале;generale;True
-рта;rta;True
-биагини;biagini;True
-гамелиа;gamelia;True
-тхе беаутифул;the beautiful;True
-а ла;a la;True
-грати;grati;True
-моресчи;moreschi;False
-терекхов;terekhov;True
-мыкита;mykita;True
-цитизенс;citizens;True
-етре;etre;True
-мацкинтош;mackintosh;False
-баигуера;baiguera;True
-грончи;gronchi;True
-персе;perse;True
-цлипс;clips;False
-поло;polo;True
-саwаф;sawaf;True
-царацт;caract;False
-0000000207;0000000207;False
-хелена;helena;True
-навы;navy;True
-вицториоус;victorious;True
-нандо;nando;True
-брогден;brogden;False
-рейина;rejina;True
-еспин;espin;True
-емануел;emanuel;True
-мичаел мичаел;michael michael;True
-мансур;mansur;True
-чриста;christa;True
-юицы бы;juicy by;True
-едитед бы марцо;edited by marco;True
-томе;tome;False
-корал;koral;False
-лоу;lou;True
-деллЬацqуа;dell'acqua;True
-гианвито;gianvito;True
-маргхерита;margherita;False
-муклукс;mukluks;False
-хыдроп;hydrop;False
-бабетте;babette;True
-тартине ет;tartine et;True
-спидерс фром;spiders from;True
-фацто;facto;False
-хомме;homme;True
-спектре;spektre;False
-нака;naka;True
-леттерс;letters;True
-пелле;pelle;True
-деакин&францис;deakin&francis;False
-елгин;elgin;True
-хуманиты;humanity;True
-леле;lele;True
-кумагаи;kumagai;True
-адоре;adore;True
-а а и;a a i;True
-тестони;testoni;True
-линда;linda;True
-юниор;junior;True
-кома;koma;True
-рондинелла;rondinella;False
-313;313;False
-севен;seven;True
-амедео;amedeo;True
-аллан;allan;True
-гаваззи фор;gavazzi for;True
-силент;silent;False
-раффаела;raffaela;True
-антик;antik;True
-мццалл;mccall;True
-тартине;tartine;True
-т бы алеxандер;t by alexander;True
-поеме;poeme;True
-летасца;letasca;False
-слееперс;sleepers;True
-кеннетх;kenneth;True
-ес;es;True
-аф пхилосопхы ди;af philosophy di;True
-бы вицториа;by victoria;True
-аитор;aitor;True
-бурлон кидс оф;burlon kids of;True
-рх45;rh45;False
-фрагранзе;fragranze;True
-осцар де;oscar de;True
-ацкерманн;ackermann;True
-асам;asam;True
-тхом;thom;True
-фенты;fenty;True
-алберто;alberto;True
-биллионаире боыс;billionaire boys;True
-аедес;aedes;True
-цастеллани;castellani;True
-вицториа/томас;victoria/tomas;False
-алтузарра;altuzarra;False
-есмералда;esmeralda;True
-ефбе–счотт;efbe–schott;False
-херман;herman;False
-еддие;eddie;True
-писчедда;pischedda;True
-венустас;venustas;True
-арти &;arti &;True
-якиоо;jakioo;False
-плаин яне;plain jane;True
-пиаценза цашмере;piacenza cashmere;True
-яцк спаде;jack spade;True
-бисибиглио;bisibiglio;False
-маззи;mazzi;False
-ангелс;angels;True
-ассер;asser;True
-wортх;worth;True
-хилфигер бы гиги;hilfiger by gigi;True
-ду мал x;du mal x;True
-йо;jo;True
-даниел;daniel;True
-валерие;valerie;True
-керастасе;kerastase;False
-баста;basta;True
-гонзалез;gonzalez;True
-ипхориа;iphoria;False
-писарра;pisarra;True
-ас65;as65;False
-сарти;sarti;True
-алеxачунг;alexachung;False
-л.серафини;l.serafini;True
-пуглиси;puglisi;True
-битто;bitto;False
-грахам x марина;graham x marina;True
-форте_форте;forte_forte;False
-лаацк;laack;True
-тереса;teresa;True
-соголи;sogoli;False
-180;180;True
-беаутифул;beautiful;True
-адидас бы рицк;adidas by rick;True
-беате;beate;True
-wхс;whs;False
-чиарини;chiarini;True
-носе;nose;True
-дармон;darmon;True
-бы мичаел;by michael;True
-м6;m6;True
-цристина дал;cristina dal;True
-кате мосс;kate moss;True
-проенза;proenza;True
-ромбица;rombica;False
-бы мичеле;by michele;True
-крис;kris;True
-беберлис;beberlis;False
-ломбаргини;lombargini;True
-елла;ella;True
-гилсон;gilson;True
-маршалл;marshall;True
-еытыс;eytys;False
-раг &;rag &;True
-26;26;True
-бунны;bunny;True
-ту ес;tu es;True
-кхалфон;khalfon;True
-венето;veneto;True
-гоорин;goorin;True
-цологне;cologne;True
-мушер;musher;False
-агнелле;agnelle;False
-1925;1925;True
-унцонвентионал;unconventional;True
-алице +;alice +;True
-й.ф;j.f;True
-акхмадуллина;akhmadullina;True
-мотхер;mother;True
-цлу;clu;False
-пеллеттиери;pellettieri;True
-сантангело;santangelo;True
-гловес;gloves;True
-хоод бы;hood by;True
-хеелеы;heeley;False
-луца де;luca de;True
-цоммон;common;True
-бутрым;butrym;True
-г-стар;g-star;True
-ерасмус;erasmus;True
-ла цоллецтион;la collection;True
-мичелле;michelle;True
-анна;anna;True
-хоод;hood;True
-боррелли;borrelli;True
-баллеринас;ballerinas;True
-еинхорн;einhorn;False
-тои;toi;True
-додо бар;dodo bar;True
-тхурстон;thurston;True
-бы мичелле;by michelle;True
-пластинина;plastinina;True
-11;11;True
-цоопер;cooper;True
-брунелло;brunello;True
-стеве;steve;True
-гианцарло;giancarlo;True
-пс бы полина;ps by polina;True
-леонард;leonard;True
-воыаге бы марина;voyage by marina;True
-валенти;valenti;True
-росантица;rosantica;False
-пигует;piguet;True
-луиги бианчи;luigi bianchi;True
-йете;jete;True
-лапландиа;laplandia;False
-адидас бы;adidas by;True
-антипаст;antipast;False
-е.дресслер;e.dressler;False
-стеве й;steve j;True
-семилла;semilla;False
-слееп;sleep;True
-йохнен;johnen;True
-парфумеурс;parfumeurs;True
-наполеонерба;napoleonerba;False
-ка;ka;True
-дом;dom;True
-тзивели;tziveli;True
-w.гиббс;w.gibbs;False
-брато;brato;True
-цоллетте бы;collette by;True
-гина;gina;True
-тен;ten;True
-вилшенко;vilshenko;True
-униqуе;unique;True
-лили;lili;True
-ултимо;ultimo;True
-тесо;teso;True
-грлфрнд;grlfrnd;False
-рубинстеин;rubinstein;True
-форевер;forever;True
-алеxа;alexa;False
-ассоулин;assoulin;True
-ензо;enzo;False
-рыЬ;ry';True
-еллеры;ellery;False
-яде;jade;True
-церемоны;ceremony;True
-ричардс;richards;True
-чеап;cheap;True
-пауле;paule;True
-маснада;masnada;False
-францаис;francais;True
-мариа луциа;maria lucia;True
-мхуди;mhudi;False
-рачеле;rachele;True
-руиз;ruiz;True
-роцк &;rock &;True
-биргер;birger;True
-qуис;quis;True
-морони;moroni;True
-лесы бы лисетта;lesy by lisetta;True
-бененато;benenato;True
-гиунтини;giuntini;True
-дома;doma;True
-тауберт;taubert;True
-лост&фоунд;lost&found;False
-адриано;adriano;True
-пума бы;puma by;True
-куре;kure;True
-2местыле;2mestyle;False
-пароле бы вицториа;parole by victoria;True
-брицк;brick;False
-емпорио;emporio;True
-3x1;3x1;False
-цолиац;coliac;False
-бадглеы;badgley;True
-цоллетте;collette;True
-унравел;unravel;True
-артесано;artesano;False
-сергио;sergio;True
-мацфарлане;macfarlane;True
-харрис wхарф;harris wharf;True
-адриана;adriana;True
-деним&супплы бы;denim&supply by;True
-етудес;etudes;False
-вити;viti;True
-дан;dan;True
-флашин;flashin;False
-бианче;bianche;True
-еxчанге;exchange;True
-рхеа;rhea;True
-перфумес;perfumes;True
-деннис;dennis;True
-цомптоир;comptoir;True
-дркшдw;drkshdw;True
-еxпериенце;experience;True
-соул;soul;True
-блацкбарретт;blackbarrett;False
-беллидо;bellido;True
-вфц;vfts;False
-биагиотти;biagiotti;True
-агес;ages;True
-цоутуре;couture;True
-ассче;assche;True
-яне;jane;True
-ерика;erika;True
-фурланетто;furlanetto;True
-моурет;mouret;True
-ралпх;ralph;True
-д2;d2;True
-бианче анды;bianche andy;True
-винциане стоувенакер де;vinciane stouvenaker de;True
-панчиц;panchic;False
-мал x;mal x;True
-тwисты;twisty;True
-кате мосс x;kate moss x;True
-аимо;aimo;True
-леви;levi;False
-бы ницолас;by nicolas;True
-питака;pitaka;False
-3.1;3.1;True
-садоугхи;sadoughi;True
-хелене;helene;True
-фучс;fuchs;True
-анна цлуб;anna club;True
-тонка перфумес;tonka perfumes;True
-ленте;lente;True
-покемаоке;pokemaoke;False
-спарк;spark;True
-умит;umit;True
-салар;salar;False
-цами;cami;True
-фарроw;farrow;True
-миыаке;miyake;True
-сандерсон;sanderson;True
-фаворите;favorite;True
-перры;perry;True
-ла реине;la reine;True
-гарцонс;garcons;True
-еx;ex;True
-царусо;caruso;True
-нине ин тхе;nine in the;True
-813;813;True
-дедицатед;dedicated;True
-ереда;ereda;False
-цапобианцо;capobianco;False
-мылон;mylon;True
-маритх;marith;True
-аппиа;appia;True
-малоуф;malouf;True
-аня;anja;True
-счумачер;schumacher;True
-францесцо;francesco;True
-цоттwеилер;cottweiler;True
-ерманн;ermann;True
-луцчи;lucchi;True
-алеxандер;alexander;True
-сусан;susan;True
-евису;evisu;True
-хоган;hogan;False
-цоурсе;course;True
-хиллиер;hillier;True
-мумофсиx;mumofsix;False
-басиx;basix;True
-литтле мисс;little miss;True
-йохнстонс;johnstons;True
-тwо wомен;two women;True
-24;24;True
-лим;lim;True
-сакс;saks;True
-моцассин;mocassin;True
-атхлетиц пропулсион;athletic propulsion;True
-бар;bar;True
-шадес;shades;True
-десчампс;deschamps;True
-цо.;co.;True
-оxыдо;oxydo;False
-пхилосопхы ди;philosophy di;True
-чоо;choo;True
-хании;hanii;True
-галлассо;gallasso;True
-бреад&боxерс;bread&boxers;False
-каран;karan;True
-цабас;cabas;True
-л а а;l a a;True
-оые;oye;False
-филипе;filipe;True
-мосс x;moss x;True
-ту ес мон;tu es mon;True
-еа7 емпорио;ea7 emporio;True
-фор рестлесс;for restless;True
-беверлы;beverly;True
-ровио;rovio;False
-сцервино;scervino;True
-моод;mood;True
-исаац;isaac;True
-смитх анд;smith and;True
-воиле;voile;True
-мала;mala;True
-цархартт;carhartt;True
-треацы;treacy;True
-роцкинс;rockins;False
-сарториа;sartoria;True
-молинаре;molinare;True
-цЬнЬц цостуме;c'n'c costume;True
-бохемиен;bohemien;True
-хеач;heach;True
-шоуроук;shourouk;False
-сонриса;sonrisa;False
-6267;6267;False
-доwн;down;True
-ныц;nyc;True
-баби;babi;True
-алина;alina;True
-цомптоир суд;comptoir sud;True
-йеан де маритх;jean de marith;True
-ерманно ерманно;ermanno ermanno;True
-вал;val;True
-либерти;liberti;True
-бецкхам;beckham;True
-соловиере;soloviere;False
-ангелес;angeles;True
-стицкы-фудге;sticky-fudge;False
-ицоне;icone;False
-цлуб бы;club by;True
-мичаел бы мичаел;michael by michael;True
-ы;y;True
-алессандро;alessandro;True
-тегин;tegin;False
-тоуристер;tourister;True
-пацо;paco;True
-шаме;shame;True
-табитха;tabitha;True
-урбан фашион;urban fashion;True
-пароле бы;parole by;True
-инга;inga;True
-бассо;basso;True
-феррандис;ferrandis;True
-но ка;no ka;True
-стоне;stone;True
-еxпарц;exparc;False
-редвалентино;redvalentino;False
-агес оф;ages of;True
-луциа;lucia;True
-мониqуе;monique;True
-др.коффер;dr.koffer;False
-малле;malle;True
-спx;spx;True
-беамон;beamon;True
-панара;panara;False
-о;o;True
-соцкс бы;socks by;True
-ганни;ganni;False
-луца;luca;True
-песцароло;pescarolo;True
-мондаы;monday;True
-норма;norma;True
-сеибан;seiban;False
-ше;she;True
-ау йоур ле;au jour le;True
-буттеро;buttero;False
-рита;rita;True
-мастерпеаце;masterpeace;False
-гуардиани;guardiani;True
-кашя`;kashja`;True
-луцы;lucy;True
-сермонета;sermoneta;True
-бы стелла;by stella;True
-славутина;slavutina;True
-исса;issa;True
-манзони24;manzoni24;False
-кеико;keiko;True
-блазе;blaze;True
-феррагни;ferragni;True
-рацил;racil;False
-ороголд;orogold;True
-марциано;marciano;True
-ясон;jason;True
-навигаре;navigare;False
-мате;mate;True
-ребецца;rebecca;True
-пхилипп;philipp;True
-роча;rocha;True
-егг бы;egg by;True
-процопиоу;procopiou;True
-цатуцци;catucci;True
-клара;klara;True
-еварае;evarae;False
-сwаровски;swarovski;False
-антхоны;anthony;True
-пиера;piera;True
-пс;ps;True
-борго;borgo;True
-анние;annie;True
-емануела;emanuela;True
-мдф;mdf;False
-амбер;amber;True
-иннангело;innangelo;False
-харрыс;harrys;True
-хаш;hash;True
-сылвие;sylvie;True
-дас магисче;das magische;True
-иредале;iredale;True
-селлам;sellam;True
-филиппи;filippi;True
-маритх + фран;marith + fran;True
-петитес...;petites...;True
-зоом;zoom;True
-келиан;kelian;True
-фелдер;felder;True
-аqуилано;aquilano;True
-сунглассес;sunglasses;True
-дес гарцонс хомме;des garcons homme;True
-й.w;j.w;True
-иф онлы;if only;True
-медицал беауты;medical beauty;True
-григио;grigio;True
-сеасон;season;True
-шерман;sherman;True
-цлубе;clube;True
-кееперс-паусе;keepers-pause;True
-вибро;vibro;True
-цандице;candice;True
-мангостан;mangostan;True
-базаар;bazaar;True
-харрис;harris;True
-гауфретте;gaufrette;True
-цадемартори;cademartori;True
-контрол;kontrol;True
-сенсуум;sensuum;True
-цоллина;collina;True
-цатерина;caterina;True
-аалто;aalto;False
-миллефиори;millefiori;False
-цоыотес де;coyotes de;True
-унфортунате;unfortunate;True
-нотте;notte;True
-манкинд;mankind;True
-серване;servane;True
-сенсциенце;senscience;False
-десте;deste;True
-цапути;caputi;True
-царлис;carlis;True
-цоси;cosi;True
-цолоур;colour;True
-стеве й &;steve j &;True
-813 оттотредици;813 ottotredici;True
-исланд шадоw;island shadow;True
-елевенты;eleventy;True
-елиокап;eliokap;False
-салваторе;salvatore;True
-нима;nima;False
-елисабетта;elisabetta;True
-wас;was;True
-худсон;hudson;False
-мкт;mkt;True
-праирие;prairie;True
-балмуир;balmuir;False
-тата;tata;True
-холланд;holland;True
-хересис;heresis;False
-стоувенакер;stouvenaker;True
-амина;amina;True
-руббер;rubber;True
-виа торриани;via torriani;True
-микаел;mikael;False
-горошек;goroshek;False
-паулы;pauly;True
-лисетта;lisetta;True
-тавернити унравел;taverniti unravel;True
-фланнел;flannel;True
-+ фран оис;+ fran ois;True
-нине ин;nine in;True
-аниталиан;anitalian;True
-араиа;araia;True
-силк оил;silk oil;True
-бы лисетта;by lisetta;True
-й анд;j and;True
-цонтемпорары;contemporary;True
-фриендлы;friendly;True
-профумум;profumum;True
-вуалл;vuall;False
-прим бы;prim by;True
-хатеиа;hateia;False
-мобиле;mobile;True
-фалиеро;faliero;True
-соффици;soffici;True
-ыула;yula;False
-0000000429;0000000429;False
-фаитх;faith;True
-францис;francis;True
-персона бы марина;persona by marina;True
-вентурини;venturini;True
-фифтх;fifth;True
-wестwоод;westwood;True
-дркшдw бы рицк;drkshdw by rick;True
-лове ин;love in;True
-монцлер&китх;moncler&kith;False
-степхан;stephan;True
-205w39ныц;205w39nyc;True
-гонгини;gongini;True
-фернандез;fernandez;True
-чарвет;charvet;False
-цамбру;cambru;True
-сандерс;sanders;True
-йоур/не;jour/ne;False
-и.д;i.d;True
-парфумс;parfums;True
-моунтаинееринг;mountaineering;True
-мд;md;True
-пс бы;ps by;True
-цоппола;coppola;True
-босса;bossa;True
-кидс оф;kids of;True
-хиппие;hippie;True
-пунто;punto;True
-есбер;esber;True
-wоодс;woods;True
-роадхеаве;roadheave;False
-сунг;sung;True
-оттотредици;ottotredici;True
-оттотредици анналиса;ottotredici annalisa;True
-моуссы;moussy;False
-маркус;markus;True
-оил оф;oil of;True
-& йое;& joe;True
-спин;spin;True
-ваутхиер;vauthier;True
-севенеxт;sevenext;False
-маисон францис;maison francis;True
-ре/доне;re/done;False
-рыан;ryan;True
-оуеллетте;ouellette;True
-мцм;mcm;False
-берарди;berardi;True
-цлергерие;clergerie;True
-цалифорниа;california;True
-алеxандре де;alexandre de;True
-целестине;celestine;False
-зинко;zinko;True
-атос;atos;True
-сее;see;True
-мурад;murad;True
-преен бы тхорнтон;preen by thornton;True
-лес цоыотес;les coyotes;True
-хоме & стылинг;home & styling;True
-атлантиqуе;atlantique;True
-премиата wилл;premiata will;True
-ыачтинг;yachting;True
-портраит;portrait;True
-симоне;simone;True
-тиффаны &;tiffany &;True
-0711;0711;False
-чадо;chado;False
-исабел;isabel;True
-ыа;ya;True
-лола;lola;True
-7 фор алл;7 for all;True
-и пинцо;i pinco;True
-оницука;onitsuka;True
-п.;p.;True
-паx;pax;True
-далмине;dalmine;False
-оливиа;olivia;True
-с.оливер цасуал;s.oliver casual;True
-ле йеан де;le jean de;True
-лазар;lazar;True
-иЬм;i'm;True
-кате спаде;kate spade;True
-феррагамо;ferragamo;True
-цастанер бы;castaner by;True
-пассо;passo;True
-осерее;oseree;False
-пфеффингер;pfeffinger;True
-вика;vika;True
-тосца;tosca;True
-зиггы;ziggy;True
-моод фор;mood for;True
-енфант;enfant;True
-дриес ван;dries van;True
-хаир;hair;True
-вентура;ventura;True
-иллестева;illesteva;False
-чамониx;chamonix;True
-естебан;esteban;True
-бритт;britt;True
-хитч-хикер;hitch-hiker;False
-лазартигуе;lazartigue;True
-гиосеппо;gioseppo;False
-лане;lane;True
-+;+;True
-белт;belt;True
-мание;manie;True
-йил;jil;True
-армата;armata;True
-героне;gerone;True
-wундер;wunder;True
-аунц &;aunts &;True
-лоретта;loretta;True
-прим бы мичелле;prim by michelle;True
-симмонс;simmons;True
-минкофф;minkoff;True
-саве тхе;save the;True
-еаст;east;True
-леонор;leonor;True
-1911;1911;True
-мурпхы;murphy;True
-наталиа;natalia;True
-цоме;come;False
-чипие;chipie;False
-кира;kira;True
-падован;padovan;True
-деи марми;dei marmi;True
-цоллетте бы цоллетте;collette by collette;True
-веггетти;veggetti;True
-стратегиа;strategia;False
-цафтан;caftan;True
-ясмине;jasmine;True
-филлинг;filling;True
-цлара;clara;True
-вентурино;venturino;True
-фабио;fabio;True
-алберта;alberta;True
-винциане стоувенакер;vinciane stouvenaker;True
-ц.маландрино;c.malandrino;False
-илариа;ilaria;True
-боцлет;boclet;True
-цомеы;comey;True
-ацqуа ди;acqua di;True
-монроw;monrow;False
-паинт;paint;True
-бийоуx;bijoux;False
-дерек;derek;True
-порсче;porsche;False
-солд;sold;True
-оригиналс бы;originals by;True
-миллен;millen;True
-царолее;carolee;False
-гиамбаттиста;giambattista;True
-рен;ren;True
-орчид;orchid;True
-скандиа;skandia;True
-алмадал;almadal;True
-греыл;greyl;True
-юдитх;judith;True
-униформс фор тхе;uniforms for the;True
-рабанне;rabanne;True
-нове;nove;False
-преен;preen;True
-лоуер;louer;True
-тхеодент;theodent;False
-сфорза;sforza;True
-маxмара;maxmara;True
-x марина;x marina;True
-ыуммы;yummy;True
-ачоур;achour;True
-цутлер;cutler;True
-йошуа;joshua;True
-алан;alan;True
-бы полина;by polina;True
-быблос;byblos;False
-азроуел;azrouel;True
-гениус;genius;True
-тwинсет симона;twinset simona;True
-мессер;messer;True
-мантоуx;mantoux;True
-рицарда;ricarda;True
-тхакоон;thakoon;False
-вибратион;vibration;True
-wиллиамсон;williamson;True
-ричлы;richly;True
-аллегра;allegra;True
-ширт;shirt;True
-вицториа вицториа;victoria victoria;True
-минна;minna;True
-х`д`с`н;h`d`s`n;True
-ис;is;True
-ыолке;yolke;False
-петер;peter;True
-мичеле;michele;True
-барба;barba;False
-сордо;sordo;True
-бриан;brian;True
-етон;eton;False
-сантини;santini;True
-лиллы;lilly;True
-бонд;bond;True
-поур;pour;True
-пенхалигонЬс;penhaligon's;False
-ричард й;richard j;True
-сwимwеар;swimwear;True
-арцтиц;arctic;True
-денны;denny;True
-бы цоллетте;by collette;True
-раилс;rails;False
-цоми;comi;True
-флоwерс;flowers;True
-мабрун;mabrun;False
-н21#картелл;n21#kartell;False
-ешаыа;eshaya;True
-алфредо;alfredo;True
-рубан;ruban;True
-салвателли;salvatelli;True
-андреыанова;andreyanova;True
-суммерхит;summerhit;False
-авант;avant;True
-цапони;caponi;True
-аперлаи;aperlai;False
-ортигни;ortigni;False
-м;m;True
-нери;neri;True
-репеац;repeats;True
-аецаwхите;aecawhite;False
-фабио гаваззи;fabio gavazzi;True
-лауренце;laurence;True
-лос;los;True
-гордон;gordon;False
-бен тавернити унравел;ben taverniti unravel;True
-стора;stora;True
-мы беауты;my beauty;True
-маисон мартин;maison martin;True
-доротхее;dorothee;True
-пхиллип;phillip;True
-бы марцо;by marco;True
-фраме;frame;True
-бертони;bertoni;False
-иф онлы wас;if only was;True
-емфаси;emfasi;True
-цомме дес;comme des;True
-персона бы;persona by;True
-ту;tu;True
-лаго;lago;True
-пуцци;pucci;True
-оригиналс бы алеxандер;originals by alexander;True
-цоле;cole;True
-гоар;goar;True
-10;10;True
-мицаллеф;micallef;True
-фабио гаваззи фор;fabio gavazzi for;True
-леомбруни;leombruni;True
-бурлон кидс;burlon kids;True
-гиги;gigi;True
-гентле;gentle;True
-сунува;sunuva;False
-елиса;elisa;True
-умка;umka;False
-перофил;perofil;False
-аинеа;ainea;False
-зац;zac;True
-монналиса;monnalisa;False
-сарах;sarah;True
-дориани;doriani;False
-гуфо;gufo;True
-но21;no21;False
-линардаки;linardaki;True
-раqуел;raquel;True
-занариа;zanaria;True
-милан;milan;True
-маил;mail;True
-оxс руббер;oxs rubber;True
+нейл барретт;neil barret;True
+леви с® маде;levi s® made;True
 сциссор;scissor;True
-онwаы;onway;True
-ай;aj;True
-ре;re;True
-рока;roka;True
-силвано;silvano;True
-римонди;rimondi;True
-цардин;cardin;True
-хистоирес;histoires;True
-тхе елдер;the elder;True
-меллизос;mellizos;False
-ит;it;True
-марина;marina;True
-бонфанти;bonfanti;False
-галанти;galanti;True
-суд;sud;True
-цлуб бы ла;club by la;True
-ох мы;oh my;True
-куб0раум;kub0raum;False
-заспорт;zasport;False
-п.р.лаурен;p.r.lauren;False
-м.мати;m.mati;True
-каша;kasha;True
-еигхт &;eight &;True
-цоомпол;coompol;False
-пхилосопхы;philosophy;True
-йб;jb;True
-дацаде;dacade;True
-куркдйиан;kurkdjian;True
-делпозо;delpozo;False
-сб-26;sb-26;False
-фанти;fanti;True
-гиоргио;giorgio;True
-госоакы;gosoaky;False
-атхена;athena;True
-гавриел;gavriel;True
-итем;item;True
-мока да;moka da;True
-амири;amiri;False
-цастанер бы маноло;castaner by manolo;True
-корс;kors;True
-унитед цолорс;united colors;True
-флавио;flavio;True
-роыалтиес;royalties;False
-воыаге;voyage;True
-сандер;sander;True
-120%;120%;True
-xxx;xxx;False
-л.г.б.;l.g.b.;False
-дидоне;didone;True
-диане вон;diane von;True
-интропиа;intropia;True
-ума;uma;True
-торриани;torriani;True
-прпс;prps;False
-униче;uniche;True
-сцотланд;scotland;True
-еугениа;eugenia;True
-нервуре;nervure;False
-задиг;zadig;True
-парфумеур;parfumeur;True
-чристиан;christian;True
-имец;imec;False
-бе;be;True
-пыо;pyo;True
-децларе;declare;False
-счиммел;schimmel;True
-фифтысевен;fiftyseven;True
-ор;or;True
-сам;sam;False
-тардиа;tardia;True
-еугение;eugenie;True
-самантха;samantha;True
-деса;desa;False
-сталгерт;stalgert;False
-профмаx;profmax;False
-пицционе.пицционе;piccione.piccione;False
-реебок x;reebok x;True
-мауриззио;maurizzio;True
-симона;simona;True
-дес гарцонс;des garcons;True
-виртуале фур;virtuale fur;True
-давидиан;davidian;True
-баобаб;baobab;True
-ппцм;ppcm;True
-пхилисопхы;philisophy;True
-ладывосток;ladyvostok;False
-лернер;lerner;True
-мастерминд;mastermind;True
-биттар;bittar;True
-wхарф;wharf;True
-бернардауд;bernardaud;False
-180 бы йеан;180 by jean;True
-ормонде;ormonde;True
-ф.р.с;f.r.s;True
-холлыwоод;hollywood;True
-весперини;vesperini;True
-росса;rossa;True
-шойи;shoji;True
-чилдрен фашион;children fashion;True
-дуе;due;True
-минна парикка;minna parikka;True
-флеур ду;fleur du;True
-хаидер;haider;True
-пробст;probst;True
-пантанетти;pantanetti;False
-буи;bui;True
-арабиа;arabia;True
-цавалли;cavalli;True
-менг;meng;False
-гритти;gritti;False
-иЬм исола;i'm isola;True
-барбара и;barbara i;True
-марц бы;marc by;True
-бурч;burch;True
-а.ферретти;a.ferretti;True
-тыоулип;tyoulip;True
-рицардо;ricardo;True
-бы маноло;by manolo;True
-маттхеw;matthew;True
-бы алеxандер;by alexander;True
-оамц;oamc;False
-дЬангело;d'angelo;True
-бы йеан;by jean;True
-цамицериа;camiceria;True
-фор алл;for all;True
-цомме дес гарцонс;comme des garcons;True
-диане;diane;True
-чантецаилле;chantecaille;False
-бы тхорнтон;by thornton;True
-литковскаыа;litkovskaya;False
-морато;morato;True
-wиндсор;windsor;False
-едитед бы;edited by;True
-смедлеы;smedley;True
-аттилио;attilio;True
-мисчка;mischka;True
-еберхарт;eberhart;False
-брегаззи;bregazzi;True
-хунтинг;hunting;True
-ат;at;True
-цашмере;cashmere;True
-марц &;marc &;True
-& ыони;& yoni;True
-херрера;herrera;True
-монтелпаре;montelpare;True
-стуссы;stussy;False
-бианчи;bianchi;True
-примордиал;primordial;True
-7;7;True
-тадаши шойи;tadashi shoji;True
-5;5;True
-маx мара спx;max mara spx;True
-лиу;liu;True
-андерсон;anderson;True
-пациотти;paciotti;True
-хелмут;helmut;True
-винце;vince;False
-стауд;staud;False
-дице;dice;True
-цопаинс;copains;True
-2ме;2me;False
-мадпаx;madpax;False
-цулт;cult;True
-бурлон;burlon;True
-стылинг;styling;True
-френчы;frenchy;True
-уемура;uemura;True
-кид;kid;True
-кривда;krivda;True
-яцк &;jack &;True
-мастерцрафт;mastercraft;True
-180г бы ницолас;180g by nicolas;True
-сорры;sorry;True
-ангел с;angel s;True
-десигнерс;designers;True
-прингле;pringle;True
-турнбулл;turnbull;True
-цолетте;colette;True
-молецулес;molecules;True
-профессор;professor;True
-ясмине ди;jasmine di;True
-бриц`с;bric`s;False
-ферранте;ferrante;True
-чеваллиер;chevallier;True
-бехр;behr;True
-сацаи;sacai;False
-кане;kane;True
-кнт;knt;False
-бос;bos;True
-диего;diego;True
-орлебар;orlebar;True
-75;75;True
-инноценце;innocence;True
-берлин;berlin;True
-марысиа;marysia;True
-гцдс;gcds;False
-филлес а;filles a;True
-доме;dome;True
-симон;simon;True
-гхц;ghc;False
-йц де;jc de;True
-ацоола;acoola;True
-роцца;rocca;True
-wу;wu;True
-яцкие;jackie;True
-маЬ;ma';True
-п;p;True
-циана;ciana;True
-тадаши;tadashi;True
-унлабел;unlabel;False
-натурал кангра;natural kangra;True
-биланциони;bilancioni;False
-манзони;manzoni;True
-сантони едитед;santoni edited;True
-далоод;dalood;False
-тфк тхе;tfk the;True
-плеин;plein;True
-лео;leo;True
-ррл;rrl;False
-бы юицы;by juicy;True
-теен;teen;True
-фроу;frou;True
-пал;pal;True
-счмитт;schmitt;True
-рестлесс;restless;True
-оил;oil;True
-ц.п;c.p;True
-бы сониа;by sonia;True
-престон;preston;True
-винциане;vinciane;True
-саге;sage;True
-едитор;editor;True
-йм;jm;True
-редоуте;redoute;True
-цохен;cohen;True
-гео;geo;True
-ривиерас;rivieras;True
-ми;mi;True
-рубинацци;rubinacci;True
-спидер-ман;spider-man;False
-терзиан;terzian;True
-ф66;f66;False
-памела;pamela;False
-нарс;nars;False
-фред;fred;True
-виц;vic;True
-фогал;fogal;False
-амен;amen;False
-ст.бартх;st.barth;False
-qуинн;quinn;True
-марцо де;marco de;True
-цоыотес;coyotes;True
-зилери;zileri;True
-лил поур;lil pour;True
-нор;nor;True
-wип;wip;True
-плеасуре;pleasure;True
-боыы;boyy;False
-wархол;warhol;True
-кидстон;kidston;True
-тхорнтон;thornton;True
-руе ду;rue du;True
-униформс фор;uniforms for;True
-пицариелло;picariello;True
-з;z;True
-бартлетт;bartlett;True
-биани;biani;True
-хиде&яцк;hide&jack;False
-рубик;rubik;True
-рицци;ricci;True
-пеекабоо;peekaboo;False
-лорис;loris;True
-пацкхам;packham;True
-ривиерас леисуре;rivieras leisure;True
-у.с;u.s;True
-мурпхы &;murphy &;True
-барбиери;barbieri;True
-арцелаб;artselab;False
-турнбулл &;turnbull &;True
-полина;polina;True
-киехл;kiehl;True
-саге анд;sage and;True
-риццардо;riccardo;True
-мода;moda;True
-морпхо&луна;morpho&luna;False
-кееперс;keepers;True
-wебстер;webster;True
-кхрисйоы;khrisjoy;False
-реады то;ready to;True
-мадден;madden;True
-робери;roberi;True
-зенгарини;zengarini;True
-цуоио;cuoio;True
-пацифиqуе;pacifique;True
-мигуел;miguel;True
-англоманиа;anglomania;True
-фресцобол;frescobol;True
-кнот;knot;True
-фран;fran;True
-местиери;mestieri;True
-едуард;eduard;True
-паладини;paladini;True
-счоулер;schouler;True
-роча й;rocha j;True
-селезнева;selezneva;True
-блауе;blaue;True
-богс;bogs;False
-семонин;semonin;True
-робинсон лес;robinson les;True
-оверцоме;overcome;False
-долфие;dolfie;False
-луиса;luisa;True
-цирри_цирри;cirri_cirri;False
-зиммерли;zimmerli;False
-карл;karl;True
-ницкелодеон;nickelodeon;False
-петриглиа;petriglia;True
-хоффман;hoffman;True
-алена;alena;True
-йенны;jenny;True
-язз;jazz;True
-гианантонио;gianantonio;True
-иф;if;True
-раг;rag;True
-гение;genie;True
-донателла;donatella;True
-франчи;franchi;True
-пасотти;pasotti;True
-нунуну;nununu;False
-ыеах;yeah;True
-индустриес;industries;True
-л.б.м;l.b.m;True
-хадид;hadid;True
-маргот;margot;True
-далес;dales;True
-пеллеттиери ди;pellettieri di;True
-wалк оф;walk of;True
-йоур ле;jour le;True
-цостуме;costume;True
-ицонс;icons;True
-марцолиани;marcoliani;False
-цуддлы соцкс;cuddly socks;True
-елевен;eleven;True
-роберто дел;roberto del;True
-карссен;karssen;True
-бротхерс блацк;brothers black;True
-л&цомпаны лос;l&company los;True
-паез;paez;False
-wоман;woman;True
-ничолас;nicholas;True
-партицулиер;particulier;True
-ф.р.с фор рестлесс;f.r.s for restless;True
-сониа;sonia;True
-цедриц;cedric;True
-цристина;cristina;True
-парикка;parikka;True
-тwоол;twool;True
-зипит;zipit;False
-палома;paloma;True
-бартх;barth;True
-дирк;dirk;True
-борис бидян;boris bidjan;True
-тренино;trenino;True
-цастори;castori;False
-1961;1961;True
-фурс;furs;True
-мурат;murat;True
-д&г;d&g;False
-марчанд;marchand;True
-манна;manna;True
-фемме бы мичеле;femme by michele;True
-йоурден;jourden;False
-виадесте;viadeste;False
-180г бы;180g by;True
-мануел;manuel;True
-аддицтед;addicted;False
-бы ралпх;by ralph;True
-йеннифер;jennifer;True
-юицы бы юицы;juicy by juicy;True
-гхост;ghost;True
-деборах;deborah;True
-чопард;chopard;False
-цаваллини;cavallini;True
-ферто;ferto;False
-р.й.броwн;r.j.brown;False
-фашион фор;fashion for;True
-севери;severi;True
-лерре;lerre;False
-ленглинг;lengling;False
-манетти;manetti;True
-фур;fur;True
-борделле;bordelle;False
-да;da;True
-ротх;roth;True
-чарлиер;charlier;True
-гарцонс ширт;garcons shirt;True
-й;j;True
-маралеx;maralex;True
-цоллезиони;collezioni;True
-карен;karen;True
-цивидини;cividini;False
-сопхиа wебстер;sophia webster;True
-натаыаким;natayakim;False
-царине;carine;True
-ыамамото;yamamoto;True
-аффеx;affex;False
-гн;gn;True
-фитзгералд;fitzgerald;True
-б3.0;b3.0;False
-елдер;elder;True
-плаин;plain;True
-фаби;fabi;False
-доуцалЬс;doucal's;False
-бардот;bardot;True
-елие;elie;True
-арлотта;arlotta;False
-амулети;amuleti;True
-киок;kiok;False
-мастерминд x;mastermind x;True
-донна;donna;True
-wеилл;weill;False
-мрз;mrz;False
-соулиерс;souliers;True
-барбед;barbed;False
-театро;teatro;True
-германо;germano;False
-евиденс;evidens;True
-дЬеxтериор;d'exterior;False
-белотти;belotti;True
-еыеwеар;eyewear;True
-сониа бы сониа;sonia by sonia;True
-нанцы;nancy;True
-боадицеа тхе;boadicea the;True
-м.и.х;m.i.h;True
-бен тавернити;ben taverniti;True
-темптатион;temptation;False
-аззаро;azzaro;False
-бианца;bianca;True
-парис фроу;paris frou;True
-гоосе делуxе;goose deluxe;True
-массимино;massimino;True
-10 цросбы дерек;10 crosby derek;True
-смалто;smalto;True
-лиса;lisa;True
-фрацап;fracap;False
-хоwлин;howlin;False
-бусцеми;buscemi;False
-виртуале;virtuale;True
-ерицксон;erickson;True
-гина &;gina &;True
-беннет;bennet;True
-брандон;brandon;True
-цонстантине;constantine;True
-андреw;andrew;True
-бартлеы;bartley;True
-вест;vest;True
-задорина;zadorina;True
-стуарт;stuart;True
-ярмон;jarmon;True
-оффицине;officine;True
-анницк;annick;True
-чилдрен;children;True
-гуендалина;guendalina;False
-матие;matie;True
-+ аитор;+ aitor;True
-кеы;key;True
-йо но;jo no;True
-пиетро;pietro;True
-д`оро;d`oro;True
-ррел;rrel;False
-тхеы неw;they new;True
-алице анд;alice and;True
-руцолине;rucoline;False
-лил;lil;True
-оф неw;of new;True
-хеарст;hearst;True
-хомерс ат;homers at;True
-франкие;frankie;True
-ал;al;True
-чроме;chrome;True
-флееце;fleece;True
-роw;row;True
-м.паппас;m.pappas;False
-ницки;nicki;True
-бы борис бидян;by boris bidjan;True
-цросбы дерек;crosby derek;True
-дауне;daune;True
-с маx;s max;True
-1901;1901;True
-меизер;meizer;False
-росселла;rossella;True
-оxс;oxs;True
-руссе;russe;True
-прециоус;precious;True
-ам;am;True
-марте;marte;True
-ди алберта;di alberta;True
-фреуд;freud;True
-делан;delan;False
-лазул;lazul;False
-сол;sol;True
-ыохйи;yohji;True
-моу;mou;True
-адидас оригиналс;adidas originals;True
-кеддо;keddo;False
-й &;j &;True
-випе;vipe;False
-беллини;bellini;False
-финаморе;finamore;True
-армы ывес;army yves;True
-санторо;santoro;True
-едит;edit;False
-ресорт;resort;True
-цоннеxион;connexion;True
-харды;hardy;True
-севенты;seventy;False
-гианницо;giannico;False
-марлиес;marlies;True
-цастанер;castaner;True
-елизабетх анд;elizabeth and;True
-ребел;rebel;True
-керн;kern;True
-бобби;bobbi;True
-111скин;111skin;False
-прпс гоодс;prps goods;True
-цуддлы соцкс бы;cuddly socks by;True
-кидорабле;kidorable;False
-сара;sara;True
-кети;keti;True
-тхе фрагранце;the fragrance;True
-сачин &;sachin &;True
-шаде бы;shade by;True
-парма;parma;True
-статесман;statesman;True
-харрыс оф;harrys of;True
-ассн.;assn.;True
-паине;paine;True
-унцлес;uncles;True
-оут;out;True
-чеап&чиц;cheap&chic;True
-тфк тхе фрагранце;tfk the fragrance;True
-лосани;losani;True
-задиг &;zadig &;True
-м.инт;m.int;False
-& стылинг;& styling;True
-wет;wet;True
-франклин &;franklin &;True
-олдос;oldos;False
-фаы;fay;True
-оозоо;oozoo;True
-сарына;saryna;True
-тенданцес;tendances;True
-28,5;28,5;False
-привее;privee;True
-грунге йохн;grunge john;True
-x алеxандер;x alexander;True
-блахник;blahnik;True
-йитроис;jitrois;False
-руе;rue;True
-блас;blas;True
-мовие;movie;True
-хотел;hotel;True
-паоло;paolo;True
-морелло;morello;True
-боб;bob;True
-спаде;spade;True
-мартина;martina;True
-едитион;edition;True
-симон&сцотт;simon&scott;False
-лилиес;lilies;True
-тwенты;twenty;True
-вера;vera;True
-тwист;twist;True
-араназ;aranaz;False
-тхе слееп;the sleep;True
-етхан;ethan;True
-грунге йохн орчестра;grunge john orchestra;True
-др.вранйес;dr.vranjes;False
-бао бао иссеы;bao bao issey;True
-ыигал;yigal;True
-паррончи;parronchi;True
-метео;meteo;True
-аверы;avery;False
-бригитте;brigitte;True
-уомо;uomo;True
-пхилосопхы ди алберта;philosophy di alberta;True
-полови;polovi;False
-цуррент/еллиотт;current/elliott;False
-ултрацор;ultracor;False
-ысл;ysl;False
-аннетте;annette;True
-йеуне;jeune;True
-спаде неw;spade new;True
-фонсеца;fonseca;True
-ыони;yoni;True
-микати;mikati;True
-лилибетх оф неw;lilibeth of new;True
-ле йеан;le jean;True
-баррера;barrera;True
-кангра;kangra;True
-гросс;gross;True
-148;148;True
-рич &;rich &;True
-андрé;andré;True
-йозица;jozica;False
-белстафф;belstaff;False
-x;x;True
-а и;a i;True
-каракорам;karakoram;True
-рабе;rabe;True
-сассо;sasso;True
-анналиса;annalisa;True
-атwоод;atwood;True
-рубеус;rubeus;True
-марцело бурлон кидс;marcelo burlon kids;True
-стеигер;steiger;False
-юрген;jurgen;True
-гаваззи;gavazzi;True
-пецора;pecora;True
-янсон;janson;True
-саве;save;True
-маx&цо.;max&co.;False
-тхе моод фор;the mood for;True
-счоол;school;True
-алеxандре;alexandre;True
-цум;tsum;True
-десигнс;designs;True
-лемарго;lemargo;False
-фемме;femme;True
-аголде;agolde;False
-хосс;hoss;True
-александерсирадекиан;aleksandersiradekian;False
-биостхетиqуе;biosthetique;True
-wестелите;westelite;False
-иссеы;issey;True
-ау;au;True
-опенинг;opening;True
-ангела;angela;True
-анне валерие;anne valerie;True
-йолиена;joliena;True
-ригхт;right;True
-кингслеы;kingsley;True
-сочи;sochi;True
-егг бы сусан;egg by susan;True
-хомесыс;homesys;False
-иq+берлин;iq+berlin;False
-симоне роча;simone rocha;True
-2мен;2men;False
-бинда;binda;True
-он;on;True
-бланчетт;blanchett;True
-занини;zanini;True
-ыаЬаqов;ya'aqov;True
-хиндмарч;hindmarch;True
-юпе;jupe;True
-сорлеы;sorley;True
-убеар;ubear;False
-лиса марие;lisa marie;True
-лупфер;lupfer;True
-габриел;gabriel;True
-йц;jc;True
-нисеарч;nisearch;True
-цинемоод;cinemood;False
-кислис;kislis;False
-антоны;antony;True
-спотлигхт;spotlight;False
-с;s;True
-теаспоон;teaspoon;True
-муглер;mugler;False
-серафини;serafini;True
-етоиле;etoile;True
-раw + аитор;raw + aitor;True
-ритз;ritz;True
-12;12;True
-робери &;roberi &;True
-примаформа;primaforma;False
-гарцонс хомме;garcons homme;True
-сабери;saberi;True
-рон;ron;True
-берwич;berwich;False
-роберта;roberta;True
-раин;rain;True
-пинцо;pinco;True
-диана;diana;True
-францо;franco;True
-яы;jay;True
-латорре;latorre;True
-барбие;barbie;False
-море &;more &;True
-палтингер;paltinger;True
-минд;mind;True
-кхаите;khaite;False
-силк оил оф;silk oil of;True
-88;88;True
-цатх;cath;True
-бы марина;by marina;True
-ф.р.с фор;f.r.s for;True
-олег;oleg;True
-багутта;bagutta;False
-артиминеси;artiminesi;False
-тинглеы;tingley;False
-моло;molo;True
-баррие;barrie;False
-паллино;pallino;True
-а.ф.вандеворст;a.f.vandevorst;False
-спрwмн;sprwmn;False
-чристина;christina;True
-естéе;estée;True
-бологна;bologna;True
-барретт;barrett;True
-едитед;edited;True
-рицетти;ricetti;True
-гем;gem;True
-пиаценза;piacenza;True
-боттицелли;botticelli;True
-пантхерелла;pantherella;False
-варлеы;varley;False
-олег о;oleg o;True
-мока;moka;True
-герры;gerry;True
-ес мон;es mon;True
-чиц;chic;True
-агл;agl;False
-арти;arti;True
-лаурен;lauren;True
-френцы&мерцуры;frency&mercury;False
-казумыан;kazumyan;True
-лоцк;lock;True
-б;b;True
-ох;oh;True
-зубелдиа;zubeldia;True
-росие;rosie;True
-мер;mer;True
-лион оф;lion of;True
-колор;kolor;True
-осцар де ла;oscar de la;True
-лЬаутре;l'autre;True
-цастелбаяц;castelbajac;True
-арутыунов;arutyunov;True
-wеар;wear;True
-ессентиел;essentiel;True
-фрауд;fraud;True
-мори;mori;True
-цасасола;casasola;True
-гоодс &;goods &;True
-борис;boris;True
-бан;ban;True
-фасциани;fasciani;True
-хармониа;harmonia;True
-феде;fede;True
-габриеле;gabriele;True
-цливе;clive;True
-ронцато;roncato;False
-торнаде;tornade;True
-диптыqуе;diptyque;False
-маритх +;marith +;True
-биллионаире;billionaire;True
-магнанни;magnanni;False
-цп;cp;True
-пилотто;pilotto;True
-нудие;nudie;True
-флеур ду мал;fleur du mal;True
-броуссард;broussard;True
-юнефее;junefee;False
-3,0;3,0;True
-галлотти;gallotti;False
-сугархилл;sugarhill;True
-wеи;wei;True
-аппарел;apparel;True
-рачел;rachel;True
-рвл;rvl;True
-деним&супплы бы ралпх;denim&supply by ralph;True
-раы —;ray —;True
-тхе спидерс;the spiders;True
-гиулиана;giuliana;True
-вива;viva;True
-це;tse;False
-цаовилла;caovilla;True
-хоме &;home &;True
-асцоли;ascoli;True
-систер;sister;True
-ферретти;ferretti;True
-сцогнамиглио;scognamiglio;True
-есцентриц;escentric;True
-фурланд;furland;False
-свево;svevo;False
-хирсч;hirsch;True
-традитион;tradition;True
-георге гина &;george gina &;True
-олгана;olgana;False
-кром;krom;True
-ц п;c p;True
-францесца;francesca;True
-драпиер;drapier;True
-халле;halle;True
-мауризио;maurizio;True
-аден+анаис;aden+anais;False
-ид;id;True
-музи;muzi;True
-бацон;bacon;False
-ерменегилдо;ermenegildo;True
-киркwоод;kirkwood;True
-цоллеге;college;False
-виктор &;viktor &;True
-ласры;lasry;True
-бурри;burri;True
-гоутал;goutal;True
-бы карен;by karen;True
-аппартемент а;appartement a;True
-ицонс оф;icons of;True
-волтаире;voltaire;True
-цитизенс оф;citizens of;True
-wомен;women;True
-робинсон;robinson;True
-брунелли;brunelli;True
-флаш;flash;True
-чкхиквадзе;chkhikvadze;True
-киехл`с;kiehl`s;False
-баццарат;baccarat;False
-цар;tsar;False
-ренцо;renco;False
-лосангелес;losangeles;True
-лЬартисан;l'artisan;True
-фран оис;fran ois;True
-степхане;stephane;True
-царолина;carolina;True
-цомме;comme;True
-гуесс бы;guess by;True
-р.;r.;True
-ыу;yu;True
-сомеwхере;somewhere;True
-цомпагниа;compagnia;True
-мичаел бы;michael by;True
-дес;des;True
-анн;ann;True
-сорры иЬм;sorry i'm;True
-тод;tod;False
-дормеуил;dormeuil;False
-маЬ рыЬ;ma' ry';True
-ду мал;du mal;True
-й & ыони;j & yoni;True
-д&й;d&j;True
-литтле марц;little marc;True
-примитиве;primitive;True
-бао бао;bao bao;True
-торы;tory;True
-руперт;rupert;True
-лино;lino;True
-мосс;moss;True
-нине;nine;True
-ердем;erdem;False
-армы;army;True
-анна цлуб бы;anna club by;True
-сопхиа;sophia;True
-фор артЬс;for art's;True
-2;2;True
-беноит;benoit;True
-лемпелиус;lempelius;False
-сантони едитед бы;santoni edited by;True
-прингле оф;pringle of;True
-финдер;finder;True
-вонни;vonni;True
-нистри;nistri;True
-кнуцклес;knuckles;True
-180г;180g;True
-адидас оригиналс бы;adidas originals by;True
-молли;molli;False
-йеан-мичел;jean-michel;True
-аттилио гиусти;attilio giusti;True
-пиана;piana;True
-форте деи марми;forte dei marmi;True
-цсц;csc;True
-паяро;pajaro;True
-симонс;simons;True
-беццариа;beccaria;True
-кипо;kipo;True
-енза;enza;True
-wомен ин тхе;women in the;True
-италиана;italiana;True
-йет йохн;jet john;True
-пеоплес;peoples;True
-цолоур 5;colour 5;True
-дресслер;dressler;True
-арфен;arfen;True
-россетти;rossetti;True
-лацроиx;lacroix;True
-тwо wомен ин;two women in;True
-цантарелли;cantarelli;False
-хасбро;hasbro;False
-емануеле;emanuele;True
-лафаыетте;lafayette;True
-киссы;kissy;True
-боутиqуе;boutique;True
-мороццо;morocco;True
-пандорине;pandorine;True
-цениа;cenia;False
-ремиx;remix;True
-мариелла;mariella;True
-онлы wас;only was;True
-чристофле;christofle;False
-бы ла;by la;True
-милано;milano;True
-тонка;tonka;True
-цаф;caf;True
-холлыwоод традинг;hollywood trading;True
-тхинк;think;True
-ад56;ad56;False
-метрицо;metrico;False
-аигле;aigle;False
-марант;marant;True
-магда;magda;True
-цристле;cristle;True
-йошуа`с;joshua`s;True
-томас;tomas;True
-мара;mara;True
-фиесоли;fiesoli;True
-бенан;benan;True
-лариса;larisa;True
-л;l;True
-спадо;spado;True
-базар;bazar;True
-тресопхие;tresophie;False
-малоне;malone;True
-д.еxтериор;d.exterior;False
-симоне роча й;simone rocha j;True
-хадоро;hadoro;False
-цоллине;colline;True
-леоца;leoca;False
-а.w.а.к.е.;a.w.a.k.e.;False
-алессандра;alessandra;True
-ф.р.с.;f.r.s.;False
-фисзлеwицз;fiszlewicz;True
-артЬс;art's;True
-благонравова;blagonravova;True
-маррас;marras;True
-фабризио дел;fabrizio del;True
-театро фрагранзе;teatro fragranze;True
-фабиана;fabiana;True
-апиеце;apiece;True
-у.с поло;u.s polo;True
-пхилип;philip;True
-лоцк &;lock &;True
-бараццо;baracco;True
-суно;suno;False
-ни;ni;False
-франклин;franklin;True
-брос.;bros.;True
-солаце;solace;False
-шу;shu;True
-180 бы;180 by;True
-сааб;saab;True
-реады;ready;True
-к;k;True
-слееве;sleeve;True
-динниган;dinnigan;True
-флыдеа;flydea;False
-спиритуал;spiritual;True
-марц бы марц;marc by marc;True
-н1;n1;True
-адам йонес;adam jones;True
-чоцолат;chocolat;True
-хермèс;hermès;False
-бао иссеы;bao issey;True
-адидас бы раф;adidas by raf;True
-никелаб;nikelab;False
-оис;ois;True
-диассамидзе;diassamidze;True
-хеунис;heunis;True
-леисуре;leisure;True
-кингдом;kingdom;True
-сцабо;scabo;True
-италы;italy;True
-бенеттон;benetton;True
-линдберг;lindberg;False
-зецчино;zecchino;True
-тхеы;they;True
-кадар;kadar;True
-елина;elina;True
-плеинаир;pleinair;False
-а-цынетиц;a-cynetic;True
-томмы хилфигер бы;tommy hilfiger by;True
-аф пхилосопхы;af philosophy;True
-марлы;marly;True
-елена;elena;True
-герман;german;True
-ио;io;True
-цЬнЬц;c'n'c;True
-талитха;talitha;False
-сундаы;sunday;True
-онетеаспоон;oneteaspoon;False
-даум;daum;False
-прада линеа;prada linea;True
-цециле;cecile;True
-3.1 пхиллип;3.1 phillip;True
-фенты пума бы;fenty puma by;True
-зое;zoe;True
-ои;oi;True
-луциано;luciano;True
-нотен;noten;True
-лаудер;lauder;True
-цолорс оф;colors of;True
-трансит;transit;False
-1733;1733;True
-ти;ti;True
-мини;mini;True
-+ фран;+ fran;True
-артимаглиа;artimaglia;False
-боне;bone;True
-бурани;burani;True
-суискин;suiskin;False
-мечери;mecheri;True
-бы рицк;by rick;True
-и;i;True
-баинс;bains;True
-иро аня;iro anja;True
-георге;george;True
-камали;kamali;True
-гата;gata;True
-wеллингтон;wellington;True
-хилфигер бы;hilfiger by;True
-аффензахн;affenzahn;False
-wилл;will;True
-спагноли;spagnoli;True
-оливиа вон;olivia von;True
-биалас;bialas;True
-и ам;i am;True
-2 мен;2 men;True
-счонwерцк;schonwerck;False
-21;21;True
-пиецес;pieces;True
-й.н.ц.;j.n.c.;False
-бы гиги;by gigi;True
-мартиниано;martiniano;False
-цаф чилдрен;caf children;True
-лилибетх оф;lilibeth of;True
-раф;raf;True
-басси;bassi;True
-ецлаирес;eclaires;True
-оеуф;oeuf;False
-анне;anne;True
-федерица;federica;True
-силвиан;silvian;True
-гемстонес;gemstones;True
-авиатор;aviator;True
-ролф;rolf;True
-гроунд-зеро;ground-zero;False
-тwисты параллел;twisty parallel;True
-чарлотте;charlotte;True
-билл;bill;True
-шаде бы карен;shade by karen;True
-дуцк;duck;True
-емозионе;emozione;False
-елизабетх;elizabeth;True
-ямес;james;True
-л&цомпаны;l&company;True
-фриедман;friedman;True
-басиx блацк;basix black;True
-паула;paula;True
-мих;mih;True
-иенки;ienki;True
-ил;il;True
-сцрамблед;scrambled;True
-д&с ралпх;d&s ralph;True
-пхилосопхы ди лорензо;philosophy di lorenzo;True
-боыс;boys;True
-ангело;angelo;True
-аг;ag;True
-олег о фор;oleg o for;True
-униформс;uniforms;True
-ванда;vanda;True
-кристина;kristina;True
-парфумс де;parfums de;True
-мараис;marais;True
-раw +;raw +;True
-силла;silla;True
-лм;lm;True
-порчес;porches;True
-албино;albino;False
-марц о;marc o;True
-813 оттотредици анналиса;813 ottotredici annalisa;True
-мило;milo;True
-ревече;reveche;True
-стоне исланд шадоw;stone island shadow;True
-шеЬс;she's;True
-чаро;charo;True
-реед;reed;True
-лемлем;lemlem;False
-мемо;memo;False
-пхилисопхы ди;philisophy di;True
-цуддлы;cuddly;True
-иоанна;ioanna;True
-цаф чилдрен фашион;caf children fashion;True
-хоммес;hommes;True
-лутенс;lutens;True
-фуи;fui;True
-унитед цолорс оф;united colors of;True
-болгхери;bolgheri;True
-атланта;atlanta;True
-маиыет;maiyet;False
-аесоп;aesop;False
-леигхтон;leighton;True
-армата ди;armata di;True
-естелла;estella;True
-юпе бы;jupe by;True
-руннинг;running;True
-инуикии;inuikii;False
-миссолин;missolin;True
-инцонтри;incontri;True
-т;t;True
-сассетти;sassetti;True
-стефаниа;stefania;True
-ундерцовер;undercover;False
-цоуррèгес;courrèges;False
-яыне;jayne;True
-магисче;magische;True
-йог;jog;True
-метео бы ывес;meteo by yves;True
-1881;1881;True
-моуче;mouche;False
-кочé;koché;False
-аппартемент;appartement;True
-дансе;danse;True
-цомма,;comma,;False
-винцензо;vincenzo;True
-яцк спаде неw;jack spade new;True
-йорг;jorg;True
-нарцисо;narciso;True
-стате;state;True
-аткинсонс;atkinsons;False
-фенты пума;fenty puma;True
-риц;ric;True
-цросбы;crosby;True
-ктз;ktz;False
-блумарине;blumarine;True
-тхроуп;throup;True
-5превиеw;5preview;False
-чосе;chose;True
-тwо;two;True
-таылор;taylor;True
-хисторы;history;True
-солоwеар;solowear;False
-грахам x;graham x;True
-66;66;True
-мойо;mojo;True
-бы малене;by malene;True
-раw;raw;True
-малене;malene;True
-лилибетх;lilibeth;True
-е.е.сцервино;e.e.scervino;False
-урбан фашион фор;urban fashion for;True
-етинцеллес;etincelles;False
-мара спx;mara spx;True
-порц;ports;True
-метео ывес;meteo yves;True
-соцкс;socks;True
-т бы;t by;True
-деа;dea;True
-прима;prima;True
-иачи;iachi;True
-wалк;walk;True
-цлевер &;clever &;True
-занотти;zanotti;True
-ханро;hanro;False
-омбрелли;ombrelli;True
-наташа;natasha;True
-гош;gosh;True
-12 францаис;12 francais;True
-росси;rossi;True
-фтц;ftc;False
-сомедаысоон;somedaysoon;False
-яцqуемус;jacquemus;False
-чристопхер;christopher;True
-бирман;birman;True
-хистоирес де;histoires de;True
-кендалл&кылие;kendall&kylie;False
-еxплосион;explosion;True
-хохан;hohan;True
-йеwелс;jewels;True
-публиц;public;True
-борго де;borgo de;True
-артем;artem;True
-риханна;rihanna;True
-донис;donis;True
-бруе;brue;True
-цлан;clan;False
-форте деи;forte dei;True
-юныа;junya;True
-ные;nye;True
-фе;fe;False
-еффа;effa;False
-пхоебе;phoebe;True
-валеxтра;valextra;False
-ноисы;noisy;True
-грунге;grunge;True
-тавернити;taverniti;True
-в.wестwоод;v.westwood;True
-тресор;tresor;True
-мираросси;mirarossi;False
-цуттер;cutter;True
-параллел;parallel;True
-менгхи;menghi;True
-лесы;lesy;True
-лес цоыотес де;les coyotes de;True
-главмод;glavmod;False
-д&с;d&s;True
-уса;usa;True
-чиара;chiara;True
-оуд;oud;True
-о фор;o for;True
-грета;greta;True
-йеwел;jewel;True
-ди лорензо;di lorenzo;True
-микимото;mikimoto;True
-мариа гразиа;maria grazia;True
-фор вива;for viva;True
-марми;marmi;True
-wеитзман;weitzman;True
-25;25;True
-пертини;pertini;False
-цампус;campus;False
-маиер;maier;True
-газинскаыа;gazinskaya;True
-ралуца;raluca;False
-оффициал;official;True
-цры;cry;True
-йохнстонс оф;johnstons of;True
-донЬт;don't;True
-студиос;studios;True
-wатанабе;watanabe;True
-т.багс;t.bags;True
-тоска;toska;True
-марцело бурлон;marcelo burlon;True
-нилос;nilos;False
-лоро;loro;True
-орчестра;orchestra;True
-алануи;alanui;False
-7 фор;7 for;True
-бы раф;by raf;True
-арц;arts;True
-доратеымур;dorateymur;False
-10 цросбы;10 crosby;True
-фурстенберг;furstenberg;True
-тхе хоусе;the house;True
-л а;l a;True
-маx &;max &;True
-перрицоне;perricone;True
-алтаиа;altaia;False
-хуго;hugo;True
-херон;heron;True
-флоwер;flower;True
-цанада;canada;True
-рада;rada;False
-солес;soles;True
-дреам;dream;True
-лоунге;lounge;True
-аге оф;age of;True
-мила;mila;True
-раы-бан;ray-ban;False
-омы;omy;False
-дегреас;degreas;True
-wылде;wylde;True
-посен;posen;True
-акид;akid;False
-легеро;legero;False
-насасеасонс;nasaseasons;False
-манила;manila;True
-анастасиа;anastasia;True
-ыелло;yello;True
-wомен ин;women in;True
-чло;chlo;True
-пхытомер;phytomer;False
-мати;mati;True
-виолетте;violette;True
-11 бы;11 by;True
-цазабат;cazabat;True
-дяба;djaba;True
-лам;lam;True
-хеглер;hegler;False
-грацес;graces;True
-верониqуе;veronique;True
-блауер;blauer;True
-м2маллетиер;m2malletier;False
-сониа бы;sonia by;True
-родолфо;rodolfo;True
-маайи;maaji;False
-ерманно;ermanno;True
-царлотта;carlotta;True
-мццартнеы;mccartney;True
-аццессориес;accessories;True
-гфасе;gfase;False
-флагполе;flagpole;False
-мц алеxандер;mc alexander;True
-пиццини;piccini;True
-сопхие;sophie;True
-мандарина;mandarina;True
-форте;forte;True
-йеан паул;jean paul;True
-пропулсион;propulsion;True
-х-д-с-н;h-d-s-n;True
-витторио;vittorio;True
-баделаине;badelaine;True
-барони;baroni;False
-шадоw;shadow;True
-г-стар раw +;g-star raw +;True
-антонио;antonio;True
-др.;dr.;True
-кошакова;koshakova;False
-примордиал ис;primordial is;True
-сторы;story;True
-паул &;paul &;True
-голден гоосе делуxе;golden goose deluxe;True
-малипарми;maliparmi;False
-казуыуки;kazuyuki;True
-алеxис;alexis;True
-др.ярт+;dr.jart+;False
-алберт;albert;True
-чристопхе;christophe;True
-амо;amo;False
+цЬест;c'est;True
 цут;cut;True
-георге гина;george gina;True
-явиц;javits;True
-цласс;class;True
-арче;arche;False
-броокс бротхерс блацк;brooks brothers black;True
-емилиа;emilia;True
-сее бы;see by;True
-голден гоосе;golden goose;True
-цортазар;cortazar;True
-цлоуд;cloud;True
-симими;simimi;False
-тхе спидерс фром;the spiders from;True
-серапиан;serapian;True
-лангиотти;langiotti;False
-деним x алеxандер;denim x alexander;True
-флеур оф;fleur of;True
-ярдини;jardini;True
-ин тхе;in the;True
-маx&мои;max&moi;False
-мцqуеен;mcqueen;True
-адам;adam;True
-прпс гоодс &;prps goods &;True
-wицкстеад;wickstead;True
-а а;a a;True
-де маритх +;de marith +;True
-аедес де;aedes de;True
-бы марц;by marc;True
-силлаге;sillage;True
-так.ори;tak.ori;False
-ахр;ahr;True
-спрунг;sprung;False
-адидас бы стелла;adidas by stella;True
-чен;chen;True
-—;—;True
-егг;egg;True
-виницио;vinicio;True
-глам;glam;True
-целлцосмет&целлмен;cellcosmet&cellmen;False
-с®;s®;False
-лила;lila;True
-пхилисопхы ди лорензо;philisophy di lorenzo;True
-боинет;boinet;True
-бранqуинхо;branquinho;True
-гринко;grinko;False
-гиг;gig;True
-ло;lo;True
-долце &;dolce &;True
-панама;panama;True
-аф;af;True
-тхе моод;the mood;True
-ава;ava;True
-мары;mary;True
-цолли;colli;True
-улленс;ullens;True
-дриес;dries;True
-бони;boni;True
-саке;sake;True
-разгулыаев;razgulyaev;True
-норwегиан;norwegian;True
-рицардо беверлы;ricardo beverly;True
-аттицо;attico;False
-марселл;marsell;False
-претты;pretty;True
-2wомен;2women;False
-тара;tara;True
-дес гарцонс ширт;des garcons shirt;True
-р;r;True
-беллора;bellora;False
-алеxандра;alexandra;True
-прим;prim;True
-йоурдан;jourdan;True
-габриела;gabriela;True
-лесы бы;lesy by;True
-самира;samira;False
-перрис;perris;True
-делпхине;delphine;True
-ду;du;True
-бетх;beth;True
-тхе хоусе оф;the house of;True
-счон;schon;True
-массимо;massimo;True
-перрис монте;perris monte;True
-бы ывес;by yves;True
-мытwин;mytwin;False
-нот;not;True
-ботх;both;False
-о фор вива;o for viva;True
-ателиер;atelier;True
+обйецт;object;False
+тфк тхе фрагранце;tfk the fragrance;True
+ктз;ktz;False
 маргиела;margiela;True
-сониx;sonix;False
-лонго;longo;False
-аида;aida;True
-пост;post;True
+паx;pax;True
+субтерранеи;subterranei;False
+беатрис;beatris;False
+081е6982-3561-11е6-80ц6-2ц27д7а27478;081e6982-3561-11e6-80c6-2c27d7a27478;False
+бобби;bobbi;True
+орчестра;orchestra;True
+маxмара;maxmara;True
+х-д-с-н;h-d-s-n;True
+липинскаыа;lipinskaya;True
+ундер;under;True
+елевен;eleven;True
+чосе;chose;True
+оф неw;of new;True
+хохлоон;hohloon;False
+мауриззио;maurizzio;True
+прим бы;prim by;True
+сатечи;satechi;False
+релаxмат;relaxmat;False
+убеар;ubear;False
+021ц9ц5е-3561-11е6-80ц6-2ц27д7а27478;021c9c5e-3561-11e6-80c6-2c27d7a27478;False
+нисеарч;nisearch;True
+нине ин;nine in;True
+ба0701ф3-3560-11е6-80ц6-2ц27д7а27478;ba0701f3-3560-11e6-80c6-2c27d7a27478;False
+мцларен;mclaren;False
+сарти;sarti;True
+беноит;benoit;True
+хирсч;hirsch;True
+монтелпаре;montelpare;True
+пантанетти;pantanetti;False
+онцле;oncle;True
+чопард;chopard;False
+тхе елдер;the elder;True
+лисца;lisca;True
+фларе;flare;True
+8а2д0фац-3560-11е6-80ц6-2ц27д7а27478;8a2d0fac-3560-11e6-80c6-2c27d7a27478;False
+лала;lala;True
+монополы;monopoly;False
+роццо бы;rocco by;True
+прим бы мичелле;prim by michelle;True
+адам;adam;True
+цанела;canela;True
+стоне;stone;True
+инциты;incity;False
+2ме;2me;False
+виницио;vinicio;True
+садоугхи;sadoughi;True
+примаформа;primaforma;False
+валенти;valenti;True
+корал;koral;False
+ллп+wп;llp+wp;True
+органицзоне;organiczone;False
+кендалл&кылие;kendall&kylie;False
+патрициа;patricia;False
+е.дресслер;e.dressler;False
+базаар;bazaar;True
+бурнер;burner;True
+сопхие;sophie;True
+гроw;grow;True
+дансе;danse;True
+бес;bes;False
+сантангело;santangelo;True
+7238ее2д-3560-11е6-80ц6-2ц27д7а27478;7238ee2d-3560-11e6-80c6-2c27d7a27478;False
+сторе;store;True
+рубинстеин;rubinstein;True
+юицы бы юицы;juicy by juicy;True
+еwлон;ewlon;False
+борделле;bordelle;False
+ширлы;shirly;False
+елфберг;elfberg;False
+фиесоли;fiesoli;True
+цафтан;caftan;True
+фабио гаваззи фор;fabio gavazzi for;True
+п.р.лаурен;p.r.lauren;False
+дуцк;duck;True
+занини;zanini;True
+9фдцд1ф9-3868-11е6-80ц6-2ц27д7а27478;9fdcd1f9-3868-11e6-80c6-2c27d7a27478;False
+ауди;audi;False
+сеа&енергы;sea&energy;False
+ыула;yula;False
+цроцетта;crocetta;True
+мацфарлане;macfarlane;True
+ревлон;revlon;False
+еинхорн;einhorn;False
+моурет;mouret;True
+индигоxыгени;indigoxygeni;False
+елевенты;eleventy;True
+рск;rsk;False
+хеглер;hegler;False
+топс;tops;False
+ферранте;ferrante;True
+60443821-3560-11е6-80ц6-2ц27д7а27478;60443821-3560-11e6-80c6-2c27d7a27478;False
+еа7 емпорио;ea7 emporio;True
+симон&сцотт;simon&scott;False
+фреддиес;freddies;True
+тхеы неw;they new;True
+тхорнтон;thornton;True
+сб-26;sb-26;False
+биостхетиqуе;biosthetique;True
+естебан;esteban;True
+аинеа;ainea;False
+мротто;mrotto;False
+алице анд;alice and;True
+гата;gata;True
+с+с;s+s;True
+пиана;piana;True
+тхе фирст ланд;the first land;True
+гравитеигхт;graviteight;False
+голден гоосе делуxе;golden goose deluxe;True
+йееп;jeep;False
+доратеымур;dorateymur;False
+агес;ages;True
+слееп;sleep;True
+долцедонна;dolcedonna;False
+фоссати;fossati;True
+деннис;dennis;True
+цард;card;True
+федерица;federica;True
+604437фф-3560-11е6-80ц6-2ц27д7а27478;604437ff-3560-11e6-80c6-2c27d7a27478;False
+аленкина;alenkina;True
+фабризио дел;fabrizio del;True
+санторо;santoro;True
+сассетти;sassetti;True
+белотти;belotti;True
+холлыwоод традинг;hollywood trading;True
+пароле бы;parole by;True
+стоне исланд шадоw;stone island shadow;True
+цастеллани;castellani;True
+пхоебе;phoebe;True
+пеарлы;pearly;True
+пиетри;pietri;True
+дош;dosh;True
+гамелиа;gamelia;True
+крутиенко;krutienko;True
+бамбинизон;bambinizon;False
+нести;nesti;True
+мыкита;mykita;True
+флаш;flash;True
+wортх;worth;True
+форнелло;fornello;False
+деллЬацqуа;dell'acqua;True
+бут;but;True
+аныа;anya;True
+миссион-таргет;mission-target;False
+тонгде;tongde;False
+торнаде;tornade;True
+юрген;jurgen;True
+битосси;bitossi;False
+лост&фоунд;lost&found;False
+а4б34б79-ф632-11е6-80ц0-ф46д04аеа3дд;a4b34b79-f632-11e6-80c0-f46d04aea3dd;False
+араиа;araia;True
+давидиан;davidian;True
+бартх;barth;True
+францесца;francesca;True
+раддер;radder;False
+мц2;mc2;True
+систер;sister;True
+лармини;larmini;False
+привее;privee;True
+нц;nts;False
+бонка;bonka;False
+бфб6бцаб-ф540-11е7-а952-00155д024еб3;bfb6bcab-f540-11e7-a952-00155d024eb3;False
+царамелл;caramell;False
+8д1ц6д8д-б5бц-11е8-а968-00155д024еб3;8d1c6d8d-b5bc-11e8-a968-00155d024eb3;False
+маисон мартин;maison martin;True
+ра;ra;True
+ричард й;richard j;True
+хонгыу;hongyu;False
+блузка;bluzka;False
+броадwаы;broadway;False
+венусе;venuse;False
+авант;avant;True
+250еецдц-282а-11е8-а955-00155д024еб3;250eecdc-282a-11e8-a955-00155d024eb3;False
+цоллине;colline;True
+греззо;grezzo;False
+миллион x;million x;True
+боннет;bonnet;False
+бененато;benenato;True
+йошуа`с;joshua`s;True
+wасаби;wasabi;False
+цашмере;cashmere;True
+оеуф;oeuf;False
+сара;sara;True
+хендерсон;henderson;False
+трансит;transit;False
+онлы wас;only was;True
+юнермеы;junermey;False
+бонЬ а;bon' a;True
+паллино;pallino;True
+а4б34б7а-ф632-11е6-80ц0-ф46д04аеа3дд;a4b34b7a-f632-11e6-80c0-f46d04aea3dd;False
+ддф9ф7це-3560-11е6-80ц6-2ц27д7а27478;ddf9f7ce-3560-11e6-80c6-2c27d7a27478;False
+й.w;j.w;True
+настыа сергеева бы;nastya sergeeva by;True
+тwисты;twisty;True
+аЬморе;a'more;False
+фелтимо;feltimo;False
+6ц40ааа3-3560-11е6-80ц6-2ц27д7а27478;6c40aaa3-3560-11e6-80c6-2c27d7a27478;False
+пиццини;piccini;True
+муклукс;mukluks;False
+портраит;portrait;True
+воыаге бы;voyage by;True
+персе;perse;True
+бруе;brue;True
+белстафф;belstaff;False
+луиги бианчи;luigi bianchi;True
+селман;selman;True
+021ц9ц50-3561-11е6-80ц6-2ц27д7а27478;021c9c50-3561-11e6-80c6-2c27d7a27478;False
+александерсирадекиан;aleksandersiradekian;False
+фрагранзе;fragranze;True
+гал.латеа ин;gal.latea in;True
+ралпх;ralph;True
+дидоне;didone;True
+бебендорфф;bebendorff;False
+ксениа;ksenia;True
+порц;ports;True
+н+1;n+1;True
+скинлигхт;skinlight;False
+гошоптвру;goshoptvru;False
+леонард;leonard;True
+прпс гоодс;prps goods;True
+кееперс;keepers;True
+зое;zoe;True
+трендиес;trendies;False
+фелибелла;felibella;False
+галанти;galanti;True
+бирман;birman;True
+мспц;mspc;True
+пикми;pikmi;True
+йиммы;jimmy;True
+ф62750еа-3560-11е6-80ц6-2ц27д7а27478;f62750ea-3560-11e6-80c6-2c27d7a27478;False
+лЬедитион;l'edition;False
+е3ф6ффцб-3560-11е6-80ц6-2ц27д7а27478;e3f6ffcb-3560-11e6-80c6-2c27d7a27478;False
+аррангее;arrangee;False
+лане;lane;True
+сусан;susan;True
+гриша;grisha;True
+мореллини;morellini;True
+аф;af;True
+гианницо;giannico;False
+цоммон;common;True
+треацы;treacy;True
+фурланд;furland;False
+дауне;daune;True
+соулиерс бы роы;souliers by roy;True
+ыуммы;yummy;True
+мороццо;morocco;True
+корс;kors;True
+хомеwеар;homewear;True
+сопхиа;sophia;True
+р13;r13;False
+ддф9ф7а4-3560-11е6-80ц6-2ц27д7а27478;ddf9f7a4-3560-11e6-80c6-2c27d7a27478;False
+дома;doma;True
+лоуер;louer;True
+пом;pom;True
+пече;peche;True
+пеллеттиери ди;pellettieri di;True
+наталее;natalee;False
+пакерсон;pakerson;False
+фор рестлесс;for restless;True
+брунелло;brunello;True
+счон;schon;True
+оне-т-ширт;one-t-shirt;False
+бигиони;bigioni;True
+ас65;as65;False
+дегреас;degreas;True
+ацкерманн;ackermann;True
+604437б5-3560-11е6-80ц6-2ц27д7а27478;604437b5-3560-11e6-80c6-2c27d7a27478;False
+стицкы-фудге;sticky-fudge;False
+поивре;poivre;True
+анушка бы;anushka by;True
+стефаниа;stefania;True
+фармона;farmona;False
+лентал;lental;False
+даум;daum;False
+брабаг;brabag;False
+6738а81е-1бдц-11е7-80ц7-ф46д04аеа3дд;6738a81e-1bdc-11e7-80c7-f46d04aea3dd;False
+гедебе;gedebe;False
+813 оттотредици анналиса;813 ottotredici annalisa;True
+аигле;aigle;False
+ае11б62ц-3560-11е6-80ц6-2ц27д7а27478;ae11b62c-3560-11e6-80c6-2c27d7a27478;False
+валериа;valeria;True
+яне;jane;True
+р.й.броwн;r.j.brown;False
+теана;teana;False
+202277е2-8а65-11е8-а960-00155д024еб3;202277e2-8a65-11e8-a960-00155d024eb3;False
+фигл;figl;False
+алина;alina;True
+рингстоне;ringstone;False
+цологне;cologne;True
+смиле оф;smile of;True
+диесел ред;diesel red;True
+паоло пецора;paolo pecora;True
+маниа;mania;True
+веселков;veselkov;True
+мариа гразиа;maria grazia;True
+3806аац0-3561-11е6-80ц6-2ц27д7а27478;3806aac0-3561-11e6-80c6-2c27d7a27478;False
+чи;chi;False
+иЬм исола;i'm isola;True
+артесано;artesano;False
+шаде бы;shade by;True
+сандер;sander;True
+мкм;mkm;False
+рон;ron;True
+аннарита;annarita;True
+габриела;gabriela;True
+арефева;arefeva;False
+кумагаи;kumagai;True
+813 оттотредици;813 ottotredici;True
+сенсуум;sensuum;True
+тхе хоусе;the house;True
+д204абда-3560-11е6-80ц6-2ц27д7а27478;d204abda-3560-11e6-80c6-2c27d7a27478;False
+дес гарцонс ширт;des garcons shirt;True
+греенидеал;greenideal;False
+грунге йохн орчестра;grunge john orchestra;True
+мануел;manuel;True
+0е16ацб3-3561-11е6-80ц6-2ц27д7а27478;0e16acb3-3561-11e6-80c6-2c27d7a27478;False
+барбаросса;barbarossa;True
+антоны;antony;True
+харрис wхарф;harris wharf;True
+цоми;comi;True
+ферре;ferre;True
+с маx;s max;True
+нолита;nolita;False
+албион;albion;True
+wоолхоусе;woolhouse;False
+тwисты параллел;twisty parallel;True
+бардот;bardot;True
+лил;lil;True
+брасчи;braschi;False
+маЬ;ma';True
+миллен;millen;True
+евиденс;evidens;True
+шерман;sherman;True
+моосе цутие;moose cutie;True
+нице-кид;nice-kid;False
+чло;chlo;True
+счмитт;schmitt;True
+маттел диснеы;mattel disney;True
+вестар;vestar;False
+анние;annie;True
+лувс;luvs;True
+пфеффингер;pfeffinger;True
+20069е07-3561-11е6-80ц6-2ц27д7а27478;20069e07-3561-11e6-80c6-2c27d7a27478;False
+хоффман;hoffman;True
+субтерранел;subterranel;False
+ортигни;ortigni;False
+маx&цо.;max&co.;False
+тхе спидерс;the spiders;True
+604437еа-3560-11е6-80ц6-2ц27д7а27478;604437ea-3560-11e6-80c6-2c27d7a27478;False
+кидстон;kidston;True
+луциа;lucia;True
+барони;baroni;False
+йог;jog;True
+тхе фрагранце;the fragrance;True
+номмо;nommo;False
+сергеева бы маы;sergeeva by may;True
+форте_форте;forte_forte;False
+260608ц0-3561-11е6-80ц6-2ц27д7а27478;260608c0-3561-11e6-80c6-2c27d7a27478;False
+беняминс;benjamins;False
+лаццом;laccom;False
+цантарелли;cantarelli;False
+аткинсонс;atkinsons;False
+баррет;barret;True
+тете;tete;True
+мила;mila;True
+азроуел;azrouel;True
+ф.р.с фор;f.r.s for;True
+пиецес;pieces;True
+хеадпхонес;headphones;True
+йетти-плус;jetti-plus;False
+бусцеми;buscemi;False
+петер;peter;True
+богс;bogs;False
+wатч;watch;True
+лаго;lago;True
+бы мичелле;by michelle;True
+цамицериа;camiceria;True
+амулети;amuleti;True
+степхан;stephan;True
+б1889947-10б8-11е8-а955-00155д024еб3;b1889947-10b8-11e8-a955-00155d024eb3;False
+цомма,;comma,;False
+цедриц;cedric;True
+ороголд;orogold;True
+е9ф407ф4-3560-11е6-80ц6-2ц27д7а27478;e9f407f4-3560-11e6-80c6-2c27d7a27478;False
+ау йоур ле;au jour le;True
+ротх;roth;True
+чеек;cheek;True
+пацо;paco;True
+x-феел;x-feel;False
+спектре;spektre;False
+гарцонс ширт;garcons shirt;True
+ширт;shirt;True
+плеин;plein;True
+е43е07аб-373ф-11е8-а957-00155д024еб3;e43e07ab-373f-11e8-a957-00155d024eb3;False
+рома е;roma e;True
+w.гиббс;w.gibbs;False
+бетх;beth;True
+рубее;rubee;False
+цоллетте бы;collette by;True
+сорры иЬм;sorry i'm;True
+роxы-кидс;roxy-kids;False
+естелар;estelar;True
+ыз;yz;False
+ицонс оф;icons of;True
+серване;servane;True
+саге анд;sage and;True
+8а2д0ф8ф-3560-11е6-80ц6-2ц27д7а27478;8a2d0f8f-3560-11e6-80c6-2c27d7a27478;False
+ирвик;irvik;True
+хи1;hi1;False
+малоуф;malouf;True
+клара;klara;True
+ыеезы;yeezy;False
+2ее30460-бфд9-11е8-а968-00155д024еб3;2ee30460-bfd9-11e8-a968-00155d024eb3;False
+лазартигуе;lazartigue;True
+фретте;frette;False
+ск-тwо;sk-two;False
+молли;molli;False
+л&цомпаны;l&company;True
+цупцаке;cupcake;True
+херрера;herrera;True
+рип;rip;True
+цЬнЬц цостуме;c'n'c costume;True
+памела;pamela;False
+круебецк;kruebeck;False
+нунуну;nununu;False
+фестивита;festivita;True
+шадес;shades;True
+лук;luk;True
+ц п;c p;True
+анне валерие;anne valerie;True
+тиме фор;time for;True
+марц о поло;marc o polo;True
+емфаси;emfasi;True
+кхалфон;khalfon;True
+фифтх;fifth;True
+оницука;onitsuka;True
+всдресс;vsdress;False
+маил;mail;True
+аффаир;affair;True
+це;tse;False
+г-шоцк;g-shock;True
+180г;180g;True
+фтц;ftc;False
+франчи;franchi;True
+е3ф6ффбб-3560-11е6-80ц6-2ц27д7а27478;e3f6ffbb-3560-11e6-80c6-2c27d7a27478;False
+омбрелли;ombrelli;True
+битто;bitto;False
+3а;3a;False
+фоулард де;foulard de;True
+чиарини;chiarini;True
+реады то;ready to;True
+робинсон лес;robinson les;True
+рабанне;rabanne;True
+цоал;coal;True
+ррл;rrl;False
+питака;pitaka;False
+силвиан;silvian;True
+с®;s®;True
+армата;armata;True
+сафебет;safebet;False
+сталгерт;stalgert;False
+нине ин тхе;nine in the;True
+диане;diane;True
+фред;fred;True
+дацаде;dacade;True
+фирст ланд;first land;True
+ашлеы грахам;ashley graham;True
+китты цлуб;kitty club;True
+еытыс;eytys;False
+прингле;pringle;True
+алессио;alessio;True
+грамай;gramaj;False
+бабелла;babella;False
+егг бы сусан;egg by susan;True
+пацифиqуе;pacifique;True
+емануел;emanuel;True
+мерлис;merlis;False
+пхиллип;phillip;True
+мкт;mkt;True
+скытеч;skytech;False
+инноценце;innocence;True
+маракеш;marakesh;False
+ыаЬаqов;ya'aqov;True
+гум;gum;True
+сузанне;suzanne;True
+теен;teen;True
+лилибетх;lilibeth;True
+хомме;homme;True
+винцензо;vincenzo;True
+социал;social;False
+а2107ее0-3560-11е6-80ц6-2ц27д7а27478;a2107ee0-3560-11e6-80c6-2c27d7a27478;False
+ирми;irmi;False
+рента;renta;True
+силвано;silvano;True
+ти;ti;True
 болдрини;boldrini;False
-варватос;varvatos;True
-марцело;marcelo;True
-гф;gf;True
+киркwоод;kirkwood;True
+рыłко бы агнес;ryłko by agnes;True
+кангра;kangra;True
+имагинеxт;imaginext;False
+реады;ready;True
+кира;kira;True
+еxплосион;explosion;True
+андерсон;anderson;True
+гарда;garda;False
+исса;issa;True
+хеунис;heunis;True
+барбара и;barbara i;True
+верди;verdi;True
+цастори;castori;False
+яы;jay;True
+нине;nine;True
+биргер;birger;True
+шаде бы карен;shade by karen;True
+хомесыс;homesys;False
+маайи;maaji;False
+улленс;ullens;True
+мартина;martina;True
+паулы;pauly;True
+тавернити унравел;taverniti unravel;True
+еа;ea;True
+инзони;inzoni;False
+пиа;pia;True
+феррагамо;ferragamo;True
+бецкхам;beckham;True
+дес;des;True
+ал;al;True
+6643а276-3560-11е6-80ц6-2ц27д7а27478;6643a276-3560-11e6-80c6-2c27d7a27478;False
+фриедман;friedman;True
+каарал;kaaral;False
+qуинн;quinn;True
+деним x;denim x;True
+уникат;unikat;False
+палла;palla;False
+евенесс;eveness;False
+амарти;amarti;False
+турнбулл;turnbull;True
+либеравита;liberavita;False
+ханро;hanro;False
+д60546аф-34ец-11е8-а957-00155д024еб3;d60546af-34ec-11e8-a957-00155d024eb3;False
+самантха;samantha;True
+флфашион;flfashion;False
+париса;parisa;True
+фалиеро;faliero;True
+оозоо;oozoo;True
+wхарф;wharf;True
+модалу;modalu;True
+каша;kasha;True
+сомеwхере;somewhere;True
+ххг;hhg;False
+аида;aida;True
+мурад;murad;True
+нсф;nsf;False
+ио;io;True
+зиммерли;zimmerli;False
+басиx блацк;basix black;True
+майор;major;False
+6643а284-3560-11е6-80ц6-2ц27д7а27478;6643a284-3560-11e6-80c6-2c27d7a27478;False
+дес гарцонс;des garcons;True
+расарио;rasario;False
+алвина;alvina;False
+ыелло;yello;True
+шеллы;shelly;False
+вис-а-вис;vis-a-vis;False
+цатерина;caterina;True
+ангело;angelo;True
+цоыотес;coyotes;True
+д&с;d&s;True
+линдберг;lindberg;False
+лонго;longo;False
+стуарт;stuart;True
+паез;paez;False
+раwеар;rawear;False
+акхмадуллина;akhmadullina;True
+грацес;graces;True
+атхена;athena;True
+серафини;serafini;True
+ри;ri;True
+бартлетт;bartlett;True
+соуса;sousa;True
+пароле бы вицториа;parole by victoria;True
+фацто;facto;False
+вонни;vonni;True
+афтершоцк;aftershock;False
+цаллиопе;calliope;False
+маx мара спx;max mara spx;True
+мангостан;mangostan;True
+касселл;kassell;False
+посен;posen;True
+берwич;berwich;False
+писонеро;pisonero;False
+пенхалигонЬс;penhaligon's;False
+цраиг;craig;True
+цоллина;collina;True
+адидас бы;adidas by;True
+малвина;malvina;False
+й анд;j and;True
+бамбу;bambu;True
+аргитал;argital;False
+лесы;lesy;True
+унравел;unravel;True
+давид масон;david mason;True
+доминица;dominica;True
+диамантаире;diamantaire;False
+ноче;noche;True
+фолгоре;folgore;False
+чеыенне;cheyenne;False
+чеек бы;cheek by;True
+хорман;horman;True
+марием;mariem;False
+минаку;minaku;False
+кари;kari;True
+инцонтри;incontri;True
+левы;levy;True
+диснеы елена;disney elena;True
+етре;etre;True
+д.еxтериор;d.exterior;False
+цивидини;cividini;False
+манна;manna;True
+инес&маречал;ines&marechal;False
+вицториа/томас;victoria/tomas;False
+хермèс;hermès;False
+армоур;armour;True
+карссен;karssen;True
+ди лорензо;di lorenzo;True
+нала;nala;False
+боыс;boys;True
+емилиа;emilia;True
+венусита;venusita;False
+темптатион;temptation;False
+гианантонио;gianantonio;True
+венета;veneta;True
+др барбара;dr barbara;True
+роцкинс;rockins;False
+1а1ец7бе-10дц-11е7-80ц7-ф46д04аеа3дд;1a1ec7be-10dc-11e7-80c7-f46d04aea3dd;False
+мелатти;melatti;False
+сантини;santini;True
+грунберг;grunberg;False
+wорлдс апарт;worlds apart;True
+коала;koala;True
+брунелли;brunelli;True
+адриано;adriano;True
+маЬ рыЬ;ma' ry';True
+ыа;ya;True
+цомптоир;comptoir;True
+9ц15д94а-3560-11е6-80ц6-2ц27д7а27478;9c15d94a-3560-11e6-80c6-2c27d7a27478;False
+йц де;jc de;True
+цортазар;cortazar;True
+гуфо;gufo;True
+аристоцрат;aristocrat;True
+бурлон кидс оф;burlon kids of;True
+марант;marant;True
+нуминоу;numinou;False
+деним&супплы бы ралпх;denim&supply by ralph;True
+пар;par;True
+аппаман;appaman;False
+пеоплес;peoples;True
+ыбф;ybf;False
+харрыс оф;harrys of;True
+лазар;lazar;True
+мытwин;mytwin;False
+сачин;sachin;True
+арталиа;artalia;False
+волцанте;volcante;False
+ницоли;nicoli;False
+авенгерс;avengers;False
+симмонс;simmons;True
+песцароло;pescarolo;True
+боер;boer;True
+сеибан;seiban;False
+8а2д0ф60-3560-11е6-80ц6-2ц27д7а27478;8a2d0f60-3560-11e6-80c6-2c27d7a27478;False
+каламанилине;kalamaniline;False
+лотто/дамир;lotto/damir;True
+а4б34б76-ф632-11е6-80ц0-ф46д04аеа3дд;a4b34b76-f632-11e6-80c0-f46d04aea3dd;False
+митыа;mitya;True
+лацуцци;lacucci;False
+бабыхит;babyhit;False
+цоси;cosi;True
+qwерты;qwerty;False
+тартине ет;tartine et;True
+еxчанге;exchange;True
+йете;jete;True
+йохнен;johnen;True
+иса;isa;True
+тхе слееп;the sleep;True
+биагиотти;biagiotti;True
+ничолас;nicholas;True
+wхо;who;True
+а4б34б71-ф632-11е6-80ц0-ф46д04аеа3дд;a4b34b71-f632-11e6-80c0-f46d04aea3dd;False
+леви с®;levi s®;True
+яцк спаде;jack spade;True
+осман;osman;False
+цонтенто;contento;False
+донЬт;don't;True
+ганни;ganni;False
+ун_фуртиве;un_furtive;False
+м.паппас;m.pappas;False
+ецлаирес;eclaires;True
+монтан;montan;False
+дита;dita;False
+ешаыа;eshaya;True
+еартхгеар;earthgear;False
+и.ц.лаб индивидуал;i.c.lab individual;True
+аецаwхите;aecawhite;False
+ау;au;True
+вентурини;venturini;True
+783абц85-3560-11е6-80ц6-2ц27д7а27478;783abc85-3560-11e6-80c6-2c27d7a27478;False
+барретт;barrett;True
+наеем;naeem;True
+дерек;derek;True
+лисса;lissa;False
+алб;alb;True
+паине;paine;True
+кеддо;keddo;False
+кундал;kundal;False
+лили;lili;True
+бабетте;babette;True
+спидер-ман;spider-man;False
+флоwерс;flowers;True
+wарриор поет;warrior poet;True
+комилфо;komilfo;False
+й & ыони;j & yoni;True
+цлуб бы ла;club by la;True
+арлотта;arlotta;False
+рицци;ricci;True
+ресорт;resort;True
+вивацита;vivacita;False
+оливиа вон;olivia von;True
+бан;ban;True
+воиле;voile;True
+абел;abel;False
+аqуарел`;aquarel`;False
+геви;gevi;False
+николЬс;nikol's;True
+смедлеы;smedley;True
+барберини;barberini;False
+фабио;fabio;True
+3д;3d;True
+генерале;generale;True
+qман;qman;False
+хлт;hlt;False
+мурат;murat;True
+фисзлеwицз;fiszlewicz;True
+боне;bone;True
+наталиа;natalia;True
+пулицати;pulicati;False
+а.т.т.;a.t.t.;False
+др.сеа;dr.sea;False
+ор;or;True
+долл;doll;True
+2местыле;2mestyle;False
+а5д9д88д-3868-11е6-80ц6-2ц27д7а27478;a5d9d88d-3868-11e6-80c6-2c27d7a27478;False
+гал.латеа;gal.latea;True
+л&х;l&h;False
+лафине;lafine;False
+оттотредици анналиса;ottotredici annalisa;True
+бикер;biker;False
+8а2д0ф77-3560-11е6-80ц6-2ц27д7а27478;8a2d0f77-3560-11e6-80c6-2c27d7a27478;False
+хисторы;history;True
+пхилип;philip;True
+хиллиер;hillier;True
+хунтинг;hunting;True
+а4б34б6ф-ф632-11е6-80ц0-ф46д04аеа3дд;a4b34b6f-f632-11e6-80c0-f46d04aea3dd;False
+йолиена;joliena;True
+медицал беауты;medical beauty;True
+амири;amiri;False
+аимо;aimo;True
+дЬангело;d'angelo;True
+тwисцхаке;twistshake;False
+7е32фе33-3560-11е6-80ц6-2ц27д7а27478;7e32fe33-3560-11e6-80c6-2c27d7a27478;False
+анн;ann;True
+qиаоера;qiaoera;False
+попс;pops;True
+wалк оф;walk of;True
+вера;vera;True
+унионбаы;unionbay;False
+ин тхе;in the;True
+аныбодыЬс;anybody's;True
+каран;karan;True
+емц;emc;False
+магдыч;magdych;True
+сеwел;sewel;False
+микимото;mikimoto;True
+вангелиза;vangeliza;False
+харрыс;harrys;True
+дамир;damir;True
+реалман;realman;False
+виа торриани;via torriani;True
+пройецц;projects;True
+данте;dante;True
 мауризи;maurizi;True
+цолорс оф;colors of;True
+болгхери;bolgheri;True
+йеннифер;jennifer;True
+прециоус;precious;True
+енны;enny;False
+мечери;mecheri;True
+виаггио;viaggio;True
+wилли;willi;False
+ясмине ди;jasmine di;True
+запс;zaps;False
+слееперс;sleepers;True
+аырели;ayreli;False
+арчыланд;archyland;False
+свтр;svtr;False
+йм;jm;True
+алфредо;alfredo;True
+8а2д0ф8д-3560-11е6-80ц6-2ц27д7а27478;8a2d0f8d-3560-11e6-80c6-2c27d7a27478;False
+сочи;sochi;True
+прио;prio;False
+2 мен;2 men;True
+иннангело;innangelo;False
+статесман;statesman;True
+рада;rada;False
+насасеасонс;nasaseasons;False
+мустхаве;musthave;False
+биагини;biagini;True
+цЬест беау ла;c'est beau la;True
+рта;rta;True
+буттеро;buttero;False
+макерс-боард;makers-board;True
+тыоулип;tyoulip;True
+х`д`с`н;h`d`s`n;True
+бланчетт;blanchett;True
+ваутхиер;vauthier;True
+кочé;koché;False
+фабрыка;fabryka;True
+микронелл;mikronell;False
+лангиотти;langiotti;False
+венето;veneto;True
+цанада;canada;True
+молтини;moltini;False
+цц007цбд-3560-11е6-80ц6-2ц27д7а27478;cc007cbd-3560-11e6-80c6-2c27d7a27478;False
+боррелли;borrelli;True
+7е32фе81-3560-11е6-80ц6-2ц27д7а27478;7e32fe81-3560-11e6-80c6-2c27d7a27478;False
+риханна;rihanna;True
+адидас бы раф;adidas by raf;True
+а4б34б7ф-ф632-11е6-80ц0-ф46д04аеа3дд;a4b34b7f-f632-11e6-80c0-f46d04aea3dd;False
+рита;rita;True
+мичаел бы мичаел;michael by michael;True
+спиритуал;spiritual;True
+алwеро;alwero;False
+иоанна десчампс;ioanna deschamps;True
+ерменегилдо;ermenegildo;True
+сунвим;sunvim;False
+трамаросса;tramarossa;True
+саге;sage;True
+ямес;james;True
+росе & петал;rose & petal;True
+алберта;alberta;True
+цомециты;comecity;False
+манзони24;manzoni24;False
+wаxмен;waxmen;False
+5 тwо;5 two;True
+палтингер;paltinger;True
+оффициал;official;True
+цастанер;castaner;True
+мр520;mr520;False
+сергио;sergio;True
+милилоок;mililook;False
+иронцуст;ironcust;False
+дриес ван;dries van;True
+бохемиен;bohemien;True
+естелла;estella;True
+настыа;nastya;True
+лоцкстар;lockstar;False
+лино;lino;True
+иредале;iredale;True
+ницки;nicki;True
+енныwеар;ennywear;False
+аццессориес;accessories;True
+грег;greg;True
+ессентиел;essentiel;True
+барлен;barlen;False
+р&и;r&i;False
+беаст;beast;True
+дресслер;dressler;True
+оливиа;olivia;True
+боыы;boyy;False
+ипхориа;iphoria;False
+метео бы ывес;meteo by yves;True
+роберто рицци;roberto ricci;True
+бассо;basso;True
+базар;bazar;True
+wархол;warhol;True
+рагни;ragni;True
+сарына;saryna;True
+руссе;russe;True
+солемате;solemate;False
+бонавита;bonavita;False
+и.ц.лаб;i.c.lab;True
+аголде;agolde;False
+сецурит;securit;False
+цами;cami;True
+пассо;passo;True
+лтман;ltman;False
+шелест;shelest;True
+пуглиси;puglisi;True
+цамерино;camerino;True
+арфен;arfen;True
+граффова;graffova;True
+артЬс;art's;True
+ладышоп24;ladyshop24;False
+роw;row;True
+бонЬ;bon';True
+тхом;thom;True
+гангстер;gangster;True
+цомеы;comey;True
+муллер;muller;True
+хаидер;haider;True
+мы цоллецтион;my collection;True
+марцелло;marcello;True
+тхе спидерс фром;the spiders from;True
+бы марина;by marina;True
+а5д9д88б-3868-11е6-80ц6-2ц27д7а27478;a5d9d88b-3868-11e6-80c6-2c27d7a27478;False
+додо;dodo;True
+тхе хоусе оф;the house of;True
+елеганце;elegance;True
+торриани;torriani;True
+тестони;testoni;True
+индира;indira;False
+феет;feet;True
+ахр;ahr;True
+роденстоцк;rodenstock;True
+григио;grigio;True
+дрыwаш;drywash;False
+литтле лемон;little lemon;True
+тоска;toska;True
+лепо;lepo;False
+енлигхтен;enlighten;False
+ларго;largo;True
+мд;md;True
+бабби;babbi;False
+чарлиер;charlier;True
+интропиа;intropia;True
+сарторио;sartorio;False
+флоwер;flower;True
+малена;malena;False
+пицариелло;picariello;True
+роча;rocha;True
+моцассин;mocassin;True
+вфц;vfts;False
+ефф10ффф-3560-11е6-80ц6-2ц27д7а27478;eff10fff-3560-11e6-80c6-2c27d7a27478;False
+дутти;dutti;True
+хиллс поло;hills polo;True
+wики;wiki;False
+брато;brato;True
+поеме;poeme;True
+викки-никки;vikki-nikki;False
+баделаине;badelaine;True
+гианвито;gianvito;True
+лемпелиус;lempelius;False
+ам;am;True
+маззи;mazzi;False
+римонди;rimondi;True
+муыа;muya;False
+парикка;parikka;True
+мартиниано;martiniano;False
+перофил;perofil;False
+вито;vito;True
+пиканто;pikanto;False
+цостуме;costume;True
+беатрице;beatrice;False
+лим;lim;True
+равизза;ravizza;True
+борис;boris;True
+светекст;svetekst;False
+хачиро;hachiro;False
+сее бы;see by;True
+каракорам;karakoram;True
+плаытодаы;playtoday;False
+аретты;aretty;True
+спаде неw;spade new;True
+соловиере;soloviere;False
+тотêме;totême;False
+виценза;vicenza;False
+диснеы беауты;disney beauty;True
+ирина;irina;True
+фашион фор;fashion for;True
+малоне соулиерс;malone souliers;True
+фур;fur;True
+редкен;redken;False
+торы;tory;True
+лелеыа;leleya;False
+бы борис бидян;by boris bidjan;True
+0е16аца6-3561-11е6-80ц6-2ц27д7а27478;0e16aca6-3561-11e6-80c6-2c27d7a27478;False
+перлина;perlina;False
+604437дц-3560-11е6-80ц6-2ц27д7а27478;604437dc-3560-11e6-80c6-2c27d7a27478;False
+виртуале;virtuale;True
+солаце;solace;False
+цуддлы соцкс бы;cuddly socks by;True
+унлабел;unlabel;False
+сассо;sasso;True
+фем;fem;False
+иq+берлин;iq+berlin;False
+wомен;women;True
+wас;was;True
+пй;pj;True
+вероника;veronika;True
+марц бы марц;marc by marc;True
+бернардауд;bernardaud;False
+сунг;sung;True
+маялы;majaly;False
+фрасцони;frasconi;True
+цаваллини;cavallini;True
+чаро;charo;True
+й-сплаш;j-splash;False
+аналили;analili;False
+мадден;madden;True
+лорин;lorin;False
+мигуел;miguel;True
+цом-миx;com-mix;False
+wантед;wanted;False
+ни;ni;False
+дедицатед;dedicated;True
+5превиеw;5preview;False
+йорг;jorg;True
+бротхер-ф;brother-f;False
+о поло;o polo;True
+багутта;bagutta;False
+беверлы;beverly;True
+пилотто;pilotto;True
+парте;parte;True
+wатанабе;watanabe;True
+пропулсион;propulsion;True
+бертон;berton;False
+родо;rodo;False
+миллион;million;True
+ясмине;jasmine;True
+чеап&чиц;cheap&chic;True
+рыкиел;rykiel;True
+тауберт;taubert;True
+менг;meng;False
+агнес;agnes;True
+й.ф;j.f;True
+хонгерда;hongerda;False
+604437д8-3560-11е6-80ц6-2ц27д7а27478;604437d8-3560-11e6-80c6-2c27d7a27478;False
+игрушек;igrushek;True
+миссолин;missolin;True
+wеар;wear;True
+wхоЬс;who's;True
+маркус;markus;True
+опенинг;opening;True
+кингслеы;kingsley;True
+лимитато;limitato;False
+миниатура;miniatura;True
+гаваззи;gavazzi;True
+фланнел;flannel;True
+роыалтиес;royalties;False
+амбиганте;ambigante;False
+ривиерас леисуре;rivieras leisure;True
+нотен;noten;True
+ангелес;angeles;True
+бао иссеы;bao issey;True
+метрицо;metrico;False
+маснада;masnada;False
+суперсоакер;supersoaker;False
+фигаро;figaro;False
+раффаела;raffaela;True
+цросбы;crosby;False
+бехр;behr;True
+783абц8а-3560-11е6-80ц6-2ц27д7а27478;783abc8a-3560-11e6-80c6-2c27d7a27478;False
+едитед бы марцо;edited by marco;True
+лоунге;lounge;True
+бабушка;babushka;False
+раqуел;raquel;True
+интикома;intikoma;False
+емпорио;emporio;True
+7е32фе77-3560-11е6-80ц6-2ц27д7а27478;7e32fe77-3560-11e6-80c6-2c27d7a27478;False
+зирка;zirka;False
+азиз;aziz;True
+даниел;daniel;True
+еберхарт;eberhart;False
+404 нот;404 not;True
+аризин;arizin;False
+604437бб-3560-11е6-80ц6-2ц27д7а27478;604437bb-3560-11e6-80c6-2c27d7a27478;False
+анна цлуб бы;anna club by;True
+валентина;valentina;False
+вибро;vibro;True
+меизер;meizer;False
+пиаценза цашмере;piacenza cashmere;True
+марани;marani;False
+хистоирес де;histoires de;True
+тхеодент;theodent;False
+грандуа;grandua;False
+гиоргетти;giorgetti;True
+фрия;frija;False
+е.е.сцервино;e.e.scervino;False
+лиа;lia;True
+мондаца;mondaca;False
+олиан;olian;False
+гаултиер;gaultier;True
+маршалл;marshall;True
+тацчини;tacchini;True
+карен;karen;True
+формалаб;formalab;False
+блу;blu;True
+блокс;bloks;True
+томе;tome;False
+барба;barba;False
+алмадал;almadal;True
+ултрацор;ultracor;False
+проф-пресс;prof-press;False
+лоу;lou;True
+б40ц5ца3-3560-11е6-80ц6-2ц27д7а27478;b40c5ca3-3560-11e6-80c6-2c27d7a27478;False
+царица;carica;False
+мацие;macie;True
+петра;petra;True
+дом;dom;True
+тхе моод фор;the mood for;True
+он;on;True
+йохнстонс оф;johnstons of;True
+примитиве;primitive;True
+олси;olsi;False
+кхрисйоы;khrisjoy;False
+тоо;too;True
+кидорабле;kidorable;False
+григ;grig;True
+италиана;italiana;True
+205w39ныц;205w39nyc;True
+бы юицы;by juicy;True
+алпама;alpama;False
+9ц40цб0ф-05ц3-11е8-а953-00155д024еб3;9c40cb0f-05c3-11e8-a953-00155d024eb3;False
+баигуера;baiguera;True
+сцабо;scabo;True
+чеваллиер;chevallier;True
+минк;mink;True
+етинцеллес;etincelles;False
+ск-хоусе;sk-house;False
+армы ывес;army yves;True
+тонка перфумес;tonka perfumes;True
+цитизенс оф;citizens of;True
+бубблеланд;bubbleland;False
+таоко;taoko;True
+мичелле;michelle;True
+604437б8-3560-11е6-80ц6-2ц27д7а27478;604437b8-3560-11e6-80c6-2c27d7a27478;False
+азури;azuri;False
+писчедда;pischedda;True
+wелсс;welss;False
+вито фашион;vito fashion;True
+4724цеа2-9309-11е7-80цф-ф46д04аеа3дд;4724cea2-9309-11e7-80cf-f46d04aea3dd;False
+витацци;vitacci;False
+процопиоу;procopiou;True
+так.ори;tak.ori;False
+микаел;mikael;True
+wорлдс апарт сцруфф;worlds apart scruff;True
+сцруфф а;scruff a;True
+босццоло;bosccolo;False
+биани;biani;True
+бенини;benini;False
+морато;morato;True
+пхард;phard;False
+делпхине;delphine;True
+ыана;yana;True
+аллан;allan;True
+в-стыле;v-style;False
+маркам;markam;False
+6ц40ааа0-3560-11е6-80ц6-2ц27д7а27478;6c40aaa0-3560-11e6-80c6-2c27d7a27478;False
+цолоур 5;colour 5;True
+аберцромбие;abercrombie;True
+фарроw;farrow;True
+дркшдw бы;drkshdw by;True
+ацqуа ди;acqua di;True
+емануеле;emanuele;True
+лораине;loraine;False
+бомонд;bomond;False
+фоунд;found;True
+беате;beate;True
+wаxима;waxima;False
+марселл;marsell;False
+лаурен;lauren;True
+спонсор;sponsor;False
+кристина;kristina;True
+ловеЬс;love's;False
+фарр;farr;True
+ландсцапе;landscape;False
+валерие;valerie;True
+еугениа;eugenia;True
+силена;silena;False
+олдцом;oldcom;False
+7е32фе8а-3560-11е6-80ц6-2ц27д7а27478;7e32fe8a-3560-11e6-80c6-2c27d7a27478;False
+максимова;maksimova;True
+филиграна;filigrana;False
+ц008цф06-3560-11е6-80ц6-2ц27д7а27478;c008cf06-3560-11e6-80c6-2c27d7a27478;False
+еыенлип;eyenlip;False
+бора;bora;False
+цутие;cutie;True
+антwерп;antwerp;True
+филипе;filipe;True
+глаури;glauri;True
+хомерс ат;homers at;True
+луиса;luisa;True
+пеекабоо;peekaboo;False
+6ц40аа89-3560-11е6-80ц6-2ц27д7а27478;6c40aa89-3560-11e6-80c6-2c27d7a27478;False
+норwаы;norway;True
+марцолиани;marcoliani;False
+гение;genie;True
+хаыс;hays;False
+леигхтон;leighton;True
+бримарц;brimarts;False
+цласс;class;True
+боно;bono;False
+9109ц148-6707-11е7-80цц-ф46д04аеа3дд;9109c148-6707-11e7-80cc-f46d04aea3dd;False
+цлергерие;clergerie;True
+труефитт&хилл;truefitt&hill;False
+варлеы;varley;False
+ыигал;yigal;True
+боинет;boinet;True
+зенгарини;zengarini;True
+гхазел;ghazel;False
+бы мичеле;by michele;True
+савиле;savile;True
+италы;italy;True
+тоыслаб;toyslab;True
+тхале;thale;True
+монтр;montr;True
+чристопхе;christophe;True
+пхилисопхы ди лорензо;philisophy di lorenzo;True
+невис;nevis;False
+6643а27ф-3560-11е6-80ц6-2ц27д7а27478;6643a27f-3560-11e6-80c6-2c27d7a27478;False
+суд;sud;True
+флоренце;florence;True
+есса;essa;False
+цолетте;colette;True
+елиса;elisa;True
+брос.;bros.;True
+пхилипп;philipp;True
+цуоио;cuoio;True
+ленте;lente;True
+цасалини;casalini;True
+трифил;trifil;False
+бианца;bianca;True
+роберто дел;roberto del;True
+зиггы;ziggy;True
+импреву;imprevu;False
+цлубе;clube;True
+кане;kane;True
+марми;marmi;True
+брамс;brams;True
+тхе qуеен;the queen;True
+ин тхе моод;in the mood;True
+сунува;sunuva;False
+кхрио;khrio;False
+броокс;brooks;True
+лемарго;lemargo;False
+орвал;orval;True
+клодЬелле;klod'elle;False
+м.;m.;True
+елгин;elgin;True
+палвира;palvira;False
+акира;akira;True
+бартлеы;bartley;True
+теаспоон;teaspoon;True
+аппартемент а;appartement a;True
+цардо;cardo;False
+воодоо;voodoo;True
+книтис;knitis;False
+лупфер;lupfer;True
+моод;mood;True
+бы тхорнтон;by thornton;True
+беллидо;bellido;True
+алиса;alisa;True
+мисебла;misebla;False
+леттерс;letters;True
+тхаласса;thalassa;False
+тилла;tilla;False
+церес;ceres;False
+мана;mana;False
+ундерцовер;undercover;False
+никелаб;nikelab;False
+бене;bene;True
+беверлы хиллс поло;beverly hills polo;True
+7 фор;7 for;True
+фогал;fogal;False
+йефф;jeff;True
+етоиле;etoile;True
+ассоулин;assoulin;True
+гаxотте;gaxotte;True
+мацкинтош;mackintosh;False
+ефбе–счотт;efbe–schott;False
+славутина;slavutina;True
+бологна;bologna;True
+сказкина;skazkina;True
+бианчи;bianchi;True
+либеаморе;libeamore;False
+ыумесе;yumese;False
+борис бидян;boris bidjan;True
+келиан;kelian;True
+цбк;cbk;False
+супплиес;supplies;False
+а4б34б77-ф632-11е6-80ц0-ф46д04аеа3дд;a4b34b77-f632-11e6-80c0-f46d04aea3dd;False
+ацт;act;True
+лоу-лоу;lou-lou;False
+нота;nota;True
+киехл`с;kiehl`s;False
+морони;moroni;True
+зухаир;zuhair;True
+маррас;marras;True
+90255260-3560-11е6-80ц6-2ц27д7а27478;90255260-3560-11e6-80c6-2c27d7a27478;False
+виадесте;viadeste;False
+бабытан;babytan;False
+йиа ду;jia du;True
+суммерхит;summerhit;False
+чадолини;chadolini;False
+а27ае718-7е6ц-11е7-80цц-ф46д04аеа3дд;a27ae718-7e6c-11e7-80cc-f46d04aea3dd;False
+рока;roka;True
+604437ф6-3560-11е6-80ц6-2ц27д7а27478;604437f6-3560-11e6-80c6-2c27d7a27478;False
+wондерланд;wonderland;False
+плаин яне;plain jane;True
+алануи;alanui;False
+баллеринас;ballerinas;True
+стауд;staud;False
+тхе моод;the mood;True
+праирие;prairie;True
+млп;mlp;True
+мание;manie;True
+фабио гаваззи;fabio gavazzi;True
+xссл;xssl;False
+сасси;sassi;True
+газинскаыа;gazinskaya;True
+мичаел мичаел;michael michael;True
+хцс;hcs;False
+мара;mara;True
+биассони;biassoni;True
+анастасиа;anastasia;True
+англоманиа бы;anglomania by;True
+й.н.ц.;j.n.c.;False
+зинко;zinko;True
+чристиан бретон;christian breton;True
+перры;perry;True
+п.;p.;True
+мала;mala;True
+оxмо;oxmo;False
+сл-фашион;sl-fashion;False
+ис;is;True
+боцчино;bocchino;True
+мадини;madini;False
+пиаценза;piacenza;True
+цое;coe;True
+балмуир;balmuir;False
+есве;esve;True
+аверы;avery;False
+бы анна;by anna;True
+wет&wилд;wet&wild;False
+био;bio;True
+ох мы;oh my;True
+wиззы;wizzy;False
+сорбино;sorbino;False
+ел-мира;el-mira;False
+ричлы;richly;True
+аиыоны;aiyony;True
+алана;alana;False
+дреам тиме;dream time;True
+те;te;True
+карфф;karff;False
+цуестион де;cuestion de;True
+01ц2е45ц-ба52-11е7-80д6-ф46д04аеа3дд;01c2e45c-ba52-11e7-80d6-f46d04aea3dd;False
+билл;bill;True
+спx;spx;True
+деепот;deepot;False
+xxx;xxx;False
+сцотланд;scotland;True
+ангиоло;angiolo;True
+евиденс де;evidens de;True
+лосинелли;losinelli;False
+тара;tara;True
+фонсеца;fonseca;True
+френцы&мерцуры;frency&mercury;False
+боб;bob;True
+агнелле;agnelle;False
+тресопхие;tresophie;False
+гхост;ghost;True
+ким;kim;True
+йц;jc;True
+поет;poet;True
+пецораро;pecoraro;True
+цоыотес де;coyotes de;True
+марипоса;mariposa;False
+сарториа;sartoria;True
+лЬартисан;l'artisan;True
+ромео;romeo;True
+лосангелес;losangeles;True
+бриотти;briotti;False
+еписоде;episode;False
+деакин&францис;deakin&francis;False
+вивид;vivid;False
+ла виа;la via;True
+фаусто;fausto;True
+боливар;bolivar;False
+умит;umit;True
+силвиа;silvia;False
+ад56;ad56;False
+йохнстонс;johnstons;True
+варватос;varvatos;True
+проенза;proenza;True
+луxвисаге;luxvisage;False
+оуд;oud;True
+луанн;luann;False
+массимино;massimino;True
+оффицине;officine;True
+бес тиа;bes tia;True
+хауте фрагранце;haute fragrance;True
+маскс;masks;True
+рубан;ruban;True
+смалто;smalto;True
+апарт сцруфф а;apart scruff a;True
+холлыwоод;hollywood;True
+фрацап;fracap;False
+аунц;aunts;True
+лиллы;lilly;True
+лало;lalo;True
+0е16аццд-3561-11е6-80ц6-2ц27д7а27478;0e16accd-3561-11e6-80c6-2c27d7a27478;False
+ривиерас;rivieras;True
+леви;levi;True
+лоок ат;look at;True
+ыаворскы;yavorsky;False
+тадаши;tadashi;True
+wилл;will;True
+раг;rag;True
+целлбес;cellbes;False
+пер те;per te;True
+лоллы;lolly;True
+анушка;anushka;True
+лес цоыотес де;les coyotes de;True
+цраво;cravo;True
+виолетте;violette;True
+моресчи;moreschi;False
+сергеева;sergeeva;True
+чарлотте;charlotte;True
+а-цынетиц;a-cynetic;True
+цитизенс;citizens;True
+марц бы;marc by;True
+бинда;binda;True
+ашлеы грахам x;ashley graham x;True
+моннаие;monnaie;True
+м.инт;m.int;False
+луциано;luciano;True
+иссеы;issey;True
+спранди;sprandi;False
+саулес;saules;True
+сцруфф;scruff;True
+владис;vladis;False
+целестине;celestine;False
+мушер;musher;False
+елие;elie;True
+висцосе;viscose;False
+принт;print;False
+хелмут;helmut;True
+супертраш;supertrash;False
+фанти;fanti;True
+боттицелли;botticelli;True
+нандо;nando;True
+x марина;x marina;True
+гоорин;goorin;True
+н1;n1;True
+бриан;brian;True
+кидсцоутуре;kidscouture;False
+цристле;cristle;True
+а4б34б72-ф632-11е6-80ц0-ф46д04аеа3дд;a4b34b72-f632-11e6-80c0-f46d04aea3dd;False
+цомптоир суд;comptoir sud;True
+нотхинг бут;nothing but;True
+бы сониа;by sonia;True
+мичеле;michele;True
+x к;x k;True
+лиценсед;licensed;True
+кариант;kariant;False
+кате спаде;kate spade;True
+мичаел;michael;True
+ыони;yoni;True
+2мен;2men;False
+маралеx;maralex;True
+ыокосун;yokosun;False
+катрантзоу;katrantzou;True
+оуеллетте;ouellette;True
+ц601121е-3560-11е6-80ц6-2ц27д7а27478;c601121e-3560-11e6-80c6-2c27d7a27478;False
+аттилио гиусти;attilio giusti;True
+едwард;edward;True
+рондинелла;rondinella;False
+виа делле;via delle;True
+цастелбаяц;castelbajac;True
+леони;leoni;True
+софтинос;softinos;False
+цаллусан;callusan;False
+германо;germano;False
+хармониа;harmonia;True
+елисабетта;elisabetta;True
+енфант;enfant;True
+маисон францис;maison francis;True
+сонриса;sonrisa;False
+7238ее34-3560-11е6-80ц6-2ц27д7а27478;7238ee34-3560-11e6-80c6-2c27d7a27478;False
+мисчка;mischka;True
+сопхиа wебстер;sophia webster;True
+сандерс;sanders;True
+патрици;patrici;True
+кхаите;khaite;False
+омскаыа;omskaya;True
+бы борис;by boris;True
+сунwеар;sunwear;False
+лил поур;lil pour;True
+сеасон;season;True
+бы марцо;by marco;True
+кривда;krivda;True
+спаде;spade;True
+мари;mari;True
+летЬс;let's;True
+лилиес;lilies;True
+примордиал ис;primordial is;True
+форе;fore;True
+а4б34б73-ф632-11е6-80ц0-ф46д04аеа3дд;a4b34b73-f632-11e6-80c0-f46d04aea3dd;False
+таг;tag;True
+несца;nesca;True
+сфорза;sforza;True
+плаге;plage;True
+биллионаире;billionaire;True
+лола;lola;True
+аитор;aitor;True
+децаы;decay;True
+фурс;furs;True
+а4б34б7б-ф632-11е6-80ц0-ф46д04аеа3дд;a4b34b7b-f632-11e6-80c0-f46d04aea3dd;False
+у.с;u.s;True
+ну;nu;False
+араназ;aranaz;False
+биалас;bialas;True
+куре;kure;True
+панда;panda;True
+йимена;jimena;True
+ло.те;lo.te;False
+уамоде;uamode;False
+гиунтини;giuntini;True
+руиз;ruiz;True
+далоод;dalood;False
+сабеллино;sabellino;False
+прыма;pryma;True
+исотонер;isotoner;False
+гиамбаттиста;giambattista;True
+благонравова;blagonravova;True
+цоннеxион;connexion;True
+фраме;frame;True
+уемура;uemura;True
+легеро;legero;False
+роберта;roberta;True
+баеллерры;baellerry;False
+олди-дон;oldi-don;False
+пластинина;plastinina;True
+гаелле;gaelle;False
+гоос;goos;True
+кром;krom;True
+сеwард;seward;True
+бы ывес;by yves;True
+моло;molo;True
+стил;stil;False
+симоне;simone;True
+гастро;gastro;False
+хотел;hotel;True
+атхлетиц пропулсион;athletic propulsion;True
+балмаин хаир;balmain hair;True
+6643а267-3560-11е6-80ц6-2ц27д7а27478;6643a267-3560-11e6-80c6-2c27d7a27478;False
+зепхыр;zephyr;False
+фире+ице;fire+ice;True
+бе ин;be in;True
+wиныеа;winyea;False
+8а2д0ф3ц-3560-11е6-80ц6-2ц27д7а27478;8a2d0f3c-3560-11e6-80c6-2c27d7a27478;False
+тесо;teso;True
+а80б24ф1-3560-11е6-80ц6-2ц27д7а27478;a80b24f1-3560-11e6-80c6-2c27d7a27478;False
+кнт;knt;False
+овермоон;overmoon;False
+стылове;stylove;False
+таниши;tanishi;True
+лемаире;lemaire;True
+стеве й;steve j;True
+деа;dea;True
+рубеус;rubeus;True
+греыл;greyl;True
+10сеи0отто;10sei0otto;False
+ярдини;jardini;True
+г19;g19;True
+имец;imec;False
+wицкстеад;wickstead;True
+кидс-арт;kids-art;True
+иенки;ienki;True
+дЬеxтериор;d'exterior;False
+моод фор;mood for;True
+wассерман;wasserman;True
+херон;heron;True
+вибратион;vibration;True
+рубинацци;rubinacci;True
+уомо;uomo;True
+алеxандре де;alexandre de;True
+гирбауд;girbaud;True
+чристиан;christian;True
+табитха;tabitha;True
+тренино;trenino;True
+лооклие;looklie;False
+стеигер;steiger;False
+юпе;jupe;True
+стеамq;steamq;False
+милируд;milirud;False
+борго;borgo;True
+мих;mih;True
+домене;domene;False
+рачеле;rachele;True
+лоок;look;True
+питики;pitiki;False
+бианче анды;bianche andy;True
+стуссы;stussy;False
+петитес...;petites...;True
+крусс;kruss;True
+хармонт;harmont;True
+фоулард;foulard;True
+атеси;atesi;True
+маритх;marith;True
+буи;bui;True
+херман;herman;False
+куросаwа;kurosawa;True
+цыберг;cyberg;True
+визови;vizovi;False
+ст-стыле;st-style;False
+маиер;maier;True
+исабел;isabel;True
+ид;id;True
+брадеx;bradex;False
+бао;bao;True
+антонино;antonino;True
+амо;amo;False
+горошек;goroshek;False
+аеронаутица;aeronautica;True
+зебра;zebra;True
+евису;evisu;True
+тои;toi;True
+моуссы;moussy;False
+акид;akid;False
+нака;naka;True
+униформс;uniforms;True
+смитх анд;smith and;True
+теxиер;texier;False
+гунзе;gunze;False
+хоwлин;howlin;False
+луца делла;luca della;True
+роберта ди;roberta di;True
+росие;rosie;True
+песерицо;peserico;False
+марсе;marse;False
+ниц;nic;True
+грлфрнд;grlfrnd;False
+доуцалЬс;doucal's;False
+пеные;penye;True
+латорре;latorre;True
+оис;ois;True
+силент;silent;False
+бос;bos;True
+герры;gerry;True
+церемоны;ceremony;True
+пауле;paule;True
+20069е12-3561-11е6-80ц6-2ц27д7а27478;20069e12-3561-11e6-80c6-2c27d7a27478;False
+кееперс-паусе;keepers-pause;True
+диззыwаы;dizzyway;False
+едитор;editor;True
+хадоро;hadoro;False
+лост;lost;True
+морпхо&луна;morpho&luna;False
+катамино;katamino;False
+роче-посаы;roche-posay;True
+цристина;cristina;True
+менталиты;mentality;True
+емка;emka;False
+гаваззи фор;gavazzi for;True
+6ц40ааб5-3560-11е6-80ц6-2ц27д7а27478;6c40aab5-3560-11e6-80c6-2c27d7a27478;False
+хорwоод;horwood;False
+сометиме;sometime;True
+сониа бы сониа;sonia by sonia;True
+стеве;steve;True
+камик;kamik;False
+а4б34б74-ф632-11е6-80ц0-ф46д04аеа3дд;a4b34b74-f632-11e6-80c0-f46d04aea3dd;False
+ебелиеве;ebelieve;False
+ревече;reveche;True
+раw + аитор;raw + aitor;True
+деним&супплы бы;denim&supply by;True
+гоар;goar;True
+хиде&яцк;hide&jack;False
+пинцо;pinco;True
+френчы;frenchy;True
+бисокс;bisoks;False
+мы беауты;my beauty;True
+персона бы;persona by;True
+исланд шадоw;island shadow;True
+арзо;arzo;False
+цалзини;calzini;False
+ферто;ferto;False
+фирст ланд оф;first land of;True
+б40ц5ц75-3560-11е6-80ц6-2ц27д7а27478;b40c5c75-3560-11e6-80c6-2c27d7a27478;False
+чромосоме;chromosome;False
+аппетит;appetit;True
+лр;lr;False
+бы рицк;by rick;True
+цоппола;coppola;True
+дас магисче;das magische;True
+свеста;svesta;False
+рен;ren;True
+валеxтра;valextra;False
+халенс;halens;False
+андреыанова;andreyanova;True
+пацкхам;packham;True
+симонс;simons;True
+пеперуна;peperuna;False
+маx&йесси;max&jessi;False
+трампулина;trampulina;False
+ко&фе;ko&fe;False
+камелиа;kamelia;False
+мариа луциа;maria lucia;True
+линда;linda;True
+лавела;lavela;False
+салар;salar;False
+081е6937-3561-11е6-80ц6-2ц27д7а27478;081e6937-3561-11e6-80c6-2c27d7a27478;False
+стора;stora;True
+гентле;gentle;True
+опен фашион;open fashion;True
+дезула;dezula;False
+роя;roja;True
+баррие;barrie;False
+мойо;mojo;True
+адоре;adore;True
+ф5;f5;False
+дом ребел монтр;dom rebel montr;True
+ассче;assche;True
+преен;preen;True
+севентеен;seventeen;False
+юдитх;judith;True
+лес цоыотес;les coyotes;True
+бы мичаел;by michael;True
+бренер;brener;True
+2а13ц3ф3-2дб2-11е8-а956-00155д024еб3;2a13c3f3-2db2-11e8-a956-00155d024eb3;False
+qуанти;quanti;True
+кети;keti;True
+ташкан;tashkan;False
+ф627509а-3560-11е6-80ц6-2ц27д7а27478;f627509a-3560-11e6-80c6-2c27d7a27478;False
+алеxачунг;alexachung;False
+багс;bags;True
+боучерон;boucheron;False
+ринасцименто;rinascimento;False
+г19 спорт;g19 sport;True
+серг;serg;False
+оригиналс бы;originals by;True
+толылуx;tolylux;False
+елизабетх анд;elizabeth and;True
+604437д1-3560-11е6-80ц6-2ц27д7а27478;604437d1-3560-11e6-80c6-2c27d7a27478;False
+шорелине бы;shoreline by;True
+гоон;goon;False
+ло;lo;False
+прингле оф;pringle of;True
+рацил;racil;False
+ше-хоме;she-home;False
+цлан;clan;False
+т бы алеxандер;t by alexander;True
+гоцциа;goccia;True
+алиця;alicja;False
+сцриптор;scriptor;True
+60443814-3560-11е6-80ц6-2ц27д7а27478;60443814-3560-11e6-80c6-2c27d7a27478;False
+с & а;s & a;True
+стевие;stevie;True
+кашя`;kashja`;True
+оверцоме;overcome;False
+цо.;co.;True
+такешы;takeshy;True
+т бы;t by;True
+тен;ten;True
+циое;cioe;False
+ыеах;yeah;True
+рпс;rps;False
+мц алеxандер;mc alexander;True
+явиц;javits;True
+дриес;dries;True
+лаб;lab;True
+ваы;vay;True
+иф;if;True
+пхилисопхы ди;philisophy di;True
+малене;malene;True
+руе ду;rue du;True
+флыдеа;flydea;False
+терволина;tervolina;False
+сагаформ;sagaform;False
+юпе бы;jupe by;True
+литтле марц;little marc;True
+ярек;jarek;False
+бриоллини;briollini;False
+цонфашион;confashion;True
+равол;ravol;False
+пертини;pertini;False
+лила;lila;True
+гуесс бы;guess by;True
+арц-ен-циел;arc-en-ciel;False
+цонстантине;constantine;True
+плаин;plain;True
+мумофсиx;mumofsix;False
+тхроуп;throup;True
+хат;hat;True
+пеарлс;pearls;True
+афунгуард;afunguard;False
+агнесс;agness;False
+фуи;fui;True
+лЬаутре;l'autre;True
+барни;barni;True
+доно;dono;False
+йошуа;joshua;True
+7е32фе65-3560-11е6-80ц6-2ц27д7а27478;7e32fe65-3560-11e6-80c6-2c27d7a27478;False
+халле;halle;True
+миыаке;miyake;True
+гавиоли;gavioli;True
+wундер;wunder;True
+книттеx;knittex;False
+миx-моде;mix-mode;False
+ц008цед3-3560-11е6-80ц6-2ц27д7а27478;c008ced3-3560-11e6-80c6-2c27d7a27478;False
+семонин;semonin;True
+шоуроук;shourouk;False
+лиса марие;lisa marie;True
+емс;ems;False
+егг бы;egg by;True
+рабе;rabe;True
+ыаыа;yaya;False
+басиx;basix;True
+нон;non;True
+141152аф-3561-11е6-80ц6-2ц27д7а27478;141152af-3561-11e6-80c6-2c27d7a27478;False
+ыарко_ыа;yarko_ya;False
+чристина;christina;True
+тонка;tonka;True
+юнефее;junefee;False
+гиулиана;giuliana;True
+ричардс;richards;True
+сопраммесса;soprammessa;True
+т.таццарди;t.taccardi;False
+аттилио;attilio;True
+каыек;kayek;True
+буцурук;bucuruk;False
+гуссе;gusse;False
+биттар;bittar;True
+мока да;moka da;True
+лисетта;lisetta;True
+полат;polat;False
+ц6011224-3560-11е6-80ц6-2ц27д7а27478;c6011224-3560-11e6-80c6-2c27d7a27478;False
+сылвие;sylvie;True
+ларио;lario;True
+зац;zac;True
+моуче;mouche;False
+аниталиан;anitalian;True
+е9ф40828-3560-11е6-80ц6-2ц27д7а27478;e9f40828-3560-11e6-80c6-2c27d7a27478;False
+ел фа;el fa;True
+цуестион;cuestion;True
+персона бы марина;persona by marina;True
+винт;vint;False
+рыбалченко;rybalchenko;True
+цатхеринеЬс;catherine's;False
+елфс;elfs;True
+wондерфул;wonderful;True
+матие;matie;True
+ирмана;irmana;False
+лило;lilo;False
+цлу;clu;False
+яцqуемус;jacquemus;False
+быблос;byblos;False
+михалыч;mihalych;False
+хеелеы;heeley;False
+ст.бартх;st.barth;False
+боурйоис;bourjois;False
+рицардо;ricardo;True
+лаит;lait;True
+тата;tata;True
+арцелаб;artselab;False
+дивисибиле;divisibile;False
+сантони едитед;santoni edited;True
+д&с ралпх;d&s ralph;True
+баби;babi;True
+ду;du;True
+амусе;amuse;False
+йо;jo;True
+тартине;tartine;True
+л.б.м;l.b.m;True
+йет йохн;jet john;True
+тадаши шойи;tadashi shoji;True
+тхеы;they;True
+спорт нон;sport non;True
+млп еqуестриа;mlp equestria;True
+мирсторес;mirstores;False
+бы маы;by may;True
+софиацашмере;sofiacashmere;False
+савати;savati;True
+миртилло;mirtillo;False
+гарне;garne;False
+ванесса;vanessa;True
+севери;severi;True
+гуендалина;guendalina;False
+хании;hanii;True
+604437б1-3560-11е6-80ц6-2ц27д7а27478;604437b1-3560-11e6-80c6-2c27d7a27478;False
+шорелине;shoreline;True
+паяро;pajaro;True
+тенданцес;tendances;True
+бинка;binka;False
+мццартнеы;mccartney;True
+опен;open;True
+7е32фе55-3560-11е6-80ц6-2ц27д7а27478;7e32fe55-3560-11e6-80c6-2c27d7a27478;False
+мотиви;motivi;False
+децларе;declare;False
+лорис;loris;True
+вицториа вицториа;victoria victoria;True
+лаЬдор;la'dor;False
+соxторы;soxtory;False
+ачоур;achour;True
+исаац;isaac;True
+села;sela;False
+луца де;luca de;True
+имога;imoga;False
+еqуилибриум;equilibrium;False
+разгулыаев;razgulyaev;True
+тхурстон;thurston;True
+миезко;miezko;False
+8а2д0ф81-3560-11е6-80ц6-2ц27д7а27478;8a2d0f81-3560-11e6-80c6-2c27d7a27478;False
+бароццо;barocco;True
+поолпарты;poolparty;False
+сати;sati;False
+фор тхе;for the;True
+царацт;caract;False
+магда;magda;True
+ботх;both;False
+тимеюмп;timejump;False
+соон;soon;True
+вера вицториа;vera victoria;True
+ангора;angora;True
+тенерезза;tenerezza;False
+олднавы;oldnavy;False
+минние;minnie;True
+скандиа;skandia;False
+лавидо;lavido;False
+46ц5фе8ф-6702-11е7-80цц-ф46д04аеа3дд;46c5fe8f-6702-11e7-80cc-f46d04aea3dd;False
+сис;sis;False
+аффеx;affex;False
+тиа;tia;False
+царамелла;caramella;False
+метео ывес;meteo yves;True
+лацроиx;lacroix;True
+сорлеы;sorley;True
+фурстенберг;furstenberg;True
+милана;milana;True
+луцчи;lucchi;True
+мотхер оф;mother of;True
+wеиз;weiz;True
+евелине;eveline;False
+фриендтеx;friendtex;False
+ц.маландрино;c.malandrino;False
+бретон;breton;True
+ф.р.с;f.r.s;True
+соулиерс;souliers;True
+браы стеве;bray steve;True
+анта;anta;False
+лосани;losani;True
+талес;tales;False
+лориблу;loriblu;False
+гритти;gritti;False
+силла;silla;True
+театро фрагранзе;teatro fragranze;True
+шойи;shoji;True
+wеилл;weill;False
+миата;miata;False
+сейо;sejo;False
+бен тавернити;ben taverniti;True
+лудwик;ludwik;False
+енйоы;enjoy;False
+вендетта;vendetta;False
+хитч-хикер;hitch-hiker;False
+цопаинс;copains;True
+преен бы тхорнтон;preen by thornton;True
+еxпериенце;experience;True
+бы йеан;by jean;True
+фор алл;for all;True
+ле мотиф;le motif;True
+фа-со-ла;fa-so-la;False
+лауренце;laurence;True
+ле йеан;le jean;True
+карикидс;karikids;False
+оригинале;originale;True
+цурл;curl;True
+хилтл;hiltl;False
+соколов;sokolov;False
+м.б;m.b;True
+россетти;rossetti;True
+е3ф6ффед-3560-11е6-80ц6-2ц27д7а27478;e3f6ffed-3560-11e6-80c6-2c27d7a27478;False
+киехл;kiehl;True
+рхеа;rhea;True
+xман;xman;False
+биллионаире боыс;billionaire boys;True
+хеарст;hearst;True
+лузана;luzana;False
+парис фроу;paris frou;True
+леонор;leonor;True
+р.;r.;True
+оxс руббер;oxs rubber;True
+авантгарде;avantgarde;False
+гфасе;gfase;False
+604437цф-3560-11е6-80ц6-2ц27д7а27478;604437cf-3560-11e6-80c6-2c27d7a27478;False
+елариа;elaria;False
+wалк;walk;True
+санс-арцидет;sans-arcidet;False
+ныц;nyc;True
+филлинг;filling;True
+транд;trand;False
+иро аня;iro anja;True
+кафтан;kaftan;False
+волтаире;voltaire;True
+а4б34б7ц-ф632-11е6-80ц0-ф46д04аеа3дд;a4b34b7c-f632-11e6-80c0-f46d04aea3dd;False
+редвалентино;redvalentino;False
+ре/доне;re/done;False
+цоттwеилер;cottweiler;True
+wоодс;woods;True
+армата ди;armata di;True
+пхаx;phax;False
+9аф25194-2133-11е8-а955-00155д024еб3;9af25194-2133-11e8-a955-00155d024eb3;False
+аппиа;appia;True
+анне;anne;True
+ат;at;True
+цомме;comme;True
+хонгйи;hongji;True
+кеннетх;kenneth;True
+стратегиа;strategia;False
+961д95б7-3560-11е6-80ц6-2ц27д7а27478;961d95b7-3560-11e6-80c6-2c27d7a27478;False
+081е694ф-3561-11е6-80ц6-2ц27д7а27478;081e694f-3561-11e6-80c6-2c27d7a27478;False
+бурри;burri;True
+тино;tino;True
+бсл;bsl;True
+шеЬс;she's;True
+ровер;rover;True
+беамон;beamon;True
+асцоли;ascoli;True
+а.ферретти;a.ferretti;True
+молинаре;molinare;True
+фаы;fay;True
+профессионнел;professionnel;True
+йиндалиан;jindalian;False
+ла реине;la reine;True
+англоманиа;anglomania;True
+целебриты;celebrity;False
+моосе пикми;moose pikmi;True
+реед;reed;True
+белт;belt;True
+леле;lele;True
+ае11б623-3560-11е6-80ц6-2ц27д7а27478;ae11b623-3560-11e6-80c6-2c27d7a27478;False
+а4б34б78-ф632-11е6-80ц0-ф46д04аеа3дд;a4b34b78-f632-11e6-80c0-f46d04aea3dd;False
+сатин;satin;False
+севенеxт;sevenext;False
+фабрика;fabrika;True
+марчанд;marchand;True
+9ц15д920-3560-11е6-80ц6-2ц27д7а27478;9c15d920-3560-11e6-80c6-2c27d7a27478;False
+ц.п;c.p;True
+силлаге;sillage;True
+марте;marte;True
+далес;dales;True
+оЬполо;o'polo;True
+ланд оф;land of;True
+соцкс бы;socks by;True
+индигира;indigira;False
+дркшдw;drkshdw;True
+черницов;chernitsov;True
+царлис;carlis;True
+чроме;chrome;True
+фелдер;felder;True
+зое&ное;zoe&noe;False
+мобиле;mobile;True
+90255243-3560-11е6-80ц6-2ц27д7а27478;90255243-3560-11e6-80c6-2c27d7a27478;False
+саве тхе;save the;True
+унм;unm;False
+др.ярт+;dr.jart+;False
+паррончи;parronchi;True
+униче;uniche;True
+лама;lama;True
+кнуцклес;knuckles;True
+финдер;finder;True
+минкофф;minkoff;True
+полови;polovi;False
+леццо;lecco;False
+а80б24ф5-3560-11е6-80ц6-2ц27д7а27478;a80b24f5-3560-11e6-80c6-2c27d7a27478;False
+2ц00ае70-3561-11е6-80ц6-2ц27д7а27478;2c00ae70-3561-11e6-80c6-2c27d7a27478;False
+роадхеаве;roadheave;False
+албино;albino;False
+яыне;jayne;True
+парфумс де;parfums de;True
+леомода;leomoda;False
+вентурино;venturino;True
+аесоп;aesop;False
+аддицтед;addicted;False
+престон;preston;True
+убу;ubu;False
+бы карен;by karen;True
+бийоуx;bijoux;False
+камео;kameo;True
+голованофф;golovanoff;True
+пепе;pepe;True
+а4б34б75-ф632-11е6-80ц0-ф46д04аеа3дд;a4b34b75-f632-11e6-80c0-f46d04aea3dd;False
+франклин;franklin;True
+урбан фашион фор;urban fashion for;True
+спрунг;sprung;False
+еффре;effre;False
+мрз;mrz;False
+604437е4-3560-11е6-80ц6-2ц27д7а27478;604437e4-3560-11e6-80c6-2c27d7a27478;False
+мирел;mirel;False
 елыц;elyts;False
+деxам;dexam;False
+а4б34б7е-ф632-11е6-80ц0-ф46д04аеа3дд;a4b34b7e-f632-11e6-80c0-f46d04aea3dd;False
+31фдб6а2-3561-11е6-80ц6-2ц27д7а27478;31fdb6a2-3561-11e6-80c6-2c27d7a27478;False
+колор;kolor;False
+робинсон;robinson;True
+ембрыолиссе;embryolisse;False
+монроw;monrow;False
+бы ницолас;by nicolas;True
+плеасуре;pleasure;True
+керн;kern;True
+wиндсор;windsor;False
+лиу;liu;True
+мосцануева;moscanueva;False
+либеллен;libellen;False
+докие;dokie;False
+мираросси;mirarossi;False
+ае11б634-3560-11е6-80ц6-2ц27д7а27478;ae11b634-3560-11e6-80c6-2c27d7a27478;False
+коко;koko;True
+гуигнол;guignol;True
+гиосеппо;gioseppo;False
+бесфамилнаыа;besfamilnaya;True
+пантхерелла;pantherella;False
+чантецаилле;chantecaille;False
+лемониаде;lemoniade;False
+голд чиц;gold chic;True
+а5д9д890-3868-11е6-80ц6-2ц27д7а27478;a5d9d890-3868-11e6-80c6-2c27d7a27478;False
+иоанна;ioanna;True
+чриста;christa;True
+босниц;bosnic;False
+wенз;wenz;False
+емозионе;emozione;False
+фитзгералд;fitzgerald;True
+гарцон;garcon;True
+анушка бы анна;anushka by anna;True
+6ц40аад5-3560-11е6-80ц6-2ц27д7а27478;6c40aad5-3560-11e6-80c6-2c27d7a27478;False
+поур;pour;True
+2wомен;2women;False
+ми;mi;True
+бема;bema;True
+гианцарло;giancarlo;True
+цосметици;cosmetici;True
+ерманно;ermanno;True
+аутхентиц;authentic;True
+клингел;klingel;False
+рыłко;ryłko;True
+ерманно ерманно;ermanno ermanno;True
+мр.форсаге;mr.forsage;False
+фемме бы;femme by;True
+адидас оригиналс;adidas originals;True
+зецчино;zecchino;True
+лесы бы;lesy by;True
+алфред;alfred;True
+50б48а79-985ц-11е7-80д0-ф46д04аеа3дд;50b48a79-985c-11e7-80d0-f46d04aea3dd;False
+бы лисетта;by lisetta;True
+цандице;candice;True
+мадмуазел;madmuazel;False
+унцонвентионал;unconventional;True
+марлино;marlino;False
+л.а.в;l.a.v;True
+кицца;kicca;True
+ердем;erdem;False
+лелио;lelio;False
+ин-стицк;in-stick;False
+деворе;devore;False
+асси;assi;True
+флеур оф;fleur of;True
+инфините;infinite;True
+д&й;d&j;True
+локс;loks;False
+цавалли;cavalli;True
+мати;mati;True
+омы;omy;False
+мониqуе;monique;True
+випе;vipe;False
+царисма;carisma;False
+каимилан;kaimilan;False
+поло ралпх;polo ralph;True
+аге оф;age of;True
+доори;doori;False
+войелави;vojelavi;False
+ралуца;raluca;False
+фиора;fiora;True
+марие меили;marie meili;True
+рыłко бы;ryłko by;True
+чкхиквадзе;chkhikvadze;True
+бакхур;bakhur;False
+фаитх;faith;True
+блауер;blauer;True
+пандорине;pandorine;True
+плеасе;please;False
+бисоу;bisou;False
+тессита;tessita;False
+берлин;berlin;True
+спидерс;spiders;True
+2е8ц78ац-003ц-11е8-а952-00155д024еб3;2e8c78ac-003c-11e8-a952-00155d024eb3;False
+фобыа;fobya;False
+хелене;helene;True
+кнот со;knot so;True
+цохен;cohen;True
+wестелите;westelite;False
+натурал кангра;natural kangra;True
+бы раф;by raf;True
+те бы;te by;True
+францаис;francais;True
+мастерцрафт;mastercraft;True
+метео;meteo;True
+фемме бы мичеле;femme by michele;True
+бугабе;bugabe;False
+спидерс фром;spiders from;True
+грахам x марина;graham x marina;True
+харрис;harris;True
+настыа сергеева;nastya sergeeva;True
+7238ее0б-3560-11е6-80ц6-2ц27д7а27478;7238ee0b-3560-11e6-80c6-2c27d7a27478;False
+мылон;mylon;True
+лесыа;lesya;False
+иф онлы wас;if only was;True
+мусе;muse;False
+аттицо;attico;False
+бека;beka;False
+ромбица;rombica;False
+ахираин;ahirain;False
+темперлеы;temperley;True
+стоувенакер;stouvenaker;True
+нери;neri;True
+доротхее;dorothee;True
+аxара;axara;False
+арче;arche;False
+бенеттон;benetton;True
+марцело бурлон кидс;marcelo burlon kids;True
+цоллезиони;collezioni;True
+вилшенко;vilshenko;True
+енсис;ensis;False
+зубелдиа;zubeldia;True
+5бцц4037-10ц6-11е8-а955-00155д024еб3;5bcc4037-10c6-11e8-a955-00155d024eb3;False
+арина;arina;True
+цартерс;carters;False
+рендалл;rendall;False
+йо но;jo no;True
+алберто;alberto;True
+лЬ;l';True
+паула;paula;True
+ензо;enzo;True
+орлы;orly;False
+солх;solh;False
+прим;prim;True
+отхер;other;True
+марико;mariko;False
+сермонета;sermoneta;True
+калаис;kalais;False
+чилдрен фашион;children fashion;True
+дес гарцонс хомме;des garcons homme;True
+грончи;gronchi;True
+мхуди;mhudi;False
+аqуарилла;aquarilla;False
+фантазиа;fantazia;True
+бородина;borodina;True
+мартенс;martens;True
+амедео;amedeo;True
+хуаанфуши;huaanfushi;False
+мариелла;mariella;True
+бонфанти;bonfanti;False
+цроw с;crow s;True
+пхилосопхы ди алберта;philosophy di alberta;True
+сабери;saberi;True
+турболинецлеан;turbolineclean;False
+ригхт;right;True
+маритх + фран;marith + fran;True
+счумачер;schumacher;True
+весперини;vesperini;True
+ф.р.с фор рестлесс;f.r.s for restless;True
+цадемартори;cademartori;True
+паоло;paolo;True
+180 бы йеан;180 by jean;True
+бранqуинхо;branquinho;True
+поло;polo;True
+унфортунате;unfortunate;True
+цархартт;carhartt;True
+цуррент/еллиотт;current/elliott;False
+604437фц-3560-11е6-80ц6-2ц27д7а27478;604437fc-3560-11e6-80c6-2c27d7a27478;False
+604437е6-3560-11е6-80ц6-2ц27д7а27478;604437e6-3560-11e6-80c6-2c27d7a27478;False
+блацкбарретт;blackbarrett;False
+аф пхилосопхы;af philosophy;True
+форте деи;forte dei;True
+салви-с;salvi-s;False
+тод;tod;False
+гаттинони;gattinoni;False
+лилибетх оф неw;lilibeth of new;True
+винце;vince;False
+44д73170-8е75-11е8-а960-00155д024еб3;44d73170-8e75-11e8-a960-00155d024eb3;False
+фраЬнЬцо;fra'n'co;False
+керастасе;kerastase;False
+лора;lora;True
+ава;ava;True
+сурфаце;surface;True
+дан;dan;True
+госоакы;gosoaky;False
+риц;ric;True
+рестлесс;restless;True
+семилла;semilla;False
+рх45;rh45;False
+бацкер;backer;True
+мадпаx;madpax;False
+грунге;grunge;True
+йоур ле;jour le;True
+форе аxел;fore axel;True
+ума;uma;True
+скандал;skandal;False
+др.вранйес;dr.vranjes;False
+ландар;landar;True
+ноттингхам;nottingham;False
+неwамс;newams;False
+аджедо;adzhedo;False
+цасасола;casasola;False
+цристина дал;cristina dal;True
+деар;dear;True
+мондаы;monday;True
+соффици;soffici;True
+ниреы;nirey;False
+белисса;belissa;False
+агес оф;ages of;True
+аалто;aalto;False
+руе;rue;True
+еxотиqуе;exotique;True
+лион оф;lion of;True
+хеач;heach;True
+улззар;ulzzar;False
+аг;ag;True
+бреад&боxерс;bread&boxers;False
+наташа;natasha;True
+пицционе.пицционе;piccione.piccione;False
+алеxис;alexis;True
+мичаел бы;michael by;True
+хоган;hogan;False
+ормонде;ormonde;True
+саем;saem;True
+антхоны;anthony;True
+рире;rire;False
+атwоод;atwood;True
+голдсчмиед;goldschmied;True
+деборах;deborah;True
+кате;kate;True
+хероине;heroine;True
+то бе;to be;True
+гео;geo;True
+26898а8е-9бцц-11е8-а960-00155д024еб3;26898a8e-9bcc-11e8-a960-00155d024eb3;False
+блауе;blaue;True
+атлантиqуе;atlantique;True
+глем;glem;False
+бы вицториа;by victoria;True
+десигнерс;designers;True
+бы маноло;by manolo;True
+ремиx;remix;True
+есмералда;esmeralda;True
+0е16ац99-3561-11е6-80ц6-2ц27д7а27478;0e16ac99-3561-11e6-80c6-2c27d7a27478;False
+наполеонерба;napoleonerba;False
+бесса;bessa;False
+висион фашион;vision fashion;True
+цатуцци;catucci;True
+цастанер бы маноло;castaner by manolo;True
+л.серафини;l.serafini;True
+алессандро;alessandro;True
+магисче;magische;True
+баобаб;baobab;True
+демеулемеестер;demeulemeester;True
+фабиана;fabiana;True
+гемстонес;gemstones;True
+6ц40аац3-3560-11е6-80ц6-2ц27д7а27478;6c40aac3-3560-11e6-80c6-2c27d7a27478;False
+счwарзкопф;schwarzkopf;True
+домус;domus;True
+зетдаы;zetday;False
+марц о;marc o;True
+флагполе;flagpole;False
+маргхерита;margherita;False
+ламберто;lamberto;True
+драпиер;drapier;True
+де маритх;de marith;True
+смил;smil;False
+утерqуе;uterque;False
+валенциа;valencia;False
+дармон;darmon;True
+длт;dlt;True
+аqуа-спеед;aqua-speed;False
+хаилыс;hailys;False
+робери;roberi;True
+лариса;larisa;True
+макадамиа;makadamia;False
+алеxандра;alexandra;True
+ненуцо;nenuco;False
+орчид;orchid;True
+феббре;febbre;False
+паладини;paladini;True
+но ка;no ka;True
+нове;nove;False
+чалет;chalet;True
+омскаыа фабрыка;omskaya fabryka;True
+сакс;saks;True
+царолее;carolee;False
+ц008це9а-3560-11е6-80ц6-2ц27д7а27478;c008ce9a-3560-11e6-80c6-2c27d7a27478;False
+шримпс;shrimps;False
+бы цоллетте;by collette;True
+цонсо;conso;False
+бурлон;burlon;True
+ыолке;yolke;False
+фа;fa;True
+сорделли;sordelli;True
+ймс;jms;False
+липар;lipar;False
+мотиф;motif;True
+хыдроп;hydrop;False
+гринко;grinko;False
+ит;it;True
+индивидуал;individual;True
+0е16аца1-3561-11е6-80ц6-2ц27д7а27478;0e16aca1-3561-11e6-80c6-2c27d7a27478;False
+ицонс;icons;True
+6643а255-3560-11е6-80ц6-2ц27д7а27478;6643a255-3560-11e6-80c6-2c27d7a27478;False
+солд;sold;True
+да;da;True
+левалл;levall;False
+петицхоес;petitshoes;False
+менгхи;menghi;True
+wалдимеx;waldimex;False
+вити;viti;True
+12 францаис;12 francais;True
+ефф10фф8-3560-11е6-80ц6-2ц27д7а27478;eff10ff8-3560-11e6-80c6-2c27d7a27478;False
+малоне соулиерс бы;malone souliers by;True
+манкинд;mankind;True
+юниор;junior;True
+моосе хаппы;moose happy;True
+лоран;loran;False
+адреxx;adrexx;False
+цраабс;craabs;False
+моонлигхт;moonlight;False
+пума бы;puma by;True
+вип;vip;True
+енза;enza;True
+чристине;christine;True
+дом ребел;dom rebel;True
+преен бы;preen by;True
+луwолт;luwolt;True
+ваннина;vannina;True
+бебелино;bebelino;True
+аден+анаис;aden+anais;False
+wип;wip;True
+цЬест беау;c'est beau;True
+левел-про;level-pro;False
+артиqуе;artique;False
+кахла;kahla;False
+гордон;gordon;False
+оые;oye;False
+павлова;pavlova;True
+йил;jil;True
+задиг;zadig;True
+цп;cp;True
+юицы бы;juicy by;True
+сwимwеар;swimwear;True
+амстерденим;amsterdenim;False
+осцар де;oscar de;True
+матхилде;mathilde;True
+стефано;stefano;True
+беауты & тхе;beauty & the;True
+аwама;awama;False
+ясон;jason;True
+ерицксон;erickson;True
+кризиа;krizia;True
+барбиери;barbieri;True
+филлес а;filles a;True
+чарманте;charmante;False
+нил;nil;True
+фран оис;fran ois;True
+ариззо;arizzo;False
+пхилосопхы;philosophy;True
+еxпарц;exparc;False
+униформс фор;uniforms for;True
+сантони едитед бы;santoni edited by;True
+тереса;teresa;True
+бурч;burch;True
+хуманиты;humanity;True
+висцонф;visconf;False
+лаацк;laack;True
+агл;agl;False
+д7фф5206-3560-11е6-80ц6-2ц27д7а27478;d7ff5206-3560-11e6-80c6-2c27d7a27478;False
+карл;karl;True
+елена оф;elena of;True
+дормеуил;dormeuil;False
+604437е0-3560-11е6-80ц6-2ц27д7а27478;604437e0-3560-11e6-80c6-2c27d7a27478;False
+брусника;brusnika;False
+55дсл;55dsl;False
+студиос;studios;True
+бао бао;bao bao;True
+готтлич;gottlich;False
+бамбини;bambini;True
+либерта;liberta;False
+фоxы;foxy;False
+мансур;mansur;True
+винциане стоувенакер;vinciane stouvenaker;True
+пиел;piel;True
+диснеы wрецк-ит;disney wreck-it;True
+604437ее-3560-11е6-80ц6-2ц27д7а27478;604437ee-3560-11e6-80c6-2c27d7a27478;False
+феррагни;ferragni;True
+манила;manila;True
+цлара;clara;True
+wеитзман;weitzman;True
+томаззи;tomazzi;True
+ыокаи;yokai;True
+783абц83-3560-11е6-80ц6-2ц27д7а27478;783abc83-3560-11e6-80c6-2c27d7a27478;False
+феде;fede;True
+сорры;sorry;True
+гонгини;gongini;True
+иллестева;illesteva;False
+сониа бы;sonia by;True
+нумоцо;numoco;False
+нубар;nubar;False
+мц2 саинт;mc2 saint;True
+руперт;rupert;True
+лернер;lerner;True
+цутлер анд;cutler and;True
+фенты пума;fenty puma;True
+дарисса;darissa;True
+бы стелла;by stella;True
+цаовилла;caovilla;True
+камеа;kamea;False
+беннет;bennet;True
+нор;nor;True
+рвл;rvl;True
+мастерминд;mastermind;True
+wорлдс;worlds;True
+моодо;moodo;False
+еыеwеар;eyewear;True
+куб0раум;kub0raum;False
+арц;arts;True
+нот;not;True
+фран;fran;True
+лилова;lilova;False
+д`апи;d`api;True
+йенны;jenny;True
+денны;denny;True
+ком;kom;False
+раw;raw;True
+wандлер;wandler;False
+спрwмн;sprwmn;False
+3806аа98-3561-11е6-80ц6-2ц27д7а27478;3806aa98-3561-11e6-80c6-2c27d7a27478;False
+блазе;blaze;True
+60443840-3560-11е6-80ц6-2ц27д7а27478;60443840-3560-11e6-80c6-2c27d7a27478;False
+фреканс;frekans;False
+нанцы;nancy;True
+витториа;vittoria;True
+лиса;lisa;True
+лаке;lake;True
+кадар;kadar;True
+риццардо;riccardo;True
+дюлиыафурс;djuliyafurs;False
+талитха;talitha;False
+ерманн;ermann;True
+иxоо;ixoo;False
+ребел монтр;rebel montr;True
+еддие;eddie;True
+нотте;notte;True
+писарра;pisarra;True
+wылде;wylde;True
+3.1 пхиллип;3.1 phillip;True
+оxыдо;oxydo;False
+фетиш;fetish;True
+лоокат;lookat;False
+виолана;violana;True
+ысл;ysl;False
+6ц40аа70-3560-11е6-80ц6-2ц27д7а27478;6c40aa70-3560-11e6-80c6-2c27d7a27478;False
+мимианг;mimiang;False
+арлони;arloni;False
+перфецтион;perfection;True
+наерси;naersi;False
+фифтысевен;fiftyseven;True
+чарвет;charvet;False
+цолиац;coliac;False
+wрецк-ит;wreck-it;True
+тwо wомен ин;two women in;True
+wомен ин тхе;women in the;True
+винциане;vinciane;True
+аппарел;apparel;True
+гингиер;gingier;False
+кидс-елецтрониц;kids-electronic;True
+бошимао;boshimao;False
+оxс;oxs;True
+wеллингтон;wellington;True
+цасилда;casilda;True
+цлипс;clips;False
+нил анд;nil and;True
+адриана;adriana;True
+андрé;andré;True
+покемаоке;pokemaoke;False
+пелтек;peltek;True
+фианета;fianeta;False
+марциано;marciano;True
+и ам;i am;True
+кидс оф;kids of;True
+а4б34б6е-ф632-11е6-80ц0-ф46д04аеа3дд;a4b34b6e-f632-11e6-80c0-f46d04aea3dd;False
+минна парикка;minna parikka;True
+роверцаре;rovercare;False
+унитед цолорс;united colors;True
+броуссард;broussard;True
+традинг;trading;True
+диане вон;diane von;True
+капсула;kapsula;False
+аф пхилосопхы ди;af philosophy di;True
+сониx;sonix;False
+басси;bassi;True
+иачи;iachi;True
+тиме оф;time of;True
+петриглиа;petriglia;True
+ребел;rebel;True
+каррее;karree;False
+бы алеxандер;by alexander;True
+серапиан;serapian;True
+грахам x;graham x;True
+легре;legre;False
+мараис;marais;True
+баррера;barrera;True
+додо бар;dodo bar;True
+гем;gem;True
+оригиналс бы алеxандер;originals by alexander;True
+панара;panara;False
+финн-фларе;finn-flare;False
+беверлы хиллс;beverly hills;True
+пациотти;paciotti;True
+7е32фе7а-3560-11е6-80ц6-2ц27д7а27478;7e32fe7a-3560-11e6-80c6-2c27d7a27478;False
+хересис;heresis;False
+цампус;campus;False
+лерре;lerre;False
+цар;tsar;False
+долче;dolche;True
+цециле;cecile;True
+героне;gerone;True
+ап;ap;True
+биланциони;bilancioni;False
+вилсен;vilsen;False
+кома;koma;True
+марцело бурлон;marcelo burlon;True
+мока;moka;True
+тосца;tosca;True
+берарди;berardi;True
+л&цомпаны лос;l&company los;True
+олегра;olegra;False
+3x1;3x1;False
+сартори;sartori;True
+манзони;manzoni;True
+сирена;sirena;False
+7е32фе8д-3560-11е6-80ц6-2ц27д7а27478;7e32fe8d-3560-11e6-80c6-2c27d7a27478;False
+олеггерт;oleggert;False
+шаза;shaza;False
+йр;jr;True
+блауз;blauz;False
+тфк тхе;tfk the;True
+цц007цаа-3560-11е6-80ц6-2ц27д7а27478;cc007caa-3560-11e6-80c6-2c27d7a27478;False
+авери;averi;False
+цЬнЬц;c'n'c;True
+кнот;knot;True
+осцар де ла;oscar de la;True
+артиминеси;artiminesi;False
+нигхтмаркет;nightmarket;False
+анмар;anmar;False
+бидян;bidjan;True
+мауна;mauna;True
+марцело;marcelo;True
+лапландиа;laplandia;False
+елфф;elff;True
+блахник;blahnik;True
+90255202-3560-11е6-80ц6-2ц27д7а27478;90255202-3560-11e6-80c6-2c27d7a27478;False
+бротхерс блацк;brothers black;True
+гн;gn;True
+пробст;probst;True
+восовиц;vosovic;True
+зилери;zileri;True
+етхан;ethan;True
+слееве;sleeve;True
+антипаст;antipast;False
+фантош;fantosh;False
+унцлес;uncles;True
+ландре;landre;False
+прабал;prabal;True
+главмод;glavmod;False
+м.а.к.к.о.;m.a.k.k.o.;False
+десчампс;deschamps;True
+сахар;sahar;True
+блуес;blues;True
+блаине;blaine;True
+ламиавита;lamiavita;False
+трицкер;tricker;False
+артимаглиа;artimaglia;False
+сугархилл;sugarhill;True
+етон;eton;False
+фурланетто;furlanetto;True
+чарманте-стыле;charmante-style;False
+сублевел;sublevel;False
+ловедо;lovedo;False
+мцм;mcm;False
+одабаш;odabash;True
+роцаwеар;rocawear;False
+бен&холлы;ben&holly;False
+бригитте;brigitte;True
+икоо;ikoo;False
+барцело;barcelo;True
+боцлет;boclet;True
+дарбоурсторе;darbourstore;False
+книгхц;knights;False
+бараццо;baracco;True
+летасца;letasca;False
+е4438591-66фф-11е7-80цц-ф46д04аеа3дд;e4438591-66ff-11e7-80cc-f46d04aea3dd;False
+леоца;leoca;False
+783абц11-3560-11е6-80ц6-2ц27д7а27478;783abc11-3560-11e6-80c6-2c27d7a27478;False
+памами;pamami;False
+луцци;lucci;True
+рицардо беверлы;ricardo beverly;True
+антик;antik;True
+но21;no21;False
+порчес;porches;True
+141152ц1-3561-11е6-80ц6-2ц27д7а27478;141152c1-3561-11e6-80c6-2c27d7a27478;False
+хаш;hash;True
+баxтер;baxter;False
+6643а2ад-3560-11е6-80ц6-2ц27д7а27478;6643a2ad-3560-11e6-80c6-2c27d7a27478;False
+флеуретта;fleuretta;False
+сандерсон;sanderson;True
+цроw;crow;True
+95д6аеа0-7145-11е7-80цц-ф46д04аеа3дд;95d6aea0-7145-11e7-80cc-f46d04aea3dd;False
+бурвин;burvin;False
+цомусл;comusl;False
+фц1ф9460-3560-11е6-80ц6-2ц27д7а27478;fc1f9460-3560-11e6-80c6-2c27d7a27478;False
+лыцон;lycon;False
+тоуристер;tourister;True
+адам йонес;adam jones;True
+рыан;ryan;True
+л`енигме;l`enigme;False
+31фдб6д5-3561-11е6-80ц6-2ц27д7а27478;31fdb6d5-3561-11e6-80c6-2c27d7a27478;False
+ц008цебб-3560-11е6-80ц6-2ц27д7а27478;c008cebb-3560-11e6-80c6-2c27d7a27478;False
+артем;artem;True
+рицарда;ricarda;True
+ные;nye;True
+заин;zain;False
+претты;pretty;True
+униqуе;unique;True
+порсче;porsche;False
+8а2д0ф7ф-3560-11е6-80ц6-2ц27д7а27478;8a2d0f7f-3560-11e6-80c6-2c27d7a27478;False
+еугение;eugenie;True
+бе;be;True
+чеап;cheap;True
+ет;et;True
+йоурдан;jourdan;True
+литтле мисс;little miss;True
+хиндмарч;hindmarch;True
+бриц`с;bric`s;False
+6ц40ааб8-3560-11е6-80ц6-2ц27д7а27478;6c40aab8-3560-11e6-80c6-2c27d7a27478;False
+8а2д0ф4ц-3560-11е6-80ц6-2ц27д7а27478;8a2d0f4c-3560-11e6-80c6-2c27d7a27478;False
+qуис;quis;True
+ыу;yu;True
+6643а24ф-3560-11е6-80ц6-2ц27д7а27478;6643a24f-3560-11e6-80c6-2c27d7a27478;False
+елизавецца;elizavecca;False
+киини;kiini;False
+й.бакер;j.baker;True
+цини;cini;True
+севенты;seventy;False
+0е16ацц0-3561-11е6-80ц6-2ц27д7а27478;0e16acc0-3561-11e6-80c6-2c27d7a27478;False
+стылеланд;styleland;False
+ибсо;ibso;False
+гезанне;gezanne;False
+лилибетх оф;lilibeth of;True
+зеан;zean;False
+соцкс;socks;True
+е-wоман;e-woman;False
+71еф9ц98-6700-11е7-80цц-ф46д04аеа3дд;71ef9c98-6700-11e7-80cc-f46d04aea3dd;False
+родолфо;rodolfo;True
+аннетте;annette;True
+хит;hit;True
+ирыа;irya;False
+елизабетх;elizabeth;True
+балди;baldi;True
+бенан;benan;True
+ецко;ecko;False
+россопорпора;rossoporpora;False
+марлы;marly;True
+музи;muzi;True
+картес-мода;kartes-moda;False
+хеллениа;hellenia;False
+счоол;school;True
+цинзиа;cinzia;True
+йохнсон`с;johnson`s;True
+флееце;fleece;True
+симона;simona;True
+таллы;tally;True
+то;to;True
+роы;roy;True
+дЬлуx;d'lux;True
+ои;oi;True
+айиотайе;ajiotaje;False
+с.оливер цасуал;s.oliver casual;True
+габриел;gabriel;True
+ассн.;assn.;True
+вебтоы;vebtoy;False
+катхрин;kathrin;False
+маранда;maranda;False
+цовалди;covaldi;True
+профмаx;profmax;False
+юныа;junya;True
+е9ф407е8-3560-11е6-80ц6-2ц27д7а27478;e9f407e8-3560-11e6-80c6-2c27d7a27478;False
+аппартемент;appartement;True
+6ц40аац1-3560-11е6-80ц6-2ц27д7а27478;6c40aac1-3560-11e6-80c6-2c27d7a27478;False
+xр;xr;False
+елиокап;eliokap;False
+баwер;bawer;False
+180г бы;180g by;True
+порронет;porronet;False
+ителле;itelle;False
+хомерс;homers;True
+катива;kativa;False
+бадалли;badalli;False
+соголи;sogoli;False
+унитед;united;True
+луна;luna;False
+9ц15д95ф-3560-11е6-80ц6-2ц27д7а27478;9c15d95f-3560-11e6-80c6-2c27d7a27478;False
+браы;bray;True
+меили;meili;True
+гонна;gonna;True
+11 бы борис;11 by boris;True
+пост;post;True
+елина;elina;True
+лабиотте;labiotte;False
+ереда;ereda;False
+харды;hardy;True
+кинто;kinto;False
+моу;mou;True
+борго де;borgo de;True
+беллора;bellora;False
+роичен;roichen;False
+норwегиан;norwegian;True
+деуx пар;deux par;True
+репеац;repeats;True
+брегаззи;bregazzi;True
+контрол;kontrol;True
+саwаф;sawaf;True
+апарт сцруфф;apart scruff;True
+ассн;assn;True
+сенсциенце;senscience;False
+wаллс;walls;True
+профессор;professor;True
+хатеиа;hateia;False
+соул;soul;True
+пуцци;pucci;True
+сцервино;scervino;True
+целлцосмет&целлмен;cellcosmet&cellmen;False
+7е32фе7ц-3560-11е6-80ц6-2ц27д7а27478;7e32fe7c-3560-11e6-80c6-2c27d7a27478;False
+цоуррèгес;courrèges;False
+а4б34б7д-ф632-11е6-80ц0-ф46д04аеа3дд;a4b34b7d-f632-11e6-80c0-f46d04aea3dd;False
+дамеррино;damerrino;False
+ави;avi;False
+пункы;punky;True
+ронцато;roncato;False
+тегин;tegin;False
+деним x алеxандер;denim x alexander;True
+даниеле;daniele;True
+фенты;fenty;True
+беберлис;beberlis;False
+783абц34-3560-11е6-80ц6-2ц27д7а27478;783abc34-3560-11e6-80c6-2c27d7a27478;False
+6ц40аа7д-3560-11е6-80ц6-2ц27д7а27478;6c40aa7d-3560-11e6-80c6-2c27d7a27478;False
+мантоуx;mantoux;True
+огисана;ogisana;False
+елиз;eliz;True
+минице;minice;False
+елле фортуна;elle fortuna;True
+20069е0д-3561-11е6-80ц6-2ц27д7а27478;20069e0d-3561-11e6-80c6-2c27d7a27478;False
+еx;ex;True
+пеллецон;pellecon;False
+пхилосопхы ди;philosophy di;True
+у.с поло;u.s polo;True
+парма;parma;True
+аxел;axel;True
+баинс;bains;True
+гавриел;gavriel;True
+диолче;diolche;False
+силк оил оф;silk oil of;True
+ррел;rrel;False
+аракс;araks;False
+чадо;chado;False
+тwо wомен;two women;True
+флот;flot;True
+гиа-марие;gia-marie;True
+счонwерцк;schonwerck;False
+бецы;betsy;False
+бы сусан;by susan;True
+т.багс;t.bags;True
+алессандра;alessandra;True
+ецомист;ecomist;False
+ыонг;yong;True
+геограпхицал;geographical;True
+флф;flf;False
+тоыслаб плаы;toyslab play;True
+др.коффер;dr.koffer;False
+чристофле;christofle;False
+глам;glam;True
+саниано;saniano;False
+цлуб бы;club by;True
+местиери;mestieri;True
+ферретти;ferretti;True
+бурлон кидс;burlon kids;True
+реебок x;reebok x;True
+гоосе делуxе;goose deluxe;True
+праи;prai;False
+делазарро;delazarro;False
+чоцолат;chocolat;True
+саке;sake;True
+йеан де маритх;jean de marith;True
+9ц15д8фд-3560-11е6-80ц6-2ц27д7а27478;9c15d8fd-3560-11e6-80c6-2c27d7a27478;False
+рицетти;ricetti;True
+цастангиа;castangia;False
+пиеро;piero;False
+лоца;loca;False
+царолина;carolina;True
+донателла;donatella;True
+янсон;janson;True
+диснеы елена оф;disney elena of;True
+голден гоосе;golden goose;True
+црафтед®;crafted®;True
+имагинатион;imagination;True
+томассини;tomassini;True
+чамониx;chamonix;True
+гленфиед;glenfied;False
+занотти;zanotti;True
+м2маллетиер;m2malletier;False
+трикобакх;trikobakh;False
+чипие;chipie;False
+шаме;shame;True
+арчы;archy;False
+тхинк;think;True
+7е32фе8ф-3560-11е6-80ц6-2ц27д7а27478;7e32fe8f-3560-11e6-80c6-2c27d7a27478;False
+занариа;zanaria;True
+казуыуки;kazuyuki;True
+терзиан;terzian;True
+маx&мои;max&moi;False
+хубер;huber;False
+тесоро;tesoro;False
+60443829-3560-11е6-80ц6-2ц27д7а27478;60443829-3560-11e6-80c6-2c27d7a27478;False
+спотлигхт;spotlight;False
+ц008цее3-3560-11е6-80ц6-2ц27д7а27478;c008cee3-3560-11e6-80c6-2c27d7a27478;False
+ф0624д1б-9е16-11е8-а960-00155д024еб3;f0624d1b-9e16-11e8-a960-00155d024eb3;False
+марелли;marelli;True
+раы-бан;ray-ban;False
+л.о.л.;l.o.l.;False
+11 бы;11 by;True
+ангел с;angel s;True
+винциане стоувенакер де;vinciane stouvenaker de;True
+гехwол;gehwol;False
+моонстар;moonstar;False
+етудес;etudes;False
+иф онлы;if only;True
+беау ла;beau la;True
+течнок;technok;False
+аравиа;aravia;True
+скины;skiny;False
+баста;basta;True
+рубик;rubik;True
+фуудодо;fuudodo;False
+6643а24д-3560-11е6-80ц6-2ц27д7а27478;6643a24d-3560-11e6-80c6-2c27d7a27478;False
+иЬм;i'm;True
+вест;vest;True
+wу;wu;True
+8а2д0ф71-3560-11е6-80ц6-2ц27д7а27478;8a2d0f71-3560-11e6-80c6-2c27d7a27478;False
+111скин;111skin;False
+пепелино;pepelino;False
+терекхов;terekhov;True
+31фдб6ц4-3561-11е6-80ц6-2ц27д7а27478;31fdb6c4-3561-11e6-80c6-2c27d7a27478;False
+wентwортх;wentworth;True
+бен тавернити унравел;ben taverniti unravel;True
+миниwеар;miniwear;False
+хороша;horosha;False
+тинглеы;tingley;False
+фаби;fabi;False
+x алеxандер;x alexander;True
+тwоол;twool;True
+х4;h4;False
+кипо;kipo;True
+пецора;pecora;True
+604437цц-3560-11е6-80ц6-2ц27д7а27478;604437cc-3560-11e6-80c6-2c27d7a27478;False
+гош;gosh;True
+нилос;nilos;False
+фенты пума бы;fenty puma by;True
+пеоны;peony;False
+ладыстыле;ladystyle;False
+руцолине;rucoline;False
+хосс;hoss;True
+лост ин;lost in;True
+60443819-3560-11е6-80ц6-2ц27д7а27478;60443819-3560-11e6-80c6-2c27d7a27478;False
+цинемоод;cinemood;False
+моосе лилЬ;moose lil';True
+дена;dena;True
+фреуд;freud;True
+симоннот-годард;simonnot-godard;False
+сундаы;sunday;True
+контатто;kontatto;False
+8а2д0фа7-3560-11е6-80ц6-2ц27д7а27478;8a2d0fa7-3560-11e6-80c6-2c27d7a27478;False
+суискин;suiskin;False
+пиера;piera;True
+ау йоур;au jour;True
+деи марми;dei marmi;True
+медини;medini;False
+ласер поwер;laser power;True
+ф62750ба-3560-11е6-80ц6-2ц27д7а27478;f62750ba-3560-11e6-80c6-2c27d7a27478;False
+с® маде;s® made;True
+анналиса;annalisa;True
+604437да-3560-11е6-80ц6-2ц27д7а27478;604437da-3560-11e6-80c6-2c27d7a27478;False
+а4б34б70-ф632-11е6-80ц0-ф46д04аеа3дд;a4b34b70-f632-11e6-80c0-f46d04aea3dd;False
+вилсендент;vilsendent;False
+нифе;nife;False
+ницкелсон;nickelson;False
+аня;anja;True
+г-ром;g-rom;False
+180 бы;180 by;True
+таранко;taranko;False
+фернандез;fernandez;True
+рыЬ;ry';True
+хартwеар;hartwear;False
+г-стар;g-star;True
+куссенковв;kussenkovv;False
+сноwтер;snowter;False
+циана;ciana;True
+аqуилано;aquilano;True
+кеылуцкер;keylucker;False
+ребецца;rebecca;True
+алессио несца;alessio nesca;True
+милады;milady;True
+адидас бы стелла;adidas by stella;True
+цутлер;cutler;True
+бурани;burani;True
+раин;rain;True
+бы ралпх;by ralph;True
+ле-тан;le-tan;True
+царине;carine;True
+рачел;rachel;True
+монцлер&китх;moncler&kith;False
+балби;balbi;False
+тессдресс;tessdress;False
+ласры;lasry;True
+персонаге;personage;False
+унитед цолорс оф;united colors of;True
+хохан;hohan;True
+вал;val;True
+кныазева;knyazeva;True
+серенад;serenad;True
+84434268-58ф2-11е8-а95ц-00155д024еб3;84434268-58f2-11e8-a95c-00155d024eb3;False
+нервуре;nervure;False
+6ц40аа74-3560-11е6-80ц6-2ц27д7а27478;6c40aa74-3560-11e6-80c6-2c27d7a27478;False
+йеан паул;jean paul;True
+моменц;moments;True
+едитед бы;edited by;True
+цанали;canali;False
+морелло;morello;True
+луца;luca;True
+моделеани;modeleani;False
+гарцонс;garcons;True
+дирк;dirk;True
+г19 спорт нон;g19 sport non;True
+фиорони;fioroni;False
+филумена;filumena;False
+мурпхы;murphy;True
+свево;svevo;False
+бы марц;by marc;True
+едитед;edited;True
+боутиqуен;boutiquen;False
+анды;andy;True
+6ц40ааб3-3560-11е6-80ц6-2ц27д7а27478;6c40aab3-3560-11e6-80c6-2c27d7a27478;False
+безко;bezko;False
+соулиерс бы;souliers by;True
+делан;delan;False
+аффензахн;affenzahn;False
+модна;modna;True
+9б59б9ф9-71дф-11е7-80цц-ф46д04аеа3дд;9b59b9f9-71df-11e7-80cc-f46d04aea3dd;False
+алтаиа;altaia;False
+инга;inga;True
+хоммес;hommes;True
+баццарат;baccarat;False
+а.ф.вандеворст;a.f.vandevorst;False
+емануела;emanuela;True
+восцо;vosco;True
+ыохйи;yohji;True
+морганте;morgante;True
+0е16ацц8-3561-11е6-80ц6-2ц27д7а27478;0e16acc8-3561-11e6-80c6-2c27d7a27478;False
+6ц40аада-3560-11е6-80ц6-2ц27д7а27478;6c40aada-3560-11e6-80c6-2c27d7a27478;False
+шаде;shade;True
+аб3цаце1-71е0-11е7-80цц-ф46д04аеа3дд;ab3cace1-71e0-11e7-80cc-f46d04aea3dd;False
+тмк;tmk;False
+далмине;dalmine;False
+силк оил;silk oil;True
+алтузарра;altuzarra;False
+мило;milo;True
+леон&харпер;leon&harper;False
+гхиларо;ghilaro;False
+сомедаысоон;somedaysoon;False
+деним&супплы;denim&supply;True
+ле йеан де;le jean de;True
+пхилисопхы;philisophy;True
+олбе;olbe;False
+моунтаинееринг;mountaineering;True
+лафаыетте;lafayette;True
+раиды;raidy;True
+наоко;naoko;False
+бы малене;by malene;True
+алика;alika;True
+видоли;vidoli;False
+рамаге;ramage;True
+роцца;rocca;True
+бы агнес;by agnes;True
+йохн орчестра;john orchestra;True
+итем;item;True
+неврис;nevris;True
+лазул;lazul;False
+ладылике;ladylike;False
+поетеq;poeteq;False
+цудги;cudgi;False
+мирамод;miramod;False
+адидас оригиналс бы;adidas originals by;True
+модус;modus;False
+салвателли;salvatelli;True
+бы роы;by roy;True
+и пинцо;i pinco;True
+ларионофф;larionoff;False
+сарах;sarah;True
+луx-лоок;lux-look;False
+блеу;bleu;True
+ланти;lanti;False
+тwинсет симона;twinset simona;True
+дербе;derbe;False
+м.и.х;m.i.h;True
+массимо;massimo;True
+чиц;chic;True
+ил;il;True
+ассер;asser;True
+ланг;lang;True
+ц008цец8-3560-11е6-80ц6-2ц27д7а27478;c008cec8-3560-11e6-80c6-2c27d7a27478;False
+цууд;cuud;False
+донггле-донггле;donggle-donggle;False
+сунглассес;sunglasses;True
+бы ла;by la;True
+гарцонс хомме;garcons homme;True
+дориани;doriani;False
+7238ее1д-3560-11е6-80ц6-2ц27д7а27478;7238ee1d-3560-11e6-80c6-2c27d7a27478;False
+тролл;troll;False
+филиппи;filippi;True
+репортер;reporter;True
+цамбру;cambru;True
+м6;m6;True
+леомбруни;leombruni;True
+галлассо;gallasso;True
+парфумеур;parfumeur;True
+д`оро;d`oro;True
+цуддлы соцкс;cuddly socks;True
+ай;aj;True
+wомен ин;women in;True
+ядоне;jadone;True
+мессер;messer;True
+цаф чилдрен фашион;caf children fashion;True
+е3ф6ффд1-3560-11е6-80ц6-2ц27д7а27478;e3f6ffd1-3560-11e6-80c6-2c27d7a27478;False
+цливе;clive;True
+вицци;vicci;True
+wеийл;weijl;True
+саирус;sairus;False
+минна;minna;True
+чилдрен;children;True
+яккс;jakks;True
+навы;navy;True
+оре10;ore10;False
+4631е050-7822-11е7-80цц-ф46д04аеа3дд;4631e050-7822-11e7-80cc-f46d04aea3dd;False
+даниил;daniil;True
+бартек;bartek;False
+примиги;primigi;False
+юун.й;juun.j;False
+мастерминд x;mastermind x;True
+гуардиани;guardiani;True
+никибики;nikibiki;False
+фе;fe;False
+диорисс;dioriss;False
+ы-чромосоме;y-chromosome;False
+панама;panama;True
+ессентиал;essential;False
+фимфи;fimfi;False
+в.wестwоод;v.westwood;True
+моско;mosko;False
+ссвр;ssvr;False
+7е32фе3ц-3560-11е6-80ц6-2ц27д7а27478;7e32fe3c-3560-11e6-80c6-2c27d7a27478;False
+цоллетте бы цоллетте;collette by collette;True
+гатти;gatti;True
+ппцм;ppcm;True
+параллел;parallel;True
+шу;shu;True
+цоллетте;collette;True
+цапобианцо;capobianco;False
+раф;raf;True
+перлитта;perlitta;False
+самира;samira;False
+сее;see;True
+гурская;gurskaja;True
+линардаки;linardaki;True
+пхытомер;phytomer;False
+елиа;elia;False
+бианче;bianche;True
+публиц;public;True
+ленглинг;lengling;False
+ди алберта;di alberta;True
+царусо;caruso;True
+марысиа;marysia;True
+пеwтер;pewter;True
+орлебар;orlebar;True
+бадглеы;badgley;True
+пеллеттиери;pellettieri;True
+деопроце;deoproce;False
+цосмецеутицал;cosmeceutical;True
+функы;funky;False
+мотхер;mother;True
+урбан фашион;urban fashion;True
+wоман;woman;True
+фаворите;favorite;True
+доwн;down;True
+леисуре;leisure;True
+ритз;ritz;True
+тхе фирст;the first;True
+ноос;noos;True
+6643а247-3560-11е6-80ц6-2ц27д7а27478;6643a247-3560-11e6-80c6-2c27d7a27478;False
+ф62750ф3-3560-11е6-80ц6-2ц27д7а27478;f62750f3-3560-11e6-80c6-2c27d7a27478;False
+ирма;irma;True
+081е6970-3561-11е6-80ц6-2ц27д7а27478;081e6970-3561-11e6-80c6-2c27d7a27478;False
+барбед;barbed;False
+цуцинелли;cucinelli;True
+авигал;avigal;True
+цуддлы;cuddly;True
+мабрун;mabrun;False
+луцца;lucca;True
+едуард;eduard;True
+вуалл;vuall;False
+орнати;ornati;False
+021ц9ц80-3561-11е6-80ц6-2ц27д7а27478;021c9c80-3561-11e6-80c6-2c27d7a27478;False
+яцкие;jackie;True
+треасурес;treasures;True
+нарс;nars;False
+йитроис;jitrois;False
+баци-лингерие;baci-lingerie;False
+бис;bis;True
+еспин;espin;True
+бади;badi;True
+олгана;olgana;False
+яцqуелине;jacqueline;True
+ф627509е-3560-11е6-80ц6-2ц27д7а27478;f627509e-3560-11e6-80c6-2c27d7a27478;False
+артwизард;artwizard;False
+гандолфи;gandolfi;True
+кидз;kidz;True
+мара спx;mara spx;True
+ярмон;jarmon;True
+wхс;whs;False
+пето;peto;True
+мцqуеен;mcqueen;True
+яде;jade;True
+деса;desa;False
+буг;bug;True
+2ц00ае65-3561-11е6-80ц6-2ц27д7а27478;2c00ae65-3561-11e6-80c6-2c27d7a27478;False
+симми;simmi;False
+цопенхаген;copenhagen;True
+селлам;sellam;True
+сцрамблед;scrambled;True
+яцк спаде неw;jack spade new;True
+хистоирес;histoires;True
+мауризио;maurizio;True
+чизари;chizari;True
+йозица;jozica;False
+ыро;yro;False
+бони;boni;True
+гауфретте;gaufrette;True
+ыамамото;yamamoto;True
+лоретта;loretta;True
+цомме дес гарцонс;comme des garcons;True
+гаин;gain;True
+тардиа;tardia;True
+импс;imps;True
+фор артЬс;for art's;True
+тм;tm;False
+гцдс;gcds;False
+цоцос;cocos;False
+авалор;avalor;True
+цирри_цирри;cirri_cirri;False
+галлотти;gallotti;False
+пал;pal;True
+ох;oh;True
+фитч;fitch;True
+д.д.стыле;d.d.style;False
+форенбирдие;forenbirdie;False
+петал;petal;True
+гилсон;gilson;True
+софиа;sofia;True
+руббер;rubber;True
+смартеез;smarteez;False
+топ хат;top hat;True
+и.д;i.d;True
+друм;drum;True
+тренды;trendy;True
+горсениа;gorsenia;False
+таылор;taylor;True
 кате спаде неw;kate spade new;True
-плейт;plate
-бомбер;bomber
-милитари;military
-милитейри;military
-маx;max
-макс;max
-блие;blue
-блу;blue
-блуе;blue
-блю;blue
-боско;bosco
-спорт;sport
-рассиа;russia
-раша;russia
-риссиа;russia
-руссиа;russia
-артек;artek
-белла;bella
-марни;marni
-адидас;adidas
-бест;best
-валентино;valentino
-армани;armani
-скинни;skinny
-денайм;denim
-деним;denim
-монклер;moncler
-персона;persona
-габбана;gabbana
-кензо;kenzo
-челси;chelsea
-марк;marc
-корнелиани;corneliani
-монтале;montale
-шанель;chanel
-премиум;premium
-оксфорд;oxford
-бампер;bumper
-бумпер;bumper
-аласка;alaska
-мастер;master
-мастэр;master
-мэстэр;master
-сандол;sandal
-лаура;laura
-класна;clasna
-оливер;oliver
-палио;palio
-мадцерини;madzerini
-триумф;triumph
-неохит;neohit
-акаста;acasta
-геокс;geox
-фелличчи;fellicci
-помпа;pompa
-шарк;shark
-фабретти;fabretti
-пинко ап;pinko
-реали;reali
-прада;prada
-вагабонд;vagabond
-мандарин;mandarin
-марко;marco
-дизель;diesel
-мустанг;mustang
-репаблик;republic
-труссарди;trussardi
-фурла;furla
-лакост;lacoste
-карго;cargo
-фредди;freddy
-кельвин;calvin
-кальвин;calvin
-фиато;fiato
-фьято;fiato
-скетчерс;skechers
-балдинини;baldinini
-каное;canoe
-элеганзза;eleganzza
-элеганца;eleganzza
-ретро;retro
-комфорт;comfort
-тимберлэнд;timberland
-комбез;comboez
-комбоез;comboez
-саинт;saint
-сейнт;saint
-барселона;barcelona
-барцелона;barcelona
-патрол;patrol
-томас;thomas
-клевер;clever
-клэвер;clever
-цлевер;clever
-викинг;viking
-смарт;smart
-китти;kitty
-аргент;argent
-лухта;luhta
-ванс;vans
-венс;vans
-ромика;romika
-мэджик;magic
-асикс;asics
-максвал;maxval
-нордик;nordic
-конте;conte
-цонте;conte
-рибок;reebok
-марвел;marvel
-космо;cosmo
-морган;morgan
-актив;active
-эктив;active
-стандард;standard
-стэндэрт;standard
-пиреймид;pyramid
-тефаль;tefal
-барбара;barbara
-конверс;converse
-конвёрс;converse
-конверсе;converse
-семпер;semper
-манго;mango
-сплат;splat
-стеллар;stellar
-хэппи;happy
-хаппи;happy
-хеппи;happy
-алпин;alpine
-алпине;alpine
-альпин;alpine
-элпине;alpine
-еxперт;expert
-эксперт;expert
-скотт;scott
-баффало;buffalo
-аризона;arizona
-мелроуз;melrose
-бруно;bruno
-тамарис;tamaris
-бугатти;bugatti
-стретч;stretch
-некст;next
-тоцци;tozzi
-нюанс;nuance
-тиффани;tiffany
-тиффаны;tiffany
-фелина;felina
-софтшелл;softshell
-каппа;kappa
-барака;baraka
-докерс;dockers
-скаут;scout
-сейломон;salomon
-палас;palace
-палаце;palace
-пэлас;palace
-релаx;relax
-релакс;relax
-касадеи;casadei
-баслер;basler
-сиприме;supreme
-супреме;supreme
-суприм;supreme
-суперстар;superstar
-ованти;ovanti
-барберри;burberry
-берберри;burberry
-гучи;gucci
-гуччи;gucci
-фенди;fendi
-ричмонд;richmond
-байредо;byredo
-лавелле;lavelle
-лавель;lavelle
-гласслок;glasslock
-глэсслок;glasslock
-борнер;borner
-фрайбест;frybest
-фрайбэст;frybest
-симен;simen
-метрот;metrot
-селена;selena
-багнола;bagnola
-баньола;bagnola
-херно;herno
-калорик;kalorik
-аэрософт;aerosoft
-монари;monari
-белл;bell
-боско фреш;bosco fresh
-боско спорт;bosco sport
-марина ринальди;marina rinaldi
-макс мара;max mara
-эрманно сцервино;ermanno scervino
-эрмано шервино;ermanno scervino
-иль гуфо;il gufo
-марина спорт;marina sport
-бобби браун;bobbi brown
-альберта ферретти;alberta ferretti
-альберта феретти;alberta ferretti
-том форд;tom ford
-ральф лорен;ralph lauren
-пако рабанне;paco rabanne
-котик;miu miu
-миу миу;miu miu
-артем кривда;artem krivda
-артём кривда;artem krivda
-карл лагерфельд;karl lagerfeld
-барбара бьюи;barbara bui
-тара жармон;tara jarmon
-марк джейкобс;marc jacobs
-марк якобс;marc jacobs
-джил сандер;jil sander
-эмпорио армани;emporio armani
-ла перла;la perla
-леонор грейл;leonor greyl
-роза клара;rosa clara
-хуго босс;hugo boss
-хьюго босс;hugo boss
-ред валентино;red valentino
-карен миллен;karen millen
-стоун айланд;stone island
-кира пластинина;kira plastinina
-босс оранж;boss orange
-аль франко;al franco
-антонио дидоне;antonio didone
-де ла;de la
-де ля;de la
-дю лэ;de la
-де ла мани;de la manie
-том тейлор;tom tailor
-тоска блю;tosca blu
-лаура бьянка;laura bianca
-фред перри;fred perry
-фрэд пэрри;fred perry
-хилфайгер деним;hilfiger denim
-хилфигер деним;hilfiger denim
-кельвин кляйн;calvin klein
-кельвил кляйн;calvin klein
-ребекка минкофф;rebecca minkoff
-томми хилфигер;tommy hilfiger
-мандарина дак;mandarina duck
-альфа индастриз;alpha industries
-альфа индастрис;alpha industries
-кавалли класс;cavalli class
-нью баланс;new balance
-веро мода;vero moda
-джог дог;jog dog
-аляска оригинале;alaska originale
-аляска ориджинале;alaska originale
-лоро пиана;loro piana
-лоро пиано;loro piana
-лоро пьяна;loro piana
-лоро пьяно;loro piana
-кристиан диор;christian dior
-делла киана;della ciana
-делла сиана;della ciana
-блу севен;blue seven
-блуе сэвен;blue seven
-блю севен;blue seven
-ангри бердс;angry birds
-энгри бёрдз;angry birds
-энгри бердс;angry birds
-энгри бёрдс;angry birds
-марко тоцци;marco tozzi
-фиора блуе;fiora blue
-фьора блу;fiora blue
-фьора блю;fiora blue
-филипп плейн;philipp plein
-филипп пляйн;philipp plein
-донна каран;donna karan
-канада гуз;canada goose
-канада гус;canada goose
-кэнада гуз;canada goose
-канада гооcе;canada goose
-соня рикель;sonia rykiel
-виа аппиа;via appia
-маноло бланик;manolo blahnik
-диана фон фюрстенберг;diane von furstenberg
-лола палтингер;lola paltinger
-лолапалтинджер;lola paltinger
-лола палтинджер;lola paltinger
-асикс тайгер;asics tiger
-асикс тигер;asics tiger
-сара керн;sarah kern
-майкл корс;michael kors
-мисс сиксти;miss sixty
-сальваторе феррагамо;salvatore ferragamo
-ла рик;la ric
-эрика каваллини;erika cavallini
-серджио росси;sergio rossi
-боттега венета;bottega veneta
-зак позен;zac posen
-альберто гуардиани;alberto guardiani
-эмилио пуччи;emilio pucci
-ле силла;le silla
-ле лабо;le labo
-сен лоран;saint laurent
-сен лорен;saint laurent
-франки морелло;frankie morello
-драйс ван нотен;dries van noten
-дрис ван нотен;dries van noten
-амина рубиначчи;amina rubinacci
-фрателли роззетти;fratelli rossetti
-роберто кавалли;roberto cavalli
-мартин марджиела;martin margiela
-ла мартина;la martina
-нина риччи;nina ricci
-иль тренино;il trenino
-зухаир мурад;zuhair murad
-пал зилери;pal zileri
-маисон скотч;maison scotch
-майзон скотч;maison scotch
-рита пфеффингер;rita pfeffinger
-альфредо паули;alfredo pauly
-елена вера;helena vera
-хелена вера;helena vera
-манна кадар;manna kadar
-томас рабе;thomas rabe
-томас рэби;thomas rabe
-лилли беннет;lilly bennet
-спарк драм;spark drum
-виа венето;via veneto
-ева камбру;eva cambru
-ева камбрю;eva cambru
-эва камбру;eva cambru
-виа аппиа ду;via appia due
-виа аппиа дуэ;via appia due
-фор ол мэнкаинд;for all mankind
-аб данс;ab dance
-аб дансе;ab dance
-аб дэнс;ab dance
-акне студиос;acne studios
-эдд даун;add down
-аэронавтика милитаре;aeronautica militare
-аэронаутика милитаре;aeronautica militare
-аэронавтика милитари;aeronautica militare
-аймо ричли;aimo richly
-альберто биани;alberto biani
-альдо коппола;aldo coppola
-алессандра шамони;alessandra chamonix
-алессандра шамоникс;alessandra chamonix
-алессандра занариа;alessandra zanaria
-александр де пари;alexandre de paris
-александре де парис;alexandre de paris
-алина герман;alina german
-американ ретро;american retro
-американ туристер;american tourister
-андреа монтельпаре;andrea montelpare
-андреа нери;andrea neri
-адриано гольдшмидт;adriano goldschmied
-ангела капути;angela caputi
-анн демельмейстер;ann demeulemeester
-энн демеулемеестер;ann demeulemeester
-анна молинаре;anna molinare
-анна славутина;anna slavutina
-анна кляйн;anne klein
-анне клейн;anne klein
-анне кляйн;anne klein
-анна валери хаш;anne valerie hash
-аннетт хоффманн;annette hoffmann
-аннетте хоффманн;annette hoffmann
-антонио берарди;antonio berardi
-антонио маррас;antonio marras
-антони морато;antony morato
-энтони морато;antony morato
-аззура грончи;azzurra gronchi
-бэби диор;baby dior
-бэйби диор;baby dior
-беате йонен;beate johnen
-беате йохнен;beate johnen
-блэк орчид;black orchid
-бленд схе;blend she
-бленд ши;blend she
-блу лемон;blue lemon
-блуе лемон;blue lemon
-блуе лимон;blue lemon
-блю лемон;blue lemon
-блумарин бэйби;blumarine baby
-блумарине бэби;blumarine baby
-блюмарин бэйби;blumarine baby
-блюмарине бэби;blumarine baby
-браун аллан;brown allan
-бруно манетти;bruno manetti
-бруно росси;bruno rossi
-каролина херрера;carolina herrera
-каролина эррера;carolina herrera
-шарлотта биалас;charlotte bialas
-ситизенс оф хьюманити;citizens of humanity
-клевер каттер;clever cutter
-клевер лок;clever lock
-клэвер локк;clever lock
-клив кристиан;clive christian
-коллет динниган;collette dinnigan
-калорс оф калифорниа;colors of california
-колор оф калифорния;colors of california
-корнелиани айди;corneliani id
-корнелиани ид;corneliani id
-корнельяни айди;corneliani id
-коттон клаб;cotton club
-кристина дал лаго;cristina dal lago
-кристина даль лаго;cristina dal lago
-даль лаго;dal lago
-катлер энд гросс;cutler and gross
-дал лаго клаб;dal lago club
-дал лаго клуб;dal lago club
-даль лаго клаб;dal lago club
-даль лаго клуб;dal lago club
-дэниел восовик;daniel vosovic
-даниэле карлотта;daniele carlotta
-дармон милано;darmon milano
-дас магише мессер;das magische messer
-давид чарлес;david charles
-дэвид чарлес;david charles
-дэвид чарльс;david charles
-дэвид лернер;david lerner
-дед мит;dead meat
-деи колли;dei colli
-дей колли;dei colli
-дельфине мурат;delphine murat
-дерек лэм;derek lam
-диор бэби;dior baby
-диор бэйби;dior baby
-дирк биккембергс;dirk bikkembergs
-др брандт;dr brandt
-эмануэль унгаро;emanuel ungaro
-эмфази пелле;emfasi pelle
-эмфаси пелле;emfasi pelle
-энза коста;enza costa
-евгения ким;eugenia kim
-эугениа ким;eugenia kim
-экс нихило;ex nihilo
-фалиеро сарти;faliero sarti
-федерика моретти;federica moretti
-фелдер фелдер;felder felder
-фиато дрим;fiato dream
-фьято дрим;fiato dream
-филипе соуса;filipe sousa
-филипе суса;filipe sousa
-файндерс киперс;finders keepers
-франк боклет;franck boclet
-франко феррари;franco ferrari
-габриэле пасини;gabriele pasini
-гамелиа экспериенс;gamelia experience
-голд банни;gold bunny
-грета константин;greta constantine
-гельмут ланг;helmut lang
-хельмут ланг;helmut lang
-пауле ка;paule ka
-холи кафтан;holy caftan
-хосс интропиа;hoss intropia
-хауз оф;house of
-хоусе оф;house of
-изола маррас;isola marras
-ио пелле;io pelle
-исса лондон;issa london
-кангра кашмере;kangra cashmere
-кангра кашмир;kangra cashmere
-кисси кисси;kissy kissy
-клара кипо;klara kipo
-кристина ти;kristina ti
-кьюр базар;kure bazaar
-ла коллин;la colline
-ла рейн бланш;la reine blanche
-лаура биагиотти;laura biagiotti
-лаура биаджиотти;laura biagiotti
-ле гуигнол;le guignol
-ле гуиньол;le guignol
-ле мараис;le marais
-ле пандорин;le pandorine
-лил парис;lil paris
-лили гауфретте;lili gaufrette
-лили гофретт;lili gaufrette
-лили петрус;lili petrus
-лайон оф порчес;lion of porches
-лион оф порчес;lion of porches
-литл марк якобс;little marc jacobs
-литтл марк джакобс;little marc jacobs
-лиу джо;liu jo
-лиу йо;liu jo
-лиу джо спорт;liu jo sport
-лиу йо спорт;liu jo sport
-лиу джо уомо;liu jo uomo
-лиу йо уомо;liu jo uomo
-лм парфюмс;lm parfums
-лайк ит;like it
-люка де монте;luca de monte
-луиги борелли;luigi borrelli
-луиза беккариа;luisa beccaria
-мад алмадал;mad almadal
-маисон эспин;maison espin
-майзон эсрин;maison espin
-мейсон франсис куркджан;maison francis kurkdjian
-майсон маргела;maison margiela
-мейсон улленс;maison ullens
-марго шмитт;margot schmitt
-маргот шмитт;margot schmitt
-мариа сантангело;maria santangelo
-мария сантангело;maria santangelo
-мариа сантангело наполи;maria santangelo napoli
-мария сантангело наполи;maria santangelo napoli
-мариелла бурани;mariella burani
-марлис мюллер;marlies moller
-мэри катранзу;mary katrantzou
-мэри катрантцу;mary katrantzou
-массимо сантини;massimo santini
-максмара пианофорте;maxmara pianoforte
-ми ми сол;mi mi sol
-ми ми соль;mi mi sol
-мишель бинда;michele binda
-мила шон;mila schon
-мисс блюмарин;miss blumarine
-мисс грант;miss grant
-мкт студио;mkt studio
-эмкейти студио;mkt studio
-модалу ландон;modalu london
-модалу лондон;modalu london
-моло кидс;molo kids
-монтелпаре традишн;montelpare tradition
-монтельпар традисьон;montelpare tradition
-монтельпаре традитион;montelpare tradition
-нил барретт;neil barrett
-неро перла;nero perla
-ники макфарлане;nicki macfarlane
-ники макфарлейн;nicki macfarlane
-норма камали;norma kamali
-он коурс;on course
-он курс;on course
-онитсука тайгер;onitsuka tiger
-онитсука тигер;onitsuka tiger
-оницука тайгер;onitsuka tiger
-ороблу либерти;oroblu liberti
-ороблю либерти;oroblu liberti
-оскар де ла рента;oscar de la renta
-оскар де ля рента;oscar de la renta
-паула кадемартори;paula cademartori
-перлс мелоди;pearls melody
-питер пилотто;peter pilotto
-филип кингсли;philip kingsley
-филиппе феррандис;philippe ferrandis
-филиппе модел;philippe model
-пьетро брунелли;pietro brunelli
-поллини студио;pollini studio
-поло ральф лорен;polo ralph lauren
-пост кард;post card
-премиата вилл би;premiata will be
-премиата уилл би;premiata will be
-пресс дом;press dome
-пресс доме;press dome
-пресс лид;press lid
-прингл оф скотланд;pringle of scotland
-профессор амос;professor amos
-профюмум рома;profumum roma
-квис квис;quis quis
-куис куис;quis quis
-радикал шик;radical chic
-разгуляев благонравова;razgulyaev blagonravova
-рене фуртерер;rene furterer
-реа коста;rhea costa
-рхеа коста;rhea costa
-рик оуэнс;rick owens
-роберт фридман;robert friedman
-роберт фриедман;robert friedman
-роберта фурланетто;roberta furlanetto
-роберта гандольфи;roberta gandolfi
-роберта скарпа;roberta scarpa
-роберто дель карло;roberto del carlo
-рожа дав;roja dove
-роланд мурет;roland mouret
-рю ду мэйл;rue du mail
-рю дю мэйл;rue du mail
-руперт сандерсон;rupert sanderson
-рикел энфант;rykiel enfant
-рикель анфан;rykiel enfant
-рикель енфант;rykiel enfant
-сан блас;san blas
-сэнд копенгаген;sand copenhagen
-сэнд копенхаген;sand copenhagen
-серапиан милано;serapian milano
-сергио белотти;sergio belotti
-сержио белотти;sergio belotti
-сермонета главз;sermoneta gloves
-сермонета глоувс;sermoneta gloves
-силк ойл оф морокко;silk oil of morocco
-силвер рид;silver reed
-сильвер рид;silver reed
-согни соффичи;sogni soffici
-соньи соффиси;sogni soffici
-соньи соффичи;sogni soffici
-спиритуал гангстер;spiritual gangster
-спиричуал гэнгстер;spiritual gangster
-спортмакс код;sportmax code
-стефан янсон;stephan janson
-стив мадден;steve madden
-стори лорис;story loris
-студио би;studio b
-сьюзан эрман;suzanne ermann
-сюзан эрманн;suzanne ermann
-сюзанне эрманн;suzanne ermann
-сильви шиммель;sylvie schimmel
-тартин э шокола;tartine et chocolat
-тартин э шоколя;tartine et chocolat
-тартине эт шоколат;tartine et chocolat
-темперли лондон;temperley london
-синк чик;think chic
-тхинк чик;think chic
-том тэйлор деним;tom tailor denim
-тори берч;tory burch
-тру тридишн;true tradition
-труе традитион;true tradition
-тру традишн;true tradition
-алтимо каса;ultimo casa
-ултимо каса;ultimo casa
-юнайтед калорс оф бенеттон;united colors of benetton
-юнайтед колорс оф бенеттон;united colors of benetton
-вал макс;val max
-вэл макс;val max
-вэл мэкс;val max
-валери престиж;valery prestige
-веггетти про;veggetti pro
-веро куоио;vero cuoio
-вибратион белт;vibration belt
-вибрейшн бэлт;vibration belt
-вибрэйшн белт;vibration belt
-вилла болгери;villa bolgheri
-вилья болгери;villa bolgheri
-вильшенко москоу;vilshenko moscow
-витторио эмануеле;vittorio emanuele
-воиле бланш;voile blanche
-воль бланш;voile blanche
-вуаль бланш;voile blanche
-ватер зум;water zoom
-вотер зум;water zoom
-уотер зум;water zoom
-вандер мастер;wonder master
-уандер мастер;wonder master
-игаль азруэль;yigal azrouel
-зое карссен;zoe karssen
-гуардини;guardini
-гвардини;guardini
-нобранд;nobrand
-ноубренд;nobrand
-ноубрэнд;nobrand
-стайлетикс;styletics
-у-3;y-3
-айланд;island
-ленер;lener
-чапурин;chapurin
-о.икс.эс;o.x.s.
-о.х.с;o.x.s.
-лабел;label
-лэйбл;label
-гоурметмакс;gourmetmaxx
-гурмэмакс;gourmetmaxx
-гурмэмахх;gourmetmaxx
-нике;nike
-найк;nike
-версус;versus
-боороо;booroo
-буру;booroo
-стренессе;strenesse
-бикембергс;bikkembergs
-биккембергс;bikkembergs
-вивиенн;vivienne
-вивиенне;vivienne
-фор;for
-полароид;polaroid
-палароид;polaroid
-паларойд;polaroid
-поляроид;polaroid
-петрус;petrus
-петрюс;petrus
-монтбланк;montblanc
-монтбланц;montblanc
-фаворит;favorit
-фабрицио;fabrizio
-хг;hg
-эйчджи;hg
-эйч джи;hg
-капо;capo
-фром;from
-пастаклин;pastaclean
-еа7;ea7
-роро;roro
-мм6;mm6
-джонс;jones
-луи.джо;lui.jo
-каос;kaos
-металак;metalac
-пепе джинс;pepe jeans
-джакквес;jacques
-пиренекс;pyrenex
-др себа;dr.sebagh
-рей;ray
-паул энд джое;paul & joe
-поль энд джо;paul & joe
-гиакоморелли;giacomorelli
-пресс;press
-изомерс;isomers
-исомерс;isomers
-кашарель;cacharel
-хауз;house
-хоусе;house
-менбур;menbur
-медикал;medical
-медицал;medical
-бланк;blanc
-лалеас;laleas
-лалис;laleas
-эрик;eric
-мари;marie
-блюгерл;blugirl
-сокони;saucony
-сэн;san
-сан;san
-джулиус;julius
-симетри;symetrie
-брэнд;brand
-универсе;universe
-юниверсе;universe
-ровента;rowenta
-равента;rowenta
-гудс;goods
-дуджолие;dujolie
-дюджоли;dujolie
-дюжоли;dujolie
-атлетик;athletic
-мэйсон'с;mason's
-пейдж;paige
-де;de
-дэ;de
-одри;odri
-иро;iro
-бриони;brioni
-джо;joe
-аллюд;allude
-олимпиа;olympia
-олымпиа;olympia
-нанан;nanan
-санидорм;sanidorm
-зе фифс;the fifth
-тинселс;tinsels
-но;no
-чарлес;charles
-чарльз;charles
-олаплекс;olaplex
-пустовит;poustovit
-грин;green
-греен;green
-гриин;green
-акуа;acqua
-аскуа;acqua
-ацква;acqua
-бакирубати;bacirubati
-басирубати;bacirubati
-бачирубатти;bacirubati
-солудос;soludos
-солюдос;soludos
-мичел;michel
-левис;levi's
-селин;céline
-зе норс;the north
-изимакс;easymaxx
-изимахх;easymaxx
-куранни;curanni
-лаволта;lavolta
-лавольта;lavolta
-свелтус;sveltus
-бердс;birds
-бирдс;birds
-мануш;manoush
-марк;mark
-лайн;line
-лине;line
-бургмайстер;burgmeister
-бургмейстер;burgmeister
-эксплорер;explorer
-роланд;roland
-малградо;malgrado
-синк;cinque
-ориадес;oryades
-оруадес;oryades
-наполи;napoli
-баы;bay
-бэй;bay
-хавайанас;havaianas
-ингланд;england
-энгланд;england
-норвег;norveg
-флай;fly
-флы;fly
-ванс;ones
-онес;ones
-уанс;ones
-ресерч;research
-ресирч;research
-бальман;balmain
-бэлмэйн;balmain
-клинмакс;cleanmaxx
-клинмахх;cleanmaxx
-берлингтон;burlington
-бёрлингтон;burlington
-бурлингтон;burlington
-парах;parah
-воx;vox
-вокс;vox
-а-к-р-и-с;a-k-r-i-s
-гаетанонаварра;gaetanonavarra
-пеопле;people
-пиопл;people
-пипл;people
-л.с.б.;l.c.b.
-эль.си.би;l.c.b.
-вулфскин;wolfskin
-гран;gran
-грана;gran
-грано;gran
-аззурра;azzurra
-азура;azzurra
-азурра;azzurra
-стетсон;stetson
-ерибе;eribe
-эрайб;eribe
-эрибе;eribe
-вранглер;wrangler
-кристал;cristal
-кристалл;cristal
-кристаль;cristal
-цристал;cristal
-мантова;mantova
-вебер;weber
-вейбир;weber
-ривер;river
-пароле;parole
-вита;vita
-стефанел;stefanel
-стефанель;stefanel
-герл;girl
-ив саломон;yves salomon
-сполдинг;spalding
-ки-вэй;k-way
-филипс;philips
-пфилипс;philips
-пхилипс;philips
-филлипс;philips
-дольче;dolce
-малолес;maloles
-палм;palm
-старс;stars
-стартс;stars
-тру;true
-тайм- ту-дресс;time-to-dress
-престидж;prestige
-велудакис;veloudakis
-смитсон;smythson
-дав;dove
-дове;dove
-яна;jana
-агонист;agonist
-менард;menard
-4кук;4cook
-форкук;4cook
-фоуркук;4cook
-еигхт;eight
-эйт;eight
-маркоболонья;marcobologna
-айрин;irin
-ирин;irin
-коламбиа;columbia
-колумбиа;columbia
-хармонт&блаине;harmont&blaine
-хэрмонт энд блэйн;harmont&blaine
-солинген;solingen
-таун;town
-товн;town
-а.тестони;a.testoni
-фалкотто;falcotto
-фалькотто;falcotto
-эдж;edge
-закконе;zaccone
-аморе;amore
-клин-тек;klin-tec
-паул;paul
-палладиум;palladium
-ланком;lancome
-роданиа;rodania
-родания;rodania
-кэндишоп;candyshop
-картезиа;cartesia
-картесиа;cartesia
-кромиа;cromia
-паррот;parrot
-пэррот;parrot
-ти ви эс;tvs
-пэникейл;panicale
-ультру;ultru
-чери;cherie
-шери;cherie
-шарп;sharp
-австралиа;australia
-аустралиа;australia
-эдишн10;edition10
-wолф;wolf
-волф;wolf
-уолф;wolf
-кариока;carioca
-бронкс;bronx
-флер;fleur
-хлои;chloé
-цоста;costa
-моа;moa
-дьемме;diemme
-коач;coach
-коуч;coach
-граце;grace
-фрапен;frapin
-фрапин;frapin
-фрейпин;frapin
-моретти;moretti
-альберотанца;alberotanza
-рокко;rocco
-роццо;rocco
-стреллсон;strellson
-реплей;replay
-реплэй;replay
-риплэй;replay
-лна;lna
-леплас;leplas
-нюд;nude
-клинели;cleanelly
-клинелли;cleanelly
-лагерфельд;lagerfeld
-лаб;lab
-квинси;quincy
-куинси;quincy
-кипсейк;keepsake
-лабс;labs
-джой;joie
-джойе;joie
-ба&ш;ba&sh
-бутик;butik
-джозеф;joseph
-джосеф;joseph
-ричард;richard
-зе;the
-баленсиага;balenciaga
-поис;pois
-пуа;pois
-три;three
-пол смит;paul smith
-гуам;guam
-коломбо;colombo
-соломбо;colombo
-цоломбо;colombo
-сенсай;sensai
-монстер;monster
-флорентина;florentina
-флоринтина;florentina
-ван;van
-йанг;young
-фламбианс;flambiance
-фламбиансе;flambiance
-фламбьанс;flambiance
-модел;model
-виа;via
-фреш;fresh
-ловер;lover
-александре.джей;alexandre.j
-пенниблэк;pennyblack
-шадаззл;shadazzle
-бомбуги;bomboogie
-бомбуджи;bomboogie
-мусо;muso
-свилденс;swildens
-ориджиналс;originals
-ориджинолс;originals
-джинс;jeans
-нолого;nologo
-маисон;maison
-мейсон;maison
-бланче;blanche
-хофман;hoffmann
-хофманн;hoffmann
-хоффман;hoffmann
-хоффманн;hoffmann
-блад;blood
-эн12эйч;n12h
-ватер;water
-вотер;water
-уотер;water
-джайлс;giles
-скарпа;scarpa
-памилла;pamilla
-себастьян;sebastian
-пассигатти;passigatti
-май;my
-дондап;dondup
-аврора;aurora
-аурора;aurora
-браун;brown
-китон;kiton
-флиорадж;flioraj
-фльораж;flioraj
-оскар;oscar
-осцар;oscar
-о.с.а;o.c.a
-альфа;alpha
-аспеси;aspesi
-джекерсон;jeckerson
-вандербра;wonderbra
-вондербра;wonderbra
-уандербра;wonderbra
-пруденс;prudence
-икс-байк;x-bike
-экс-байк;x-bike
-эстель;estel
-компани;company
-компени;company
-цомпаны;company
-лемон;lemon
-лимон;lemon
-фьюжн;fusion
-мариа;maria
-кокка;kocca
-косса;kocca
-проджект;project
-карон;caron
-клоузд;closed
-баллантайн;ballantyne
-этро;etro
-манту;mantu
-хоум;home
-хоме;home
-клиник;clinique
-беауте;beaute
-бьюте;beaute
-скин;skin
-кио;kyo
-куо;kyo
-ли;lee
-викэнд;weekend
-нумеро;numero
-задиг&вольтер;zadig&voltaire
-авиу;aviu
-бэйби;baby
-боадицея;boadicea
-ц;c
-родригес;rodriguez
-родригуез;rodriguez
-соттокоперта;sottocoperta
-хаски;husky
-торино;torino
-драйкорн;drykorn
-оригинал;original
-ориджинал;original
-ориджинол;original
-эмсикью;mcq
-валери;valery
-блак;black
-блэк;black
-блек;black
-инвизибоббл;invisibobble
-инвисибоббле;invisibobble
-карло;carlo
-царло;carlo
-вайт;white
-врайт;white
-вхите;white
-wхите;white
-новембер;november
-кампомагги;campomaggi
-кампомаджи;campomaggi
-твин;twin
-брукс бразерс;brooks brothers
-р+ко;r+co
-рич&роял;rich&royal
-николас;nicolas
-ницолас;nicolas
-перла;perla
-нотици;notizie
-ванг;wang
-вонг;wang
-эмилио;emilio
-дайсон;dyson
-дусон;dyson
-дысон;dyson
-дисон;dyson
-инверни;inverni
-голден;golden
-релиш;relish
-мартин;martin
-натурино;naturino
-мекс;mexx
-онли;only
-бисибидженерейшн;bcbgeneration
-бисибидженерэйшн;bcbgeneration
-бсбдженерейшн;bcbgeneration
-браккиалини;braccialini
-брассиалини;braccialini
-браччиалини;braccialini
-акса;axa
-аха;axa
-бак;back
-гиамба;giamba
-роса;rosa
-дзенья;zegna
-ив;eva
-эва;eva
-силк;silk
-федели;fedeli
-лабо;labo
-коте;cote
-акне;acne
-трувор;truvor
-с.оливер;s.oliver
-лейтмотив;leitmotiv
-таглиаторе;tagliatore
-тальяторе;tagliatore
-классик;classic
-цлассиц;classic
-малберри;mulberry
-пи эр уай эм;prym
-прим;prym
-кокоша;kokosha
-эквипмент;equipment
-норс;north
-вайталмэкс;vitalmaxx
-виталмакс;vitalmaxx
-исайя;isaia
-сбс;sbc
-эс би си;sbc
-голд;gold
-вилла;villa
-дорин;dorin
-барбор;barbour
-барбоур;barbour
-барбур;barbour
-зддз;zddz
-зет ди ди зет;zddz
-балли;bally
-фэшн;fashion
-гламороус;glamorous
-гламорус;glamorous
-брэндт;brandt
-вальмонт;valmont
-ветементс;vetements
-ветмо;vetements
-нью;new
-нев;new
-мириам кеведо;miriamquevedo
-инуово;inuovo
-инюово;inuovo
-трикси;trixie
-элис+оливия;alice+olivia
-мисс;miss
-бафф;buff
-буфф;buff
-рауль;raoul
-нашен;nation
-нейшн;nation
-эльдорадо;eldorado
-альто;alto
-алто;alto
-баджон;bajon
-байон;bajon
-бахон;bajon
-бэджон;bajon
-бэйон;bajon
-инфинити;infinity
-инфиниты;infinity
-ангели;angeli
-анджели;angeli
-стрит;street
-гиоттино;giottino
-джиоттино;giottino
-рокуе;roque
-рокью;roque
-галло;gallo
-гайо;gallo
-беллагио;bellagio
-белладжио;bellagio
-беллажио;bellagio
-ман;man
-мулинекс;moulinex
-йеллоу;yellow
-хлое;chloe
-нотифай;notify
-гта;gta
-алайя;alaia
-а;a
-поллини;pollini
-моорер;moorer
-мурер;moorer
-арнетте;arnette
-3лаб;3lab
-мира;mira
-мано;mano
-р95тх;r95th
-эр95ти эйч;r95th
-том;tom
-валли;valli
-джуси;juicy
-краз;cruz
-бленд;blend
-папа;papa
-трозани;trosani
-тросани;trosani
-риваге;rivage
-риваж;rivage
-кадрилатеро;qadrilatero
-мома;moma
-рич;rich
-лонгшамп;longchamp
-черч'с;church's
-сьюл;thule
-тьюл;thule
-йелли;jelly
-желли;jelly
-свиссджетал;swissgetal
-траст;trust
-ивес;yves
-нориалли;noryalli
-джувиа;juvia
-амефа;amefa
-хеиди;heidi
-мелоди;melody
-ерма;erma
-эрма;erma
-санетта;sanetta
-лав;love
-лов;love
-лове;love
-лоф;love
-гимо'с;gimo's
-гимос;gimo's
-ангри;angry
-энгри;angry
-коллекшн;collection
-коллектион;collection
-коллекшен;collection
-цоллецтион;collection
-морнинг;morning
-студио;studio
-итакли;itakli
-унгаро;ungaro
-хоумдикс;homedics
-скотч энд сода;scotch&soda
-рене;rene
-дана;dana
-кастелло;castello
-цастелло;castello
-хсе24;hse24
-эйчэсе24;hse24
-люблю;lublu
-рома;roma
-хершель;herschel
-энд;and
-анд;and
-миссоттен;missotten
-аир;air
-эир;air
-эйр;air
-ноло;nolo
-гразиа;grazia
-грэзиа;grazia
-максимо;maximo
-аппл;apple
-эпл;apple
-эппл;apple
-джианни;gianni
-лайт;light
-лигхт;light
-делла;della
-дила;della
-дэлла;della
-хеарц;hearts
-айин;in
-ин;in
-американ;american
-джокка;jocca
-премьер;premier
-виктор&рольф;viktor&rolf
-грахам;graham
-грэхэм;graham
-ла;la
-эскада;escada
-стелла;stella
-барлейкорн;barleycorn
-барликорн;barleycorn
-файнера;finera
-финера;finera
-финэра;finera
-софаскинс;sofaskins
-манеби;manebi
-а—мере—ко;a—mere—co
-олсен;olsen
-ольсен;olsen
-ритратти;ritratti
-десигн;design
-дизэйн;design
-дисайн;design
-казио;casio
-касио;casio
-тайа;taya
-суперфайн;superfine
-ламы;lamy
-пеарл;pearl
-перл;pearl
-дакс;daks
-сибергер;seeberger
-сиберджер;seeberger
-алкотт;alcott
-алькот;alcott
-олкотт;alcott
-кукинелла;cucinella
-кучинелла;cucinella
-гурмэ;gourmet
-ализи;alysi
-алиси;alysi
-якобс;jacobs
-шиатти;schiatti
-делуxе;deluxe
-делюкс;deluxe
-дэлих;deluxe
-москоу;moscow
-эделзейт;edelzeit
-эн 21;n°21
-эн°21;n°21
-дром;drome
-корта;korta
-реине;reine
-рейин;reine
-кристис;christies
-вон;von
-инсайт;insight
-пирекс;pyrex
-пюрекс;pyrex
-аб;ab
-эпикал;epiqual
-джанеке;janeke
-ханеке;janeke
-янеке;janeke
-дисней;disney
-мо&ко;mo&co
-халстон;halston
-бэркли;barclay
-инкотекс;incotex
-ап;up
-юп;up
-феррари;ferrari
-асх;ash
-аш;ash
-эш;ash
-вибрапауэр;vibrapower
-ирфе;irfe
-бетти;betty
-ланаформ;lanaform
-бисон;bison
-зейбра;zeybra
-зибра;zeybra
-азе;athe
-атхе;athe
-пианофорте;pianoforte
-еаси;easi
-иси;easi
-лалик;lalique
-твинс;twins
-пхилиппе;philippe
-филипе;philippe
-филиппе;philippe
-параджамперс;parajumpers
-монреал;monreal
-монреаль;monreal
-коттон;cotton
-пума;puma
-аньона;agnona
-маы;may
-катя;catya
-сатиа;catya
-джаст;just
-жаст;just
-юст;just
-альтеа;altea
-виллиам;william
-уиллиам;william
-пикар;picard
-пикард;picard
-моллер;moller
-моллэр;moller
-екверри;equerry
-экверри;equerry
-ембе;embe
-эмбе;embe
-шаров;sharov
-пити01;pt01
-пт01;pt01
-фокс;fox
-скинеанс;skineance
-скинианс;skineance
-холи;holy
-холы;holy
-иви;ivi
-ллойд;lloyd
-мет;met
-веспуччи;vespucci
-кортиджиани;cortigiani
-шоу;show
-санкоо;suncoo
-санку;suncoo
-хёгл;högl
-хогл;högl
-вилебрекуин;vilebrequin
-эмси;mc
-кларинс;clarins
-пеутерей;peuterey
-пьутерей;peuterey
-пьютерей;peuterey
-везувиа;vesuvia
-зест;zest
-цест;zest
-фридомдэй;freedomday
-гианфранцо;gianfranco
-гиафрнко;gianfranco
-платинум;platinum
-луиги;luigi
-луиджи;luigi
-депеш;depeshe
-иннуе;innue
-инню;innue
-китчен;kitchen
-маисонкве;maisonque
-майзонкве;maisonque
-лумеско;lumesso
-люмеско;lumesso
-гламстори;glamstory
-глэмстори;glamstory
-спортмакс;sportmax
-нуаник;nuanique
-нуаникве;nuanique
-белфе;belfe
-куксо;kuxo
-сомниа;somnia
-реплэй энд санс;replay&sons
-риплей энд сонс;replay&sons
-риплэй энд санс;replay&sons
-миа;mia
-шайк;shaik
-херитаге;heritage
-херитедж;heritage
-херитейдж;heritage
-литтл;little
-портолано;portolano
-эво;evo
-берлингот;berlingot
-тек;tech
-теч;tech
-крид;creed
-ди;di
-море;more
-арнуво;arnouveau
-барена;barena
-гриджиоперла;grigioperla
-ланкастер;lancaster
-андервеар;underwear
-допплер;doppler
-мр&мрс;mr&mrs
-самсонайт;samsonite
-самсонит;samsonite
-самсоните;samsonite
-малиция;malizia
-леррос;lerros
-пайнайдер;pineider
-феллинберг;fellinberg
-джекоб;jacob
-якоб;jacob
-яцоб;jacob
-родарте;rodarte
-куро;kuro
-шланкштуц;schlankstutz
-викториа;victoria
-виктория;victoria
-вицториа;victoria
-вайлд;wild
-вилд;wild
-мархаттер;marhatter
-амуаж;amouage
-розапоис;rosapois
-пети;petit
-серколо;circolo
-сёрколо;circolo
-сирколо;circolo
-джиани;giani
-кручинани;cruciani
-жан;jean
-жин;jean
-йеан;jean
-айс;ice
-р.крешентини;r.crescentini
-скотч;scotch
-хэппинесс;happiness
-маркеза;marchesa
-римова;rimowa
-парадесса;paradessa
-линеа;linea
-тайгер;tiger
-тигер;tiger
-тиджер;tiger
-фраас;fraas
-рокси;roxy
-г.пасини;g.pasini
-дж.пасини;g.pasini
-гиусти;giusti
-жуисти;giusti
-жусти;giusti
-вулрич;woolrich
-розиау;rousseau
-роуссеау;rousseau
-канадиан;canadian
-кэнэдиан;canadian
-лоран;laurent
-лорен;laurent
-сандро;sandro
-айсберг;iceberg
-роуал;royal
-роыал;royal
-роял;royal
-свон;swan
-реико;reiko
-рейко;reiko
-изи;easy
-флёранж;fleurange
-флеуранге;fleurange
-флоранж;fleurange
-ахуху;ahuhu
-хауте;haute
-алдо;aldo
-альдо;aldo
-ланвин;lanvin
-веро;vero
-гала-гала;gala-gala
-рапаро;raparo
-файн;fine
-фине;fine
-дорф;dorff
-дорфф;dorff
-мадейра;madeira
-про;pro
-бай;by
-д.а.т.е;d.a.t.e.
-кидс;kids
-гант;gant
-брозерс;brothers
-бротхерс;brothers
-оранге;orange
-оранж;orange
-монткаротте;montcarotte
-боонпа;boonpa
-бунпа;boonpa
-пенфилд;penfield
-пэнфилд;penfield
-принкесс;princess
-принцесс;princess
-лаббра;labbra
-беаюкмуи;beayukmui
-марио;mario
-мерио;mario
-мэрио;mario
-зауберхафт;zauberhaft
-цауберхафт;zauberhaft
-цоберхафт;zauberhaft
-б.йанг;b.young
-б.уоунг;b.young
-би.йанг;b.young
-мои;moi
-арт;art
-эрт;art
-борсалино;borsalino
-вивис;vivis
-бесилент;besilent
-дарлинг;darling
-истпак;eastpak
-истпэк;eastpak
-сэндвич;sandwich
-шоес;shoes
-шуз;shoes
-сол.инге;sol.inge
-соль.инже;sol.inge
-зибеон;zibeon
-напапиджри;napapijri
-напапижри;napapijri
-напапийри;napapijri
-дольче&габбана;dolce&gabbana
-эссенке;essence
-эссенс;essence
-делсей;delsey
-делси;delsey
-гесс;guess
-милли;milly
-крупс;krups
-канна;kanna
-сент;st
-ст;st
-кросс;cross
-бона;bona
-бермуда;bermuda
-шисейдо;shiseido
-потс;potts
-поттс;potts
-потц;potts
-давид;david
-дэвид;david
-е;e
-акрис;akris
-флориане;floriane
-лес;les
-нюмф;nümph
-паджар;pajar
-натирал;natural
-натурал;natural
-натурэл;natural
-рик;rick
-лалтрамода;laltramoda
-парис;paris
-пэрис;paris
-гироначчи;gironacci
-джироначчи;gironacci
-лайк;like
-пазини;pasini
-пасини;pasini
-деад;dead
-д'оро;d'oro
-ами;ami
-соу;so
-супердрай;superdry
-анджел;angel
-эйнлжел;angel
-нина;nina
-форгивнесс;4giveness
-лоеве;loewe
-монтекоре;montecore
-виблес;weebles
-уиблс;weebles
-риналди;rinaldi
-симонетта;simonetta
-раер;raer
-мале;male
-мейл;male
-селектед;selected
-мерк;merc
-кларкс;clarks
-гуз;goose
-гусе;goose
-павони;pavoni
-хуит;huit
-хюит;huit
-инитио;initio
-джооп;joop
-джуп;joop
-шантель;chantelle
-лансел;lancel
-ланцел;lancel
-хилфигер;hilfiger
-смит;smith
-смис;smith
-виоланти;violanti
-виветта;vivetta
-хартфорд;hartford
-креа;crea
-меркулес;mercules
-д амико;d'amico
-д'амико;d'amico
-вериччи;vericci
-эшли;ashley
-теори;theory
-тиори;theory
-дел;del
-андерсонс;anderson's
-твинсет;twinset
-гай;guy
-гуи;guy
-томболини;tombolini
-пенсофал;pensofal
-кова&т;kova&t
-акваззура;aquazzura
-коллонил;collonil
-диадора;diadora
-систерс;sisters
-угг;ugg
-свимс;swims
-плас;plus
-плус;plus
-плюс;plus
-диэр;dr
-др;dr
-хюд;hyd
-эйчвайди;hyd
-эйчуайди;hyd
-вондер;wonder
-уондер;wonder
-олви'c;olvi`s
-роче;roche
-роше;roche
-абро;abro
-юнион;union
-бланча;blancha
-алетта;aletta
-силк н;silk'n
-силк эн;silk'n
-винтаге;vintage
-винтадж;vintage
-винтедж;vintage
-эдун;edun
-каррера;carrera
-лардини;lardini
-джоттум;jottum
-флаумфидер;flaumfeder
-бенч;bench
-атлантик;atlantic
-атлантиц;atlantic
-этлантик;atlantic
-маре;mare
-баланс;balance
-бэлэнс;balance
-норд;nord
-джокей;jockey
-жокей;jockey
-пиквадро;piquadro
-религион;religion
-релиджен;religion
-релиджион;religion
-изола;isola
-исола;isola
-фалке;falke
-фальке;falke
-лакоса;lakosa
-бейонд;beyond
-беыонд;beyond
-рокас;rochas
-рочас;rochas
-андреа;andrea
-мджус;mjus
-мйус;mjus
-кимс;kims
-йорк;york
-уорк;york
-ыорк;york
-сисли;sisley
-гемма;gemma
-джемма;gemma
-дживанши;givenchy
-живанши;givenchy
-тэйлор;tailor
-моосе;moose
-мус;moose
-дас;das
-плей;play
-кочинелли;coccinelle
-виалман;vialman
-офф вайт;off-white
-офф-вайт;off-white
-альтерна;alterna
-томми;tommy
-его;ego
-эго;ego
-барток;bartoc
-натионал;national
-национал;national
-грациаллиани;grazia'lliani
-роуз;rose
-фефе;fefe
-смайл;smile
-смиле;smile
-фоссил;fossil
-микронесс;mikronesse
-микронессе;mikronesse
-гальяно;galliano
-дискваред2;dsquared2
-дим;dim
-неро;nero
-ниро;nero
-джек;jack
-джо'c;joe's
-ди кей эн уай;dkny
-дкну;dkny
-джи-стар роу;g-star raw
-серутти;cerruti
-катерпиллар;caterpillar
-мантин;mountain
-маунтин;mountain
-моунтаин;mountain
-лекомт;lecomte
-лекомте;lecomte
-дино;dino
-а.с.98;a.s.98
-марзи;marzi
-марци;marzi
-пауэр;power
-повэр;power
-поwер;power
-повер;power
-хелло;hello
-паул энд шарк;paul&shark
-пол энд шарк;paul&shark
-поль энд шарк;paul&shark
-миссури;missouri
-алтер;alter
-буракян;burakuyan
-клаб;club
-экоэгг;ecoegg
-рёкл;roeckl
-роекл;roeckl
-рокл;roeckl
-лондон;london
-твенти8твелв;twenty8twelve
-монтеземоло;montezemolo
-монтецемоло;montezemolo
-мэйд;made
-и;&
-энд;&
-шай;shy
-босс;boss
-пиерре;pierre
-пьерр;pierre
-косметикс;cosmetics
-цосметицс;cosmetics
-апарт;apart
-деха;deha
-пьюр;pure
-москино;moschino
-герлен;guerlain
-стелла джин;stella jean
-унее+о;unee+o
-бридге;bridge
-бридж;bridge
-моссморе;mossmore
-кепе;chepe
-чепе;chepe
-чип;chepe
-тиби;tibi
-кэжуал;casual
-р.маунтин;r.mountain
-р.моунтайн;r.mountain
-эр.маунтайн;r.mountain
-концепт;concept
-силвер;silver
-сильвер;silver
-тоаст;toast
-тост;toast
-девернуа;devernois
-битс;beats
-готье2;gaultier2
-нинетта;ninetta
-фонтанелли;fontanelli
-франск;franck
-францк;franck
-картье;cartier
-тхес;thes
-биотерм;biotherm
-колмар;colmar
-кольмар;colmar
-форнарина;fornarina
-кархер;karcher
-карчер;karcher
-керхер;karcher
-кёрхер;karcher
-ороблу;oroblu
-ороблю;oroblu
-клейн;klein
-кляйн;klein
-фэмили;family
-вераге;verage
-вераж;verage
-вирадж;verage
-ворлд;world
-уорлд;world
-хаке;hache
-шатулле;schatulle
-лоренза;lorenzo
-лорензо;lorenzo
-вайлдфокс;wildfox
-дистанте;distante
-лук этд тук;look&took
-п.а.р.о.ш;p.a.r.o.s.h.
-джон;john
-гауди;gaudi
-суперга;superga
-масквенада;masquenada
-аннабелла;annabella
-раг&боун;rag&bone
-миу;miu
-стар;star
-ай.код;i.code
-ай.коде;i.code
-ай.коуд;i.code
-н21;n21
-сжип;sjyp
-эс джей уай пи;sjyp
-гранат;granat
-александер макквин;alexander mcqueen
-александр маккуин;alexander mcqueen
-биби;bibi
-бровне;browne
-броуне;browne
-неил;neil
-нил;neil
-бальдан;baldan
-бимбало;bimbalo
-ара;ara
-оне;one
-уан;one
-впро;wpro
-дабл ю про;wpro
-док;doc
-лайон;lion
-лион;lion
-антон;anton
-элевенпарис;elevenparis
-пити05;pt05
-пт05;pt05
-униса;unisa
-юниса;unisa
-барбера;barbera
-рок;rock
-эдд;add
-ким;kim
-мен;men
-мэн;men
-диор;dior
-мсгм;msgm
-дог;dog
-анолд;unold
-унолд;unold
-форд;ford
-форт;ford
-кезаре;cesare
-цесаре;cesare
-птафф;pfaff
-виллиамс;williams
-д.спорт;d.sport
-алл;all
-олл;all
-пол&джо;paul&joe
-миллер;miller
-гас;gas
-селф-пртрэйт;self-portrait
-миссони;missoni
-бирюков;biryukov
-вог;vogue
-вогуе;vogue
-воуг;vogue
-вок;vogue
-воук;vogue
-ханссоп;hanssop
-хэнссоп;hanssop
-татеоссиан;tateossian
-виллоза;villosa
-виллоса;villosa
-соонсаем;soonsaem
-сунсаем;soonsaem
-сунсэм;soonsaem
-фрателли;fratelli
-эрбориан;erborian
-хаммер;hammer
-вичини;vicini
-филлес;filles
-лафаббрикаделлино;lafabbricadellino
-мон;mon
-рэд;red
-ред;red
-деи;dei
-галлусси;gallucci
-галлуччи;gallucci
-мелисса;melissa
-сингер;singer
-трукко;trucco
-трюкко;trucco
-оуенс;owens
-оуэнс;owens
-овенс;owens
-роберто;roberto
-волфорд;wolford
-вулфорд;wolford
-вайсдомини;vicedomini
-грант;grant
-грент;grant
-полис;police
-балдесарини;baldessarini
-балдессарини;baldessarini
-сантони;santoni
-бирибимби;biribimbi
-колорс;colors
-каррел;carrel
-каррэл;carrel
-кэррел;carrel
-фабер-кастелл;faber-castell
-жан де;jean de
-жеан де;jean de
-джеан де;jean de
-аймак;imac
-имак;imac
-джет;jet
-мави;mavi
-алис;alice
-элис;alice
-ичи;ichi
-версаче;versace
-жур;jour
-фрагнанс;fragrance
-фрагранке;fragrance
-фелмини;felmini
-фельмини;felmini
-монте;monte
-урбан;urban
-юрбан;urban
-сансетто;sansetto
-бен;ben
-бьюти-эль;beauty-l
-оф;of
-мало;malo
-каприс;caprice
-дами;dami
-мей;mey
-коммодоре;commodore
-циммерманн;zimmermann
-карактере;caractere
-рас;ras
-колабурра;koolaburra
-фредерик;frederic
-хилс;hills
-хиллс;hills
-скинн;skinn
-наори;naory
-конти;conti
-креатив;creative
-креативе;creative
-криэйтив;creative
-цреативе;creative
-бвлгари;bvlgari
-булгари;bvlgari
-bulgari;bvlgari
-легенд;legend
-ледженд;legend
-доо.ри;doo.ri
-курапро;curaprox
-курапрокс;curaprox
-беаути;beauty
-бьюти;beauty
-боти;beauty
-братмакс;bratmaxx
-братмахх;bratmaxx
-гиусеппе;giuseppe
-глюзеппе;giuseppe
-орибе;oribe
-боглиоли;boglioli
-джузеппе занотти;giuseppe zanotti
-манудиеки;manudieci
-манудьеки;manudieci
-дукс;dux
-дюкс;dux
-каса;casa
-цаса;casa
-беарпоу;bearpaw
-файндерс;finders
-финдерс;finders
-серге;serge
-серж;serge
-максвелл;maxwell
-свисс;swiss
-сwисс;swiss
-роберт;robert
-регина;regina
-тхиерры;thierry
-тьерри;thierry
-мандалэй;mandalay
-патрициа;patrizia
-макс&ко;max&co
-изабель маран;isabel marant
-сорель;sorel
-брилетта;brilletta
-бриллетта;brilletta
-санд;sand
-сэнд;sand
-мад;mad
-мэд;mad
-эггс;eggs
-эллиатт;elliatt
-дезигуал;desigual
-дезигуаль;desigual
-микроб;microbe
-микробе;microbe
-кларис;claris
-фейс;face
-фаче;face
-сиксти;sixty
-хубигант;houbigant
-согни;sogni
-ле;le
-юр;your
-радикал;radical
-рейдикол;radical
-карвен;carven
-беллефонтейн;bellefontaine
-елафор;elafor
-элафор;elafor
-нативе;native
-нэйтив;native
-нэтив;native
-фиорелли;fiorelli
-фьорелли;fiorelli
+салваторе;salvatore;True
+профумум;profumum;True
+униформс фор тхе;uniforms for the;True
+7 фор алл;7 for all;True
+елдер;elder;True
+андреw;andrew;True
+цаф;caf;True
+монсоон;monsoon;False
+алена;alena;True
+меллизос;mellizos;False
+боутиqуе;boutique;True
+хомиес;homies;False
+бао бао иссеы;bao bao issey;True
+мдф;mdf;False
+молеги;molegi;False
+францо;franco;True
+мер;mer;True
+а ла;a la;True
+мериелл цлуб;meriell club;True
+лоро;loro;True
+цреатионс;creations;True
+пхилосопхы ди лорензо;philosophy di lorenzo;True
+вилатте;vilatte;False
+осерее;oseree;False
+а.w.а.к.е.;a.w.a.k.e.;False
+катрус;katrus;False
+дреам макерс-боард;dream makers-board;True
+тф;tf;True
+wиллиамсон;williamson;True
+180г бы ницолас;180g by nicolas;True
+wебстер;webster;True
+задорина;zadorina;True
+маниатис;maniatis;True
+брандон;brandon;True
+е3ф6ффф4-3560-11е6-80ц6-2ц27д7а27478;e3f6fff4-3560-11e6-80c6-2c27d7a27478;False
+мимму;mimmu;False
+верониqуе;veronique;True
+миллефиори;millefiori;False
+бубс;bubs;True
+лесы бы лисетта;lesy by lisetta;True
+алеxа;alexa;False
+аоки;aoki;True
+пер те бы;per te by;True
+зерона;zerona;False
+камали;kamali;True
+модгы;modgy;False
+цолинЬс;colin's;False
+форте деи марми;forte dei marmi;True
+иодасе;iodase;False
+лове-елецтрониц;love-electronic;True
+яцqуелине де;jacqueline de;True
+буллцрафт;bullcraft;False
+хуиларган;huilargan;False
+сониа;sonia;True
+д&г;d&g;False
+6643а261-3560-11е6-80ц6-2ц27д7а27478;6643a261-3560-11e6-80c6-2c27d7a27478;False
+дице;dice;True
+грати;grati;True
+амина;amina;True
+киссы;kissy;True
+солоwеар;solowear;False
+оамц;oamc;False
+зарина;zarina;False
+пункqуеен;punkqueen;False
+цры;cry;True
+солес;soles;True
+воыаге бы марина;voyage by marina;True
+еффа;effa;False
+мылике;mylike;False
+204а98це-58ед-11е8-а95ц-00155д024еб3;204a98ce-58ed-11e8-a95c-00155d024eb3;False
+баон;baon;False
+лилЬ;lil';True
+царлотта;carlotta;True
+премиата wилл;premiata will;True
+степхане;stephane;True
+xаризмас;xarizmas;False
+пер;per;True
+марго;margo;False
+натаыаким;natayakim;False
+6643а26б-3560-11е6-80ц6-2ц27д7а27478;6643a26b-3560-11e6-80c6-2c27d7a27478;False
+цапони;caponi;True
+милитаре;militare;True
+мое;moe;False
+бумбы;bumby;True
+9ц15д8ее-3560-11е6-80ц6-2ц27д7а27478;9c15d8ee-3560-11e6-80c6-2c27d7a27478;False
+бутрым;butrym;True
+сергеева бы;sergeeva by;True
+фрауд;fraud;True
+нима;nima;False
+бацон;bacon;False
+франкие;frankie;True
+счиммел;schimmel;True
+мериелл;meriell;True
+имоген;imogen;False
+наф;naf;True
+гурунг;gurung;True
+счоулер;schouler;True
+марцо де;marco de;True
+фоксы;foksy;True
+терранова;terranova;False
+ламбоника;lambonika;False
+грунге йохн;grunge john;True
+флавио;flavio;True
+есисто;esisto;False
+кошакова;koshakova;False
+отто;otto;False
+перрицоне;perricone;True
+4751дф62-бф16-11е7-80д6-ф46д04аеа3дд;4751df62-bf16-11e7-80d6-f46d04aea3dd;False
+цонтемпорары;contemporary;True
+чоо;choo;True
+д2;d2;True
+рогерс;rogers;True
+магнанни;magnanni;False
+суно;suno;False
+беццариа;beccaria;True
+естéе;estée;True
+сааб;saab;True
+лоуес;loues;True
+даминика;daminika;False
+цатх;cath;True
+беы;bey;True
+604437ц2-3560-11е6-80ц6-2ц27д7а27478;604437c2-3560-11e6-80c6-2c27d7a27478;False
+оттотредици;ottotredici;True
+метео бы;meteo by;True
+шоопом;shoopom;False
+маррушка;marrushka;False
+наталы;nataly;True
+броокс бротхерс блацк;brooks brothers black;True
+брандлы;brandly;False
+цастанер бы;castaner by;True
+якиоо;jakioo;False
+тхе qуеен оф;the queen of;True
+зипит;zipit;False
+елецтрастыле;electrastyle;False
+моцца;mocca;False
+604437ф4-3560-11е6-80ц6-2ц27д7а27478;604437f4-3560-11e6-80c6-2c27d7a27478;False
+паолетти;paoletti;False
+еуропа;europa;True
+сцраббле;scrabble;False
+цаф чилдрен;caf children;True
+плеинаир;pleinair;False
+скинфоод;skinfood;False
+ае11б689-3560-11е6-80ц6-2ц27д7а27478;ae11b689-3560-11e6-80c6-2c27d7a27478;False
+фроу;frou;True
+белвест;belvest;False
+казумыан;kazumyan;True
+ыулиыа;yuliya;True
+604437ц7-3560-11е6-80ц6-2ц27д7а27478;604437c7-3560-11e6-80c6-2c27d7a27478;False
+монналиса;monnalisa;False
+финаморе;finamore;True
+сацаи;sacai;False
+шацу;shatsu;True
+касс;kass;True
+нанушка;nanushka;False
+нудие;nudie;True
+668а83б8-дбф6-11е7-80д6-ф46д04аеа3дд;668a83b8-dbf6-11e7-80d6-f46d04aea3dd;False
+манетти;manetti;True
+инуикии;inuikii;False
+сеттыЬс;setty's;True
+сарриери;sarrieri;True
+гуаш;guash;False
+панталони;pantaloni;True
+чиара;chiara;True
+цомме дес;comme des;True
+цариба;cariba;False
+еварае;evarae;False
+габриеле;gabriele;True
+тавернити;taverniti;True
+йоли;joli;False
+кынуриа;kynuria;False
+оленны;olenny;False
+пасотти;pasotti;True
+цанни;canni;False
+нарцисо;narciso;True
+в&а;v&a;False
+партицулиер;particulier;True
+дркшдw бы рицк;drkshdw by rick;True
+агио-з;agio-z;False
+лакби;lakbi;False
+ноисы;noisy;True
+ше;she;True
+гиг;gig;True
+ре;re;True
+уф;uf;False
+гроунд-зеро;ground-zero;False
+wестwоод;westwood;True
+604437бф-3560-11е6-80ц6-2ц27д7а27478;604437bf-3560-11e6-80c6-2c27d7a27478;False
+сиx;six;True
+лемлем;lemlem;False
+биззы;bizzy;True
+динниган;dinnigan;True
+сенси;sensi;True
+санаыи313;sanayi313;False
+виртуале фур;virtuale fur;True
+ка;ka;True
+ефтелыа;eftelya;False
+кеико;keiko;True
+вентони;ventoni;True
+цомпагниа;compagnia;True
+вонфлаибач;vonflaibach;False
+георге;george;True
+росселла;rossella;True
+прпс;prps;False
+тони;toni;True
+гф;gf;True
+моосе биззы;moose bizzy;True
+081е6933-3561-11е6-80ц6-2ц27д7а27478;081e6933-3561-11e6-80c6-2c27d7a27478;False
+мицаллеф;micallef;True
+редоуте;redoute;True
+юлиет;juliet;True
+донис;donis;True
+5е6фац04-а9б1-11е7-80д6-ф46д04аеа3дд;5e6fac04-a9b1-11e7-80d6-f46d04aea3dd;False
