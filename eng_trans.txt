@@ -61,3 +61,4 @@ high:хай
 brew:брю
 loreal:лореаль
 longue:лонг
+marlborough:мальборо

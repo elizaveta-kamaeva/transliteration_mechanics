@@ -2,6 +2,18 @@ from collections import OrderedDict
 from mechanics.Repl import replacer
 
 
+def trans_separate(word):
+    single_letters_dict = {'\Ab\Z':'би', '\Ac\Z':'си', '\Ad\Z':'ди', '\Af\Z':'эф',
+                           '\Ag\Z':'джи', '\Ah\Z':'эйч', '\Aj\Z':'джей', '\Ak\Z':'кей',
+                           '\Al\Z':'эль', '\Am\Z':'эм', '\An\Z':'эн', '\Ap\Z':'пи',
+                           '\Aq\Z':'кью', '\Ar\Z':'эр', '\As\Z':'эс', '\At\Z':'ти',
+                           '\Av\Z':'ви', '\Aw\Z':'дабл ю', '\Ax\Z':'икс', '\Az\Z':'зед',
+                           '\Aa\Z':'эй', '\Ao\Z':'оу', '\Ai\Z':'ай', '\Au\Z':'ю',
+                           '\Ae\Z':'и', '\Ay\Z':'вай'}
+    new_word = replacer(word, single_letters_dict)
+    return new_word
+
+
 def trans_words(word, eng_repls):
     words_dict = {}
     for pair in eng_repls:
@@ -74,7 +86,8 @@ def trans_literals(word):
 
 
 def process(word, eng_file):
-    words_replaced = trans_words(word, eng_file)
+    sg_letters_replaced = trans_separate(word)
+    words_replaced = trans_words(sg_letters_replaced, eng_file)
     long_ngrams_replaced = trans_long_ngrams(words_replaced)
     condit_ngrams_replaced = trans_conditional(long_ngrams_replaced)
     short_ngrams_replaced = trans_short_ngrams(condit_ngrams_replaced)
