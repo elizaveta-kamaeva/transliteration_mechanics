@@ -25,7 +25,7 @@ def trans_words(word, eng_repls):
 
 def trans_long_ngrams(word):
     long_ngrams_dict = {'ay':'ей','[ao]ught':'от', 'ueu':'е',
-                        'you':'ю', 'chr':'кр'}
+                        'you':'ю', 'chr':'кр', 'scq':'ск'}
     new_word = replacer(word, long_ngrams_dict)
     return new_word
 

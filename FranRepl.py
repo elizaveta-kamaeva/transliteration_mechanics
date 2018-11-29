@@ -4,9 +4,9 @@ from mechanics.Repl import replacer
 
 def trans_long_ngrams(word):
     long_ngrams_dict = OrderedDict({
-        'beaut':'бьют', 'eau':'о', 'gnie':'йн',
-        'ouge':'уж', 'oix':'уа', 'oux':'о',
-        'qu[eéè]\Z':'к', 'ch':'ш'})
+        'eaux\Z':'о', 'beaut':'бьют', 'eau':'о',
+        'gnie':'йн', 'agne':'ейн', 'ouge':'уж', 'oix':'уа',
+        'oux':'о', '(?<=\w)qu[eéè]\Z':'к', 'ch':'ш'})
     new_word = replacer(word, long_ngrams_dict)
     return new_word
 
@@ -16,6 +16,7 @@ def trans_conditional(word):
         '\Ales\Z':'ле', '\Ac':'к',
         '\A[eéè](?![euioayéèàù-])':'э',
         '\Aeu':'ев', 'u[eéè]u':'е',
+        'ieu\Z':'ью',
         'u[eéè]\Z':'ью', 'gi[eéè]\Z':'ж',
         'nc[eéè]\Z':'нс',
         'g\Z':'ж','z\Z':'ц', 'y\Z':'и',

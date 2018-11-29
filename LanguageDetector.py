@@ -14,7 +14,7 @@ def it_trailer(word):
     it_maygrams = {'[euioa]c[euioa]\w*[euioa]\Z',
                    'z\w*[euioa]\Z'}
 
-    it_stopgrams = {'[^euioay]{3}', 'up', '[^euioay]\Z'}
+    it_stopgrams = {'[^euioayzctplsr]{3}', 'up', '[^euioay]\Z'}
 
     it_prob = trail(word, it_ngrams, it_maygrams, it_stopgrams)
     return it_prob
@@ -47,12 +47,12 @@ def de_trailer(word):
                  'mann\Z', 'gut', 'burg'}
 
     de_maygrams = {'[euioa]{2}.*[^eouia \'-]{3}.*[eouia]{2}',
-                   '[^euioa(ch) \'-]{3}\Z',
+                   '[^euioa(ch) \'-]{3}\Z', 'rau\Z',
                    '[^euioay -]en\Z', '[^euioay -]ern\Z',
                    '[^euioay -]z', 'z[^euioay -]',
                    'eich', 'ein'}
 
-    de_stopgrams = {'x', 'y', 'tion', '[eiaou]{2}\Z', 'light'}
+    de_stopgrams = {'x', 'y', 'tion', '[eiaou]{3}\Z', 'light'}
 
     de_prob = trail(word, de_ngrams, de_maygrams, de_stopgrams)
     return de_prob
@@ -60,16 +60,17 @@ def de_trailer(word):
 
 def fr_trailer(word):
     fr_ngrams = {'[euioa]{3}',
-                 'ouch', 'eur', 'ance',
+                 '[euioa]{2}\w+[euioa]{2}\w',
+                 'ouch', 'eur', 'ance', 'agne\Z',
                  'ngie\Z', 'gnie\Z', 'oix\Z', 'ux\Z', 'oir\Z',
                  "\Ad'", "\Al'", '\Ala\Z', '\Ale\Z',
                  'bell', 'lacoste',
                  '\A?les\Z', '\Ale\Z', '\Adu\Z', '\Ade\Z', '\Aet\Z',
                  'é', 'è', 'à', 'ù', 'que',
                  'ê', 'â', 'ô', 'î', 'û',
-                 'ë', 'ï', 'ü', 'ÿ', 'ç'}
+                 'ë', 'ï', 'ü', 'ÿ', 'ç', 'à'}
 
-    fr_maygrams = {'\Ala\w+[euioay]{2}', 'gue',  '\wou(?!gh)',
+    fr_maygrams = {'\Ala\w+[euioay]{2}', 'gue',  '\wou(?!gh)', 'ou[^euioa -][euioa][^euioa]\Z',
                    'ch\w*[euioay]{2}', 'au\Z'}
 
     fr_stopgrams = {'sh', 'w', 'you', 'house', 'round'}
@@ -78,12 +79,27 @@ def fr_trailer(word):
     return fr_prob
 
 
+def lat_trailer(word):
+    lat_ngrams = {'a\Z', 'u[ms]\Z', 'ae\Z'}
+
+    lat_maygrams = {'c', 'x'}
+
+    lat_stopgrams = {'sh', 'w',
+                     'é', 'è', 'à', 'ù', 'que',
+                     'ê', 'â', 'ô', 'î', 'û',
+                     'ë', 'ï', 'ü', 'ÿ', 'ç', 'à'}
+
+    lat_prob = trail(word, lat_ngrams, lat_maygrams, lat_stopgrams)
+    return lat_prob
+
+
 def process(word):
     start_time = time()
     word = re.sub('\d+([-\',.]\d+)?', '', word)
     prob_list = [it_trailer(word), de_trailer(word),
-                 fr_trailer(word), jp_trailer(word)]
-    lang_list = ['ita', 'ger', 'fra', 'jap']
+                 fr_trailer(word), jp_trailer(word),
+                 lat_trailer(word)]
+    lang_list = ['ita', 'ger', 'fra', 'jap', 'lat']
     max_prob = max(prob_list)
     if max_prob < 1:
         word_lang = 'en'

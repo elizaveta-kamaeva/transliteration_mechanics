@@ -3,6 +3,7 @@ import FranRepl
 import ItaRepl
 import GerRepl
 import JapRepl
+import LatRepl
 import EngRepl
 
 
@@ -17,6 +18,8 @@ def delegator(lang, word, eng_repls):
         trans_word = GerRepl.process(word)
     elif lang == 'jap':
         trans_word = JapRepl.process(word)
+    elif lang == 'lat':
+        trans_word = LatRepl.process(word)
     else:
         trans_word = EngRepl.process(word, eng_repls)
     duration = time() - start_time
