@@ -9,9 +9,9 @@ for infile_path in argv[1:]:
     raw_lines = infile.readlines()
     infile.close()
 
-    eng_file = open('eng_trans.txt', 'r', encoding='utf-8')
-    ready_lines, n, periods = Processor.process(raw_lines, eng_file.readlines())
-    eng_file.close()
+
+    ready_lines, n, periods = Processor.process(raw_lines)
+
 
     outfile = open('texts\\' + infile_path.replace('.txt', '-trans.csv'), 'w', encoding='utf-8')
     outfile.write('raw_word;trans;\n')

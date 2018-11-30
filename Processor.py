@@ -4,7 +4,23 @@ import LanguageDetector
 import SpecRepl
 
 
-def process(raw_lines, eng_repls):
+def translit(word):
+    # naive translit
+    naive_trans, _ = NaiveRepl.process(word)
+
+    # defining the language
+    language, _ = LanguageDetector.process(word)
+
+    # translit in a specific language
+    spec_trans, _ = SpecRepl.delegator(language, word)
+
+    if naive_trans != spec_trans:
+        return [spec_trans, naive_trans]
+    else:
+        return [spec_trans]
+
+
+def process(raw_lines):
     ready_pairs = []
 
     # for reporting
@@ -30,7 +46,7 @@ def process(raw_lines, eng_repls):
         language_detector_processing += lang_time
 
         # translit in a specific language
-        spec_trans, spec_time = SpecRepl.delegator(language, word, eng_repls)
+        spec_trans, spec_time = SpecRepl.delegator(language, word)
         specific_trans_processing += spec_time
 
         # write the pairs into a set
