@@ -1,4 +1,4 @@
-from mechanics.Repl import replacer
+from .mechanics.Repl import replacer
 from time import time
 
 

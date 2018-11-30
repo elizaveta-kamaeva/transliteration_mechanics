@@ -1,9 +1,9 @@
 from time import time
-import FranRepl
-import ItaRepl
-import GerRepl
-import JapRepl
-import EngRepl
+from . import FranRepl
+from . import ItaRepl
+from . import GerRepl
+from . import JapRepl
+from . import EngRepl
 
 
 def delegator(lang, word):

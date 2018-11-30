@@ -1,7 +1,7 @@
-from mechanics.Getter import get_word
-import NaiveRepl
-import LanguageDetector
-import SpecRepl
+from .mechanics.Getter import get_word
+from . import NaiveRepl
+from . import LanguageDetector
+from . import SpecRepl
 
 
 def translit(word):

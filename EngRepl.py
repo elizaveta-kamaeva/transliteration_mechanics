@@ -1,5 +1,5 @@
 from collections import OrderedDict
-from mechanics.Repl import replacer
+from .mechanics.Repl import replacer
 
 
 eng_file = open('eng_trans.txt', 'r', encoding='utf-8')
