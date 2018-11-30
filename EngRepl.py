@@ -80,8 +80,8 @@ def trans_literals(word):
     return new_word
 
 
-def process(word, eng_file):
-    words_replaced = trans_words(word, eng_file)
+def process(word):
+    words_replaced = trans_words(word)
     long_ngrams_replaced = trans_long_ngrams(words_replaced)
     condit_ngrams_replaced = trans_conditional(long_ngrams_replaced)
     short_ngrams_replaced = trans_short_ngrams(condit_ngrams_replaced)
