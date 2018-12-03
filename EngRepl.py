@@ -61,7 +61,7 @@ def trans_conditional(word):
         'au':'о',
         # empty letters
         '(?<=[rdgkzb])h(?!\Z)':'',
-        'e\Z':''})
+        '(?=\w{3})e\Z':''})
     new_word = replacer(word, condit_ngrams_dict)
     return new_word
 

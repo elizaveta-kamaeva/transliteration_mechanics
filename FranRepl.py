@@ -4,8 +4,8 @@ from mechanics.Repl import replacer
 
 def trans_long_ngrams(word):
     long_ngrams_dict = OrderedDict({
-        'eaux\Z':'о', 'beaut':'бьют', 'eau':'о',
-        'gnie':'йн', 'agne':'ейн', 'ouge':'уж', 'oix':'уа',
+        'eaux\Z':'о', 'beaut':'бьют', 'eau':'о', 'ogne\Z':'он',
+        'gnie':'йн', 'agne':'ейн', 'ouge':'уж', 'oix':'уа', 'iei':'ье',
         'oux':'о', '(?<=\w)qu[eéè]\Z':'к', 'ch':'ш'})
     new_word = replacer(word, long_ngrams_dict)
     return new_word

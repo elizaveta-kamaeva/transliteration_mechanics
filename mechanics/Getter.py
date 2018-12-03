@@ -4,8 +4,8 @@ from string import punctuation
 
 def get_word(line):
     #raw_word = line.strip().lower()
-    #raw_word = line.split(';')[1].strip().lower()
-    raw_word = line.split(';')[0].strip().lower()
+    raw_word = line.split(';')[1].strip().lower()
+    #raw_word = line.split(';')[0].strip().lower()
     # getting word no shorter than 2 characters
     word = re.search('[\w&].*[\w&]', raw_word)
     if word:

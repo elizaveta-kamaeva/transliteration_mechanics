@@ -62,7 +62,7 @@ def fr_trailer(word):
     fr_ngrams = {'[euioa]{3}',
                  '[euioa]{2}\w+[euioa]{2}\w',
                  'ouch', 'eur', 'ance', 'agne\Z',
-                 'ngie\Z', 'gnie\Z', 'oix\Z', 'ux\Z', 'oir\Z',
+                 'ngie\Z', 'gn\w{2}\Z', 'oix\Z', 'ux\Z', 'oir\Z',
                  "\Ad'", "\Al'", '\Ala\Z', '\Ale\Z',
                  'bell', 'lacoste',
                  '\A?les\Z', '\Ale\Z', '\Adu\Z', '\Ade\Z', '\Aet\Z',
@@ -71,7 +71,7 @@ def fr_trailer(word):
                  'ë', 'ï', 'ü', 'ÿ', 'ç', 'à'}
 
     fr_maygrams = {'\Ala\w+[euioay]{2}', 'gue',  '\wou(?!gh)', 'ou[^euioa -][euioa][^euioa]\Z',
-                   'ch\w*[euioay]{2}', 'au\Z'}
+                   'ch\w*[euioay]{2}', 'au\Z', 'que'}
 
     fr_stopgrams = {'sh', 'w', 'you', 'house', 'round'}
 
