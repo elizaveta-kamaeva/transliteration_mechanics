@@ -12,24 +12,25 @@ def trans_ends(word):
     ends_ngrams_dict = {'\Ay(?=[euioa])':'й',
                         '\Ae(?![euioay-])':'э',
                         '(?<=[euioa])y\Z':'й',
-                        '(?<![euioa])y\Z':'и'}
+                        '(?<![euioa])y\Z':'и',
+                        '(?<=[euioa])c(?=[euioay-])':'с'}
     new_word = replacer(word, ends_ngrams_dict)
     return new_word
 
 
 def trans_short_ngrams(word):
     short_ngrams_dict = {'qu':'кв', 'ch':'ч', 'sh':'ш', 'ck':'к', 'th':'т',
-                         'ph':'ф', 'sc':'ск', 'you':'ю'}
+                         'ph':'ф', 'sc':'ск', 'you':'ю', '\Ac':'к'}
     new_word = replacer(word, short_ngrams_dict)
     return new_word
 
 
 def trans_literals(word):
-    ngrams_dict = {'b':'б', 'c':'c', 'd':'д', 'f':'ф', 'g':'г', 'h':'х',
+    ngrams_dict = {'b':'б', 'c':'к', 'd':'д', 'f':'ф', 'g':'г', 'h':'х',
                    'j':'й', 'k':'к', 'l':'л', 'm':'м', 'n':'н', 'p':'п',
                    'q':'к', 'r':'р', 's':'с', 't':'т', 'v':'в', 'w':'в',
-                   'x':'х', 'z':'з', 'a+':'а',  'e+':'е',  'i+':'и',
-                   'u+':'у', 'o+':'о',  'y+':'и',
+                   'x':'х', 'z':'з', 'a':'а',  'e':'е',  'i':'и',
+                   'u':'у', 'o':'о',  'y':'и',
                    'ß':'сс', 'ö':'о', 'ä':'а', 'ü':'у', 'é':'е', 'è':'е',
                    'à':'а', 'ù':'у', 'ê':'е', 'â':'а', 'ô':'о', 'î':'и',
                    'û':'у', 'ë':'е', 'ï':'и', 'ÿ':'и', 'ç':'с'}

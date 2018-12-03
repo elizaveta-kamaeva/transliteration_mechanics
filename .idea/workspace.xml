@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c08096d-d4eb-4b72-b8cd-63abb31333ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LatRepl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Transliteration_Mechanics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Transliteration_Mechanics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EngRepl.py" beforeDir="false" afterPath="$PROJECT_DIR$/EngRepl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FranRepl.py" beforeDir="false" afterPath="$PROJECT_DIR$/FranRepl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LanguageDetector.py" beforeDir="false" afterPath="$PROJECT_DIR$/LanguageDetector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NaiveRepl.py" beforeDir="false" afterPath="$PROJECT_DIR$/NaiveRepl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Processor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Processor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecRepl.py" beforeDir="false" afterPath="$PROJECT_DIR$/SpecRepl.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eng_trans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eng_trans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mechanics/Getter.py" beforeDir="false" afterPath="$PROJECT_DIR$/mechanics/Getter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts/translit-mirbeer-trans.csv" beforeDir="false" afterPath="$PROJECT_DIR$/texts/translit-mirbeer-trans.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts/translit-mirbeer.csv" beforeDir="false" afterPath="$PROJECT_DIR$/texts/translit-mirbeer.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trans.py" beforeDir="false" afterPath="$PROJECT_DIR$/trans.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,27 +24,86 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1294157769">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="139" />
+          <entry key="py" value="440" />
+          <entry key="txt" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Python" value="579" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Processor.py">
+        <entry file="file://$PROJECT_DIR$/trans.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="680">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
               <folding>
-                <element signature="e#0#37#0" expanded="true" />
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SpecRepl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/trans.py">
+        <entry file="file://$PROJECT_DIR$/NaiveRepl.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+            <state relative-caret-position="420">
+              <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
               <folding>
-                <element signature="e#0#20#0" expanded="true" />
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mechanics/Getter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -41,29 +112,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eng_trans.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+            <state relative-caret-position="560">
+              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mechanics/Getter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/EngRepl.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="1720">
               <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+=======
+            <state relative-caret-position="280">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+>>>>>>> a4b820964462bfbe5886aad0ae361f3d9eb2e7bd
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -74,21 +138,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LanguageDetector.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="1220">
+              <caret line="63" column="42" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
-                <marker date="1542026082210" expanded="true" signature="2635:2637" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpecRepl.py">
+        <entry file="file://$PROJECT_DIR$/LatRepl.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+            <state relative-caret-position="1020">
+              <caret line="52" column="65" selection-start-line="52" selection-start-column="65" selection-end-line="52" selection-end-column="65" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ItaRepl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -96,8 +171,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FranRepl.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+            <state relative-caret-position="120">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -169,19 +247,20 @@
         <option value="$PROJECT_DIR$/JapRepl.py" />
         <option value="$PROJECT_DIR$/mechanics/Repl.py" />
         <option value="$PROJECT_DIR$/texts/test_words.txt" />
-        <option value="$PROJECT_DIR$/NaiveRepl.py" />
         <option value="$PROJECT_DIR$/ItaRepl.py" />
         <option value="$PROJECT_DIR$/GerRepl.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/texts/test_words-trans.csv" />
+        <option value="$PROJECT_DIR$/EngRepl.py" />
         <option value="$PROJECT_DIR$/SpecRepl.py" />
+        <option value="$PROJECT_DIR$/LatRepl.py" />
+        <option value="$PROJECT_DIR$/eng_trans.txt" />
+        <option value="$PROJECT_DIR$/NaiveRepl.py" />
         <option value="$PROJECT_DIR$/LanguageDetector.py" />
         <option value="$PROJECT_DIR$/FranRepl.py" />
         <option value="$PROJECT_DIR$/mechanics/Getter.py" />
         <option value="$PROJECT_DIR$/Processor.py" />
-        <option value="$PROJECT_DIR$/texts/test_words-trans.csv" />
         <option value="$PROJECT_DIR$/trans.py" />
-        <option value="$PROJECT_DIR$/eng_trans.txt" />
-        <option value="$PROJECT_DIR$/EngRepl.py" />
       </list>
     </option>
   </component>
@@ -195,12 +274,10 @@
       <profile-state>
         <expanded-state>
           <State />
-        </expanded-state>
-        <selected-state>
           <State>
-            <id>Buildout</id>
+            <id>Python</id>
           </State>
-        </selected-state>
+        </expanded-state>
       </profile-state>
     </entry>
   </component>
@@ -215,12 +292,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="Transliteration_Mechanics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Transliteration_Mechanics" type="462c0819:PsiDirectoryNode" />
+              <item name="transliteration_mechanics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="transliteration_mechanics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Transliteration_Mechanics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Transliteration_Mechanics" type="462c0819:PsiDirectoryNode" />
+              <item name="transliteration_mechanics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="transliteration_mechanics" type="462c0819:PsiDirectoryNode" />
               <item name="mechanics" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -234,7 +311,15 @@
     <property name="SearchEverywhereHistoryKey" value="todo&#9;FILE&#9;file://C:/Python37/Lib/idlelib/TODO.txt&#10;task&#9;ACTION&#9;tasks.toolbar.group" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Reporter" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Transliteration_Mechanics" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Transliteration_Mechanics" />
+      </console-settings>
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -372,7 +457,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\deer\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -385,21 +470,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14606741" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14595899" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Python Console" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Python Console" order="1" weight="0.3281075" />
       <window_info anchor="bottom" id="Message" order="2" />
-      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32922733" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.41926345" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32922733" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -426,6 +511,9 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added language detector &amp; architecture for specific translating" />
     <option name="LAST_COMMIT_MESSAGE" value="added language detector &amp; architecture for specific translating" />
@@ -436,29 +524,11 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
     <entry file="file://$PROJECT_DIR$/test_trans_italiano.txt" />
     <entry file="file://$PROJECT_DIR$/test_trans_german.txt" />
-    <entry file="file://C:/Python37/Lib/sre_parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="650" selection-start-line="650" selection-end-line="650" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python37/Lib/sre_compile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="763" selection-start-line="763" selection-end-line="763" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/Python37/Lib/sre_parse.py" />
+    <entry file="file://C:/Python37/Lib/sre_compile.py" />
     <entry file="file://$PROJECT_DIR$/test_trans_french.txt" />
     <entry file="file://$PROJECT_DIR$/test_words.txt" />
-    <entry file="file://C:/Python37/Lib/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="229" selection-start-line="229" selection-end-line="229" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/Python37/Lib/re.py" />
     <entry file="file://$PROJECT_DIR$/test_trans_english.txt" />
     <entry file="file://$PROJECT_DIR$/translit-food-new.txt" />
     <entry file="file://$PROJECT_DIR$/sport-translit-new.txt" />
@@ -504,13 +574,7 @@
     <entry file="file://$PROJECT_DIR$/texts/translit-food (4)-new.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/Всякое/sample_fixed.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Всякое/sample_fixed.py" />
     <entry file="file://$PROJECT_DIR$/texts/translit-food-new2.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -518,13 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mechanics/DetectLang.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
@@ -539,13 +596,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py" />
-    <entry file="file://$PROJECT_DIR$/ItaRepl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GerRepl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -553,20 +603,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NaiveRepl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python37/Lib/idlelib/TODO.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/Python37/Lib/idlelib/TODO.txt" />
     <entry file="file://$PROJECT_DIR$/texts/test_words-trans.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2380">
@@ -574,74 +611,118 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mechanics/DetectLang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Processor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="700">
+          <caret line="38" column="62" selection-start-line="38" selection-start-column="62" selection-end-line="38" selection-end-column="62" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/NaiveRepl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mechanics/Getter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="120">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LanguageDetector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1542026082210" expanded="true" signature="2635:2637" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpecRepl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FranRepl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trans.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eng_trans.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+        <state relative-caret-position="560">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EngRepl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1720">
-          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+        <state relative-caret-position="280">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LanguageDetector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1220">
+          <caret line="63" column="42" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LatRepl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="52" column="65" selection-start-line="52" selection-start-column="65" selection-end-line="52" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ItaRepl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FranRepl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpecRepl.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="1720">
+          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+=======
+        <state relative-caret-position="420">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+>>>>>>> a4b820964462bfbe5886aad0ae361f3d9eb2e7bd
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>

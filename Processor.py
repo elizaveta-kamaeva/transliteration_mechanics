@@ -34,7 +34,7 @@ def process(raw_lines, eng_repls):
         specific_trans_processing += spec_time
 
         # write the pairs into a set
-        ready_pairs.append((raw_word, naive_trans, language))
+        ready_pairs.append((raw_word, naive_trans))
         if naive_trans != spec_trans:
             ready_pairs.append((raw_word, spec_trans, language))
 
