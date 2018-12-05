@@ -1,12 +1,12 @@
 from time import time
-import FranRepl
-import ItaRepl
-import GerRepl
-import JapRepl
-import EngRepl
+from . import FranRepl
+from . import ItaRepl
+from . import GerRepl
+from . import JapRepl
+from . import EngRepl
 
 
-def delegator(lang, word, eng_repls):
+def delegator(lang, word):
     start_time = time()
     word = word.replace("'", '')
     if lang == 'fra':
@@ -18,7 +18,7 @@ def delegator(lang, word, eng_repls):
     elif lang == 'jap':
         trans_word = JapRepl.process(word)
     else:
-        trans_word = EngRepl.process(word, eng_repls)
+        trans_word = EngRepl.process(word)
     duration = time() - start_time
     return trans_word, duration
  

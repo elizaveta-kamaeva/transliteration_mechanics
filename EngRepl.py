@@ -1,8 +1,15 @@
+import os
 from collections import OrderedDict
-from mechanics.Repl import replacer
+from .mechanics.Repl import replacer
 
 
-def trans_words(word, eng_repls):
+dir = os.path.dirname(os.path.realpath(__file__))
+eng_file = open(os.path.join(dir, 'eng_trans.txt'), 'r', encoding='utf-8')
+eng_repls = eng_file.readlines()
+eng_file.close()
+
+
+def trans_words(word):
     words_dict = {}
     for pair in eng_repls:
         eng_word, ru_word = pair.split(':')
@@ -73,8 +80,8 @@ def trans_literals(word):
     return new_word
 
 
-def process(word, eng_file):
-    words_replaced = trans_words(word, eng_file)
+def process(word):
+    words_replaced = trans_words(word)
     long_ngrams_replaced = trans_long_ngrams(words_replaced)
     condit_ngrams_replaced = trans_conditional(long_ngrams_replaced)
     short_ngrams_replaced = trans_short_ngrams(condit_ngrams_replaced)
