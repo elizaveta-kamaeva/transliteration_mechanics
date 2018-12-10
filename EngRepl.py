@@ -1,7 +1,22 @@
+import os
 from collections import OrderedDict
-from mechanics.Repl import replacer
+from .mechanics.Repl import replacer
 
 
+
+dir = os.path.dirname(os.path.realpath(__file__))
+eng_file = open(os.path.join(dir, 'eng_trans.txt'), 'r', encoding='utf-8')
+eng_repls = eng_file.readlines()
+eng_file.close()
+
+
+def trans_words(word):
+    words_dict = {}
+    for pair in eng_repls:
+        eng_word, ru_word = pair.split(':')
+        words_dict[eng_word] = ru_word.strip()
+    new_word = replacer(word, words_dict)
+    return new_word
 def trans_separate(word):
     single_letters_dict = {'\Ab\Z':'би', '\Ac\Z':'си', '\Ad\Z':'ди', '\Af\Z':'эф',
                            '\Ag\Z':'джи', '\Ah\Z':'эйч', '\Aj\Z':'джей', '\Ak\Z':'кей',
@@ -12,16 +27,6 @@ def trans_separate(word):
                            '\Ae\Z':'и', '\Ay\Z':'вай'}
     new_word = replacer(word, single_letters_dict)
     return new_word
-
-
-def trans_words(word, eng_repls):
-    words_dict = {}
-    for pair in eng_repls:
-        eng_word, ru_word = pair.split(':')
-        words_dict[eng_word] = ru_word.strip()
-    new_word = replacer(word, words_dict)
-    return new_word
-
 
 def trans_long_ngrams(word):
     long_ngrams_dict = {'ay':'ей','[ao]ught':'от', 'ueu':'е',
@@ -85,9 +90,9 @@ def trans_literals(word):
     return new_word
 
 
-def process(word, eng_file):
-    sg_letters_replaced = trans_separate(word)
-    words_replaced = trans_words(sg_letters_replaced, eng_file)
+def process(word):
+	sg_letters_replaced = trans_separate(word)
+    words_replaced = trans_words(word)
     long_ngrams_replaced = trans_long_ngrams(words_replaced)
     condit_ngrams_replaced = trans_conditional(long_ngrams_replaced)
     short_ngrams_replaced = trans_short_ngrams(condit_ngrams_replaced)
