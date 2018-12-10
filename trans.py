@@ -1,7 +1,7 @@
 from sys import argv
 from time import time
 
-from . import  Processor
+from . import Processor
 
 total_processing = time()
 for infile_path in argv[1:]:

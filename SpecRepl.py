@@ -4,6 +4,7 @@ from . import ItaRepl
 from . import GerRepl
 from . import JapRepl
 from . import EngRepl
+from . import LatRepl
 
 
 def delegator(lang, word):

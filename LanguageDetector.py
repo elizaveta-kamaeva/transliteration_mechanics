@@ -80,7 +80,8 @@ def fr_trailer(word):
 
 
 def lat_trailer(word):
-    lat_ngrams = {'a\Z', 'u[ms]\Z', 'ae\Z'}
+    lat_ngrams = {'y\w+y',
+                  'a\Z', 'u[ms]\Z', 'ae\Z'}
 
     lat_maygrams = {'c', 'x'}
 

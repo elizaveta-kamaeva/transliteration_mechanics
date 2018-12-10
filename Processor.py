@@ -52,12 +52,9 @@ def process(raw_lines):
         specific_trans_processing += spec_time
 
         # write the pairs into a set
-        '''
-        ready_pairs.append((raw_word, naive_trans))
+        ready_pairs.append((raw_word, naive_trans, language))
         if naive_trans != spec_trans:
             ready_pairs.append((raw_word, spec_trans, language))
-        '''
-        ready_pairs.append((raw_word, spec_trans, language))
         # progress report each 200 lines
         n += 1
         if n % 200 == 0:

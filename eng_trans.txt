@@ -1,3 +1,5 @@
+service:сервис
+sable:сейбл
 new:нью
 air:эйр
 house:хаус
@@ -42,12 +44,13 @@ cush:куш
 lum:люм
 luc:люц
 lux:люкс
+surf:серф
 sur:сюр
-ture:чур
+ture:чер
 tion:шен
 ssion:шн
 ight:айт
-ion\Z:ен
+(?<=\w{3})ion\Z:ен
 tient:шент
 iere:ьер
 down:даун

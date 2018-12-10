@@ -1,5 +1,4 @@
-from mechanics.Repl import replacer
-from time import time
+from .mechanics.Repl import replacer
 
 
 def trans_separate(word):
@@ -26,7 +25,8 @@ def condit_ngrams(word):
                           '\Ay(?=[euioa])':'й',
                           '\Ae(?![euioay-])':'э',
                           '(?<=[euioa])y\Z':'й',
-                          '(?<![euioa])y\Z':'и'}
+                          '(?<![euioa])y\Z':'и',
+                          '(?<=\w{3})e\Z': ''}
     new_word = replacer(word, condit_ngrams_dict)
     return new_word
 
