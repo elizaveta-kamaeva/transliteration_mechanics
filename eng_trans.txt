@@ -26,6 +26,8 @@ white:вайт
 sugar:шугар
 high:хай
 brew:брю
+mum:мам
+love:лав
 loreal:лореаль
 longue:лонг
 marlborough:мальборо

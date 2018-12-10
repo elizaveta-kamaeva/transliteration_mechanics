@@ -1,7 +1,8 @@
 from sys import argv
 from time import time
 
-from . import Processor
+#from . import Processor
+import Processor
 
 total_processing = time()
 for infile_path in argv[1:]:
@@ -9,9 +10,7 @@ for infile_path in argv[1:]:
     raw_lines = infile.readlines()
     infile.close()
 
-
     ready_lines, n, periods = Processor.process(raw_lines)
-
 
     outfile = open('texts\\' + infile_path.replace('.csv', '-trans.csv'), 'w', encoding='utf-8')
     outfile.write('brand,alias\n')
