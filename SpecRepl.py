@@ -5,6 +5,14 @@ from . import GerRepl
 from . import JapRepl
 from . import EngRepl
 from . import LatRepl
+'''
+import FranRepl
+import ItaRepl
+import GerRepl
+import JapRepl
+import EngRepl
+import LatRepl
+'''
 
 
 def delegator(lang, word):

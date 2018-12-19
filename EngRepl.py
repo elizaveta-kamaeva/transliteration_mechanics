@@ -1,7 +1,8 @@
 import os
+import re
 from collections import OrderedDict
-#from .mechanics.Repl import replacer
-from mechanics.Repl import replacer
+from .mechanics.Repl import replacer
+#from mechanics.Repl import replacer
 
 
 dir = os.path.dirname(os.path.realpath(__file__))
@@ -20,15 +21,22 @@ def trans_words(word):
 
 
 def trans_separate(word):
-    single_letters_dict = {'\Ab\Z':'би', '\Ac\Z':'си', '\Ad\Z':'ди', '\Af\Z':'эф',
-                           '\Ag\Z':'джи', '\Ah\Z':'эйч', '\Aj\Z':'джей', '\Ak\Z':'кей',
-                           '\Al\Z':'эль', '\Am\Z':'эм', '\An\Z':'эн', '\Ap\Z':'пи',
-                           '\Aq\Z':'кью', '\Ar\Z':'эр', '\As\Z':'эс', '\At\Z':'ти',
-                           '\Av\Z':'ви', '\Aw\Z':'дабл ю', '\Ax\Z':'икс', '\Az\Z':'зед',
-                           '\Aa\Z':'эй', '\Ao\Z':'оу', '\Ai\Z':'ай', '\Au\Z':'ю',
-                           '\Ae\Z':'и', '\Ay\Z':'вай'}
-    new_word = replacer(word, single_letters_dict)
-    return new_word
+    single_letters_dict = {'b':'би', 'c':'си', 'd':'ди', 'f':'эф',
+                           'g':'джи', 'h':'эйч', 'j':'джей', 'k':'кей',
+                           'l':'эль', 'm':'эм', 'n':'эн', 'p':'пи',
+                           'q':'кью', 'r':'эр', 's':'эс', 't':'ти',
+                           'v':'ви', 'w':'дабл ю', 'x':'икс', 'z':'зед',
+                           'a':'эй', 'o':'оу', 'i':'ай', 'u':'ю',
+                           'e':'и', 'y':'вай'}
+    if re.fullmatch('[^euioay]+', word):
+        word = ' '.join(word)
+        new_word = replacer(word, single_letters_dict)
+        return new_word
+    elif re.search('(\\s|^|-|\.)\w(\\s|$|-|\.)', word):
+        new_word = replacer(word, single_letters_dict)
+        return new_word
+    else:
+        return word
 
 def trans_long_ngrams(word):
     long_ngrams_dict = {'ay':'ей','[ao]ught':'от', 'ueu':'е',

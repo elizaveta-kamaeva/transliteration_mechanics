@@ -23,14 +23,18 @@ double:дабл
 brown:браун
 fruit:фрут
 white:вайт
+great:грейт
+plus:плюс
 sugar:шугар
 high:хай
+guy:гай
 brew:брю
 mum:мам
 love:лав
 loreal:лореаль
 longue:лонг
 marlborough:мальборо
+iphone:айфон
 \Ato\Z:ту
 \Aand\Z:энд
 \Aale\Z:эль
@@ -38,6 +42,7 @@ marlborough:мальборо
 (\A|-)eng:инг
 (\A|-)all:ол
 (\A|-)rea:реа
+(\A|-)up:ап
 a?ire(\Z|-):аир
 cial(\Z|-):шл
 thi:зи
@@ -62,7 +67,6 @@ your:ер
 all(?!o):олл
 who:ху
 zoo:зоо
-up:ап
 (?<!ju)ice:айс
 auto:авто
 summ:самм

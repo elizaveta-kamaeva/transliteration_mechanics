@@ -2,7 +2,13 @@ from .mechanics.Getter import get_word
 from . import NaiveRepl
 from . import LanguageDetector
 from . import SpecRepl
-
+'''
+from mechanics.Getter import get_word
+import NaiveRepl
+import LanguageDetector
+import SpecRepl
+import Separator
+'''
 
 def translit(word):
     # naive translit
@@ -20,6 +26,7 @@ def translit(word):
         return [spec_trans]
 
 
+existing_words = set()
 def process(raw_lines):
     ready_pairs = []
     existing_words = set()
@@ -51,10 +58,17 @@ def process(raw_lines):
         spec_trans, spec_time = SpecRepl.delegator(language, word)
         specific_trans_processing += spec_time
 
-        # write the pairs into a set
-        ready_pairs.append((raw_word, naive_trans, language))
-        if naive_trans != spec_trans:
-            ready_pairs.append((raw_word, spec_trans, language))
+        if not naive_trans in existing_words:
+            existing_words.add(naive_trans)
+            # write the pairs into a set
+            ready_pairs.append((raw_word, naive_trans))
+            words_by_one_naive, existing_words = Separator.process(raw_word, naive_trans, existing_words)
+            ready_pairs.extend(words_by_one_naive)
+            if naive_trans != spec_trans and not spec_trans in existing_words:
+                existing_words.add(spec_trans)
+                ready_pairs.append((raw_word, spec_trans))
+                words_by_one_spec, existing_words = Separator.process(raw_word, spec_trans, existing_words)
+                ready_pairs.extend(words_by_one_spec)
         # progress report each 200 lines
         n += 1
         if n % 200 == 0:

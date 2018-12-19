@@ -1,5 +1,6 @@
 from time import time
 from .mechanics.Repl import replacer
+#from mechanics.Repl import replacer
 
 
 def trans_long_ngrams(word):
