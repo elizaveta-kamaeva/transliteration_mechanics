@@ -1,8 +1,8 @@
 import os
 import re
 from collections import OrderedDict
-from .mechanics.Repl import replacer
-#from mechanics.Repl import replacer
+#from .mechanics.Repl import replacer
+from mechanics.Repl import replacer, replace_abbreviations
 
 
 dir = os.path.dirname(os.path.realpath(__file__))
@@ -28,15 +28,8 @@ def trans_separate(word):
                            'v':'ви', 'w':'дабл ю', 'x':'икс', 'z':'зед',
                            'a':'эй', 'o':'оу', 'i':'ай', 'u':'ю',
                            'e':'и', 'y':'вай'}
-    if re.fullmatch('[^euioay]+', word):
-        word = ' '.join(word)
-        new_word = replacer(word, single_letters_dict)
-        return new_word
-    elif re.search('(\\s|^|-|\.)\w(\\s|$|-|\.)', word):
-        new_word = replacer(word, single_letters_dict)
-        return new_word
-    else:
-        return word
+    new_word = replace_abbreviations(word, single_letters_dict)
+    return new_word
 
 def trans_long_ngrams(word):
     long_ngrams_dict = {'ay':'ей','[ao]ught':'от', 'ueu':'е',
