@@ -1,4 +1,5 @@
 from time import time
+'''
 from . import FranRepl
 from . import ItaRepl
 from . import GerRepl
@@ -12,7 +13,7 @@ import GerRepl
 import JapRepl
 import EngRepl
 import LatRepl
-'''
+
 
 
 def delegator(lang, word):

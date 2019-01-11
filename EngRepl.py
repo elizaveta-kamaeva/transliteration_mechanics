@@ -1,7 +1,6 @@
 import os
-import re
 from collections import OrderedDict
-#from .mechanics.Repl import replacer
+#from .mechanics.Repl import replacer, replace_abbreviations
 from mechanics.Repl import replacer, replace_abbreviations
 
 

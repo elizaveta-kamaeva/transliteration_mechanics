@@ -1,14 +1,15 @@
+'''
 from .mechanics.Getter import get_word
 from . import NaiveRepl
 from . import LanguageDetector
 from . import SpecRepl
 '''
 from mechanics.Getter import get_word
+from mechanics import Separator
 import NaiveRepl
 import LanguageDetector
 import SpecRepl
-import Separator
-'''
+
 
 def translit(word):
     # naive translit
