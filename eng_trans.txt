@@ -31,6 +31,8 @@ guy:гай
 brew:брю
 mum:мам
 love:лав
+mr:мистер
+dr:доктор
 loreal:лореаль
 longue:лонг
 marlborough:мальборо

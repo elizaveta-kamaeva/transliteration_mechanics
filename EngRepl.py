@@ -98,9 +98,9 @@ def trans_literals(word):
 
 
 def process(word):
-    sg_letters_replaced = trans_separate(word)
-    words_replaced = trans_words(sg_letters_replaced)
-    long_ngrams_replaced = trans_long_ngrams(words_replaced)
+    words_replaced = trans_words(word)
+    sg_letters_replaced = trans_separate(words_replaced)
+    long_ngrams_replaced = trans_long_ngrams(sg_letters_replaced)
     condit_ngrams_replaced = trans_conditional(long_ngrams_replaced)
     short_ngrams_replaced = trans_short_ngrams(condit_ngrams_replaced)
     literals_replaced = trans_literals(short_ngrams_replaced)

@@ -13,12 +13,12 @@ def get_word(line):
     else:
         return raw_word, None
 
-    # check if the unpuncted word is less than 2 characters
+    # check if the unpuncted word is equal or less than 2 characters
     word = punc_repl(word)
     if len(word) < 3:
         return raw_word, None
-
-    return raw_word, word
+    else:
+        return raw_word, word
 
 
 def punc_repl(word_string):
@@ -26,8 +26,8 @@ def punc_repl(word_string):
     # except '&' because we replace it later
     # except '-' because be leave it that way
     # except "'" because it helps us to detect French
-    # dot at "dr." & "mr." we replace with space
-    word_string = re.sub('(?<=[dm])r\.', 'р ', word_string)
+    # dot at "dr." & "mr." we replace with a space
+    word_string = re.sub('(?<=[dm]r)\.', ' ', word_string)
     for letter in re.sub("[&'-]", '', punctuation):
         punc_dict[ord(letter)] = None
     new_string = re.sub('&', ' энд ', word_string.translate(punc_dict))

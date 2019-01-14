@@ -45,8 +45,9 @@ def process(raw_lines):
         # if the line is inappropriate, take another line
         if not word or word in existing_words:
             continue
+        else:
+            existing_words.add(raw_word)
 
-        existing_words.add(raw_word)
         # naive translit
         naive_trans, naive_time = NaiveRepl.process(word)
         naive_trans_processing += naive_time
