@@ -1,5 +1,5 @@
-import TranslitFullWord
+import TranslitMaker
 
 
-transes = TranslitFullWord.transer('superclair')
+transes = TranslitMaker.trans_full_string('superclair')
 print(transes)

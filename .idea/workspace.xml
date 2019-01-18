@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3451a9b-a470-47b7-8df5-4505afa6ee62" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/TranslitFullWord.py" beforeDir="false" afterPath="$PROJECT_DIR$/TranslitFullWord.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Separator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TranslitFullWord.py" beforeDir="false" afterPath="$PROJECT_DIR$/TranslitMaker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testers/processor_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/testers/processor_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testers/separator_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/testers/separator_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts/test_words-trans.csv" beforeDir="false" afterPath="$PROJECT_DIR$/texts/test_words-trans.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/trans.py" beforeDir="false" afterPath="$PROJECT_DIR$/trans.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,21 +21,33 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/trans.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+            <state relative-caret-position="480">
+              <caret line="42" column="27" lean-forward="true" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
-                <marker date="1547809319827" expanded="true" signature="1621:1651" ph="..." />
+                <marker date="1547818901989" expanded="true" signature="1034:1064" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TranslitFullWord.py">
+        <entry file="file://$PROJECT_DIR$/TransCollector.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            <state relative-caret-position="500">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TranslitMaker.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+              <folding>
+                <element signature="e#125#131#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,13 +83,16 @@
         <option value="$PROJECT_DIR$/SpecRepl.py" />
         <option value="$PROJECT_DIR$/mechanics/Getter.py" />
         <option value="$PROJECT_DIR$/mechanics/Separator.py" />
-        <option value="$PROJECT_DIR$/testers/separator_test.py" />
         <option value="$PROJECT_DIR$/testers/processor_test.py" />
         <option value="$PROJECT_DIR$/mechanics/Repl.py" />
         <option value="$PROJECT_DIR$/testers/trans_test" />
         <option value="$PROJECT_DIR$/Separator.py" />
         <option value="$PROJECT_DIR$/Processor.py" />
         <option value="$PROJECT_DIR$/TranslitFullWord.py" />
+        <option value="$PROJECT_DIR$/testers/separator_test.py" />
+        <option value="$PROJECT_DIR$/Translitor.py" />
+        <option value="$PROJECT_DIR$/TransCollector.py" />
+        <option value="$PROJECT_DIR$/TranslitMaker.py" />
         <option value="$PROJECT_DIR$/trans.py" />
       </list>
     </option>
@@ -462,13 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testers/separator_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testers/processor_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -483,24 +496,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testers/trans_test">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python37/Lib/re.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="212" selection-start-line="212" selection-end-line="212" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Separator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -521,20 +520,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TranslitFullWord.py">
+    <entry file="file://$PROJECT_DIR$/../helper/get_colors.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testers/trans_test">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        <state relative-caret-position="80">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Separator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testers/separator_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TranslitMaker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+          <folding>
+            <element signature="e#125#131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TransCollector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/trans.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+        <state relative-caret-position="480">
+          <caret line="42" column="27" lean-forward="true" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
-            <marker date="1547809319827" expanded="true" signature="1621:1651" ph="..." />
+            <marker date="1547818901989" expanded="true" signature="1034:1064" ph="..." />
           </folding>
         </state>
       </provider>

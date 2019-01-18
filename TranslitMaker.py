@@ -4,10 +4,11 @@ from . import NaiveRepl
 from . import LanguageDetector
 from . import SpecRepl
 '''
+import re
+
 from langage_modules import NaiveRepl
 from mechanics import SpecRepl
 import LanguageDetector
-
 
 
 def translit(word):
@@ -27,7 +28,7 @@ def translit(word):
 
 
 existing_words = set()
-def transer(word):
+def trans_full_string(word):
     global existing_words
 
     # if the line is inappropriate, take another line
@@ -54,3 +55,19 @@ def transer(word):
             transes.append(spec_trans)
 
     return transes
+
+
+def trans_separate(raw_str, trans_str, existing_words):
+    sg_words_dict = {}
+    raw_list = re.split('[\s.-]', raw_str)
+    trans_list = re.split('[\s.-]', trans_str)
+    # if length of foreign word is equal to length of cyrillic word
+    if len(raw_list) == len(trans_list):
+        for i in range(len(raw_list)):
+            eng_word = raw_list[i]
+            rus_word = trans_list[i]
+            # check if we know the cyrillic word and it's length is more than 2
+            if len(rus_word) > 2 and rus_word not in existing_words:
+                sg_words_dict[rus_word] = eng_word
+
+        return sg_words_dict

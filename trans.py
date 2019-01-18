@@ -2,8 +2,7 @@ from sys import argv
 from time import time
 import re
 
-from TranslitFullWord import transer
-from Separator import separate_words
+import TransCollector
 from mechanics.Getter import get_raw, get_word2process
 
 
@@ -15,29 +14,14 @@ def get_lines(infile_path):
     return raw_lines
 
 
-def get_transes(raw_lines):
-    # produce translit
-    ready_dict = {}
-    n = 0
-    for line in raw_lines:
+def get_word(lines):
+    # gets a raw word and a word to process further
+    word_dict = {}
+    for line in lines:
         raw_word = get_raw(line)
         word = get_word2process(line)
-        transes = transer(word)
-        if transes:
-            for trans in transes:
-                ready_dict[trans] = raw_word
-
-                # get translit for a singular word
-                sg_transes = separate_words(word, trans, set(ready_dict.keys()))
-                if sg_transes:
-                    for sg_trans in sg_transes.keys():
-                        ready_dict[sg_trans] = sg_transes[sg_trans]
-
-        # progress report each 200 lines
-        n += 1
-        if n % 200 == 0:
-            print('{} lines done'.format(n))
-    return ready_dict
+        word_dict[raw_word] = word
+    return word_dict
 
 
 def write_transes(trans_dict, infile_path):
@@ -53,10 +37,11 @@ def write_transes(trans_dict, infile_path):
 total_processing = time()
 lines = []
 for infile_path in argv[1:]:
-# for infile_path in ['test_words.txt']:
     print('Progress:')
+    n = 0
     lines = get_lines(infile_path)
-    trans_dict = get_transes(lines)
+    words = get_word(lines)
+    trans_dict = TransCollector.get_transes(words)
     write_transes(trans_dict, infile_path)
 
     print("I've finished.")

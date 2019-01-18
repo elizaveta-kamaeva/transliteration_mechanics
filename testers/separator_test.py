@@ -1,5 +1,5 @@
-import Separator
+import TranslitMaker
 
 
-sg_word = Separator.separate_words('tamagochi huavei', 'тамагочи хуавей', '')
+sg_word = TranslitMaker.trans_separate('tamagochi huavei', 'тамагочи хуавей', '')
 print(sg_word)
