@@ -18,7 +18,7 @@ def replace_abbreviations(word_string, ngrams_dict):
         sg_letter_found = re.search('(\\s|^|-|\.)\w(\\s|$|-|\.)', word_list[i])
 
         # checking words consisting of consonants only
-        consonants_word_found = re.fullmatch('[^euioay]+', word_list[i])
+        consonants_word_found = re.fullmatch('[^euioayыаеэяиюу]+', word_list[i])
         if sg_letter_found or consonants_word_found:
             # if any found, replacing it and adding spaces on the both sides of a letter
             for ngram in ngrams_dict:

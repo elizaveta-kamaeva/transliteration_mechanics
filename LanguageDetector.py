@@ -96,7 +96,6 @@ def lat_trailer(word):
 
 
 def process(word):
-    start_time = time()
     word = re.sub('\d+([-\',.]\d+)?', '', word)
     prob_list = [it_trailer(word), de_trailer(word),
                  fr_trailer(word), jp_trailer(word),
@@ -107,5 +106,4 @@ def process(word):
         word_lang = 'en'
     else:
         word_lang = lang_list[prob_list.index(max_prob)]
-    duration = time() - start_time
-    return word_lang, duration
+    return word_lang

@@ -34,6 +34,7 @@ def condit_ngrams(word):
 
 def trans_short_ngrams(word):
     short_ngrams_dict = {'qu':'кв', 'ch':'ч', 'sh':'ш', 'ck':'к', 'th':'т',
+                         'ju': 'ю', 'ja': 'я', 'je': 'е', 'jo': 'е',
                          'ph':'ф', 'sc':'ск', 'you':'ю'}
     new_word = replacer(word, short_ngrams_dict)
     return new_word

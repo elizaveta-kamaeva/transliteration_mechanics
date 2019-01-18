@@ -28,11 +28,13 @@ plus:плюс
 sugar:шугар
 high:хай
 guy:гай
+walk:волк
 brew:брю
 mum:мам
 love:лав
 mr:мистер
 dr:доктор
+people:пипл
 loreal:лореаль
 longue:лонг
 marlborough:мальборо

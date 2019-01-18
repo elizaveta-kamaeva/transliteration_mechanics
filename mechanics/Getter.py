@@ -2,23 +2,28 @@ import re
 from string import punctuation
 
 
-def get_word(line):
-    #raw_word = line.strip().lower()
-    raw_word = line.split(';')[1].strip().lower()
-    #raw_word = line.split(';')[0].strip().lower()
-    # getting word no shorter than 2 characters
+def get_raw(line):
+    # get raw word to show it as a first item os a pair
+    raw_word = line.strip().lower()
+    # raw_word = line.split(';')[1].strip().lower()
+    # raw_word = line.split(';')[0].strip().lower()
+    return raw_word
+
+
+def get_word2process(raw_word):
+    # get word no shorter than 2 characters
     word = re.search('[\w&].*[\w&]', raw_word)
     if word:
         word = word.group()
     else:
-        return raw_word, None
+        return None
 
-    # check if the unpuncted word is equal or less than 2 characters
+    # replace punctuation
     word = punc_repl(word)
     if len(word) < 3:
-        return raw_word, None
+        return None
     else:
-        return raw_word, word
+        return word
 
 
 def punc_repl(word_string):

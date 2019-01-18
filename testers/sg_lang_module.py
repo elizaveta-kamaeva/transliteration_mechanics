@@ -1,4 +1,4 @@
-from EngRepl import process
+from langage_modules.EngRepl import process
 
 new_word = process(input('Tested word: '))
 while new_word:
