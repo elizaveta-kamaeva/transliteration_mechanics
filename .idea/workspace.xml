@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3451a9b-a470-47b7-8df5-4505afa6ee62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TranslitFullWord.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/123.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EngRepl.py" beforeDir="false" afterPath="$PROJECT_DIR$/langage_modules/EngRepl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FranRepl.py" beforeDir="false" afterPath="$PROJECT_DIR$/langage_modules/FranRepl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GerRepl.py" beforeDir="false" afterPath="$PROJECT_DIR$/langage_modules/GerRepl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ItaRepl.py" beforeDir="false" afterPath="$PROJECT_DIR$/langage_modules/ItaRepl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JapRepl.py" beforeDir="false" afterPath="$PROJECT_DIR$/langage_modules/JapRepl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LanguageDetector.py" beforeDir="false" afterPath="$PROJECT_DIR$/LanguageDetector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LatRepl.py" beforeDir="false" afterPath="$PROJECT_DIR$/langage_modules/LatRepl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NaiveRepl.py" beforeDir="false" afterPath="$PROJECT_DIR$/langage_modules/NaiveRepl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpecRepl.py" beforeDir="false" afterPath="$PROJECT_DIR$/SpecRepl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng_trans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/langage_modules/eng_trans.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mechanics/Getter.py" beforeDir="false" afterPath="$PROJECT_DIR$/mechanics/Getter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mechanics/Repl.py" beforeDir="false" afterPath="$PROJECT_DIR$/mechanics/Repl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mechanics/Separator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Separator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testers/separator_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/testers/separator_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testers/sg_lang_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/testers/sg_lang_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/texts/test_words-trans.csv" beforeDir="false" afterPath="$PROJECT_DIR$/texts/test_words-trans.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/texts/test_words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/texts/test_words.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trans.py" beforeDir="false" afterPath="$PROJECT_DIR$/trans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Processor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Processor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Separator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Separator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecRepl.py" beforeDir="false" afterPath="$PROJECT_DIR$/mechanics/SpecRepl.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,10 +18,10 @@
         <entry file="file://$PROJECT_DIR$/trans.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="980">
-              <caret line="55" column="40" lean-forward="true" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
+              <caret line="55" column="40" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
-                <marker date="1547808551540" expanded="true" signature="1620:1650" ph="..." />
+                <marker date="1547808739102" expanded="true" signature="1620:1650" ph="..." />
               </folding>
             </state>
           </provider>
@@ -50,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/TranslitFullWord.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-140">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#125#162#0" expanded="true" />
               </folding>
@@ -551,10 +532,10 @@
     <entry file="file://$PROJECT_DIR$/trans.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="980">
-          <caret line="55" column="40" lean-forward="true" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
+          <caret line="55" column="40" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
-            <marker date="1547808551540" expanded="true" signature="1620:1650" ph="..." />
+            <marker date="1547808739102" expanded="true" signature="1620:1650" ph="..." />
           </folding>
         </state>
       </provider>
@@ -562,7 +543,7 @@
     <entry file="file://$PROJECT_DIR$/TranslitFullWord.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-140">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="e#125#162#0" expanded="true" />
           </folding>
