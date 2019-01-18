@@ -7,8 +7,7 @@ from . import SpecRepl
 import re
 
 from langage_modules import NaiveRepl
-from mechanics import SpecRepl
-import LanguageDetector
+from mechanics import SpecRepl, LanguageDetector
 
 
 def translit(word):

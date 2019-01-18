@@ -1,7 +1,7 @@
 import re
 from time import time
 #from .mechanics.DetectLang import trail
-from mechanics.DetectLang import trail
+from .DetectLang import trail
 
 
 def it_trailer(word):

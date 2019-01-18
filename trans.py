@@ -2,7 +2,7 @@ from sys import argv
 from time import time
 import re
 
-import TransCollector
+from TransCollector import get_transes
 from mechanics.Getter import get_raw, get_word2process
 
 
@@ -38,10 +38,9 @@ total_processing = time()
 lines = []
 for infile_path in argv[1:]:
     print('Progress:')
-    n = 0
     lines = get_lines(infile_path)
     words = get_word(lines)
-    trans_dict = TransCollector.get_transes(words)
+    trans_dict = get_transes(words)
     write_transes(trans_dict, infile_path)
 
     print("I've finished.")
