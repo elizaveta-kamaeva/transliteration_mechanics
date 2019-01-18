@@ -43,7 +43,7 @@ def get_transes(raw_lines):
 def write_transes(trans_dict, infile_path):
     # write translit into a file
     outfile = open('texts\\' + re.sub('\.(txt|csv)$', '-trans.csv', infile_path), 'w', encoding='utf-8')
-    outfile.write('brand,alias\n')
+    outfile.write('brand\talias\n')
 
     for word in trans_dict.keys():
         outfile.write('{0}\t{1}\n'.format(trans_dict[word], word))
