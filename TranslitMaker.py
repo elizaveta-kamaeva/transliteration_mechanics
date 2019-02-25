@@ -6,7 +6,7 @@ from . import SpecRepl
 '''
 import re
 
-from langage_modules import NaiveRepl
+from language_modules import NaiveRepl
 from mechanics import SpecRepl, LanguageDetector
 
 
@@ -60,7 +60,7 @@ def trans_separate(raw_str, trans_str, existing_words):
     sg_words_dict = {}
     raw_list = re.split('[\s.-]', raw_str)
     trans_list = re.split('[\s.-]', trans_str)
-    # if length of foreign word is equal to length of cyrillic word
+    # if length of a foreign word is equal to length of a cyrillic word
     if len(raw_list) == len(trans_list):
         for i in range(len(raw_list)):
             eng_word = raw_list[i]

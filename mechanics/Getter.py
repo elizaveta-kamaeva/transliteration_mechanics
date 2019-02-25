@@ -4,8 +4,8 @@ from string import punctuation
 
 def get_raw(line):
     # get raw word to show it as a first item os a pair
-    raw_word = line.strip().lower()
-    # raw_word = line.split(';')[1].strip().lower()
+    # raw_word = line.strip().lower()
+    raw_word = line.split(';')[1].strip().lower()
     # raw_word = line.split(';')[0].strip().lower()
     return raw_word
 

@@ -19,7 +19,7 @@ def get_word(lines):
     word_dict = {}
     for line in lines:
         raw_word = get_raw(line)
-        word = get_word2process(line)
+        word = get_word2process(raw_word)
         word_dict[raw_word] = word
     return word_dict
 
@@ -27,23 +27,23 @@ def get_word(lines):
 def write_transes(trans_dict, infile_path):
     # write translit into a file
     outfile = open('texts\\' + re.sub('\.(txt|csv)$', '-trans.csv', infile_path), 'w', encoding='utf-8')
-    outfile.write('brand\talias\n')
+    outfile.write('alias;brand\n')
 
     for word in trans_dict.keys():
-        outfile.write('{0}\t{1}\n'.format(trans_dict[word], word))
+        outfile.write('{1};{0}\n'.format(trans_dict[word], word))
     outfile.close()
 
 
 total_processing = time()
-lines = []
-for infile_path in argv[1:]:
-    print('Progress:')
-    lines = get_lines(infile_path)
-    words = get_word(lines)
-    trans_dict = get_transes(words)
-    write_transes(trans_dict, infile_path)
+infile_path = '221-translit.txt'
 
-    print("I've finished.")
-    print('Number of lines processed:', len(lines))
-    print('Total working time: {} seconds'.format(total_processing))
-    print('Speed: {} words per second'.format(round(len(lines) / (time() - total_processing))))
+print('Progress:')
+lines = get_lines(infile_path)
+words = get_word(lines)
+trans_dict = get_transes(words)
+write_transes(trans_dict, infile_path)
+
+print("I've finished.")
+print('Number of lines processed:', len(lines))
+print('Total working time: {} seconds'.format(total_processing))
+print('Speed: {} words per second'.format(round(len(lines) / (time() - total_processing))))

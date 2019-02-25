@@ -6,7 +6,7 @@ from . import JapRepl
 from . import EngRepl
 from . import LatRepl
 '''
-from langage_modules import EngRepl, FranRepl, GerRepl, ItaRepl, JapRepl, LatRepl
+from language_modules import EngRepl, FranRepl, GerRepl, ItaRepl, JapRepl, LatRepl
 
 
 def delegator(lang, word):

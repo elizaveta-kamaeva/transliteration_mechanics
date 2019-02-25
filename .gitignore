@@ -1,6 +1,5 @@
 .idea/*
 *.pyc
-*.csv
 *.ipynb*
 *__pycache__*
 *build*
@@ -8,4 +7,3 @@
 *.cpp
 *.egg-info
 *.so
-texts/*

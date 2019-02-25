@@ -1,0 +1,4 @@
+from trans import get_transes
+
+transes = get_transes(['abrau durso'])
+print(transes)
